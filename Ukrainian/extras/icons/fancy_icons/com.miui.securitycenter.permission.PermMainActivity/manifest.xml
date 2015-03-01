@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Icon version="1" frameRate="0" width="136" height="136" resDensity="320" extraResourcesDensity="240,320,480" extraScaleByDensity="480:1.412" useVariableUpdater="none">
+    <Image src="license_manage.png" />
+</Icon>

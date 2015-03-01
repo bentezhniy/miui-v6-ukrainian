@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cabl_level_values">
+        <item>निम्न</item>
+        <item>मध्‍यम</item>
+        <item>उच्‍च</item>
+        <item>स्‍वयं</item>
+    </string-array>
+</resources>

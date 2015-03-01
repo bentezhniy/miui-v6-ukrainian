@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сервіс ANT HAL</string>
+    <string name="permdesc_antradio">Дозволяє додатком безпосередньо налаштувати сервіс радіо ANT.</string>
+    <string name="permlab_antradio">Використовувати пристрій ANT</string>
+    <string name="permdesc_ant">"Дозволяє застосункам зв'язуватися з пристроями ANT, використовуючи службу проксі. Шкідливі програми можуть отримувати і передавати інформацію на ANT пристрій без вашого відома."</string>
+    <string name="permlab_ant">Використовувати інтерфейс сервісу ANT</string>
+    <string name="permdesc_antAdmin">Дозволяє застосункам безпосередньо налаштувати сервіс радіо ANT через службу проксі.</string>
+    <string name="permlab_antAdmin">Змінити налаштування сервісу ANT</string>
+</resources>

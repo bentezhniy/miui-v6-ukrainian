@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Icon version="1" frameRate="0" width="136" height="136" resDensity="320" extraResourcesDensity="240,320,480" extraScaleByDensity="480:1.412" useVariableUpdater="none">
+    <VariableBinders>
+        <BroadcastBinder action="miui.intent.action.ANTISPAM_UPDATE" >
+            <Variable name="has_intercept" type="int" extra="has_intercept" default="0"/>
+        </BroadcastBinder>
+    </VariableBinders>
+
+    <Image visibility="not(#has_intercept)" src="normal.png" />
+    <Image visibility="#has_intercept" src="intercept.png" />
+</Icon>
