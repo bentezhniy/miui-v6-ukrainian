@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+    <string name="date_time" value="EEE, d MMMM"/>
+    <string name="language" value="uk"/>
+    <string name="desc_date_format" value="EEEE, dd MMMM"/>
+    <string name="desc_time" value="'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', натисніть двічі, щоб відкрити Годинник'"/>
+</strings>
