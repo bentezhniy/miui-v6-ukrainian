@@ -157,7 +157,7 @@
 спроб залишилося:"</string>
     <string name="keyguard_label_text">Для розблокування натисніть \"Меню\", а потім 0.</string>
     <string name="emergency_call_dialog_number_for_display">Екстрений виклик</string>
-    <string name="lockscreen_carrier_default">Немає мережі</string>
+    <string name="lockscreen_carrier_default"> </string>
     <string name="lockscreen_screen_locked">Екран заблокований</string>
     <string name="lockscreen_instructions_when_pattern_enabled">Натисніть \"Меню\", щоб розблокувати екран або викликати службу екстреної допомоги</string>
     <string name="lockscreen_instructions_when_pattern_disabled">Для розблокування натисніть \"Меню\"</string>
