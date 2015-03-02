@@ -2,7 +2,6 @@
 <resources>
     <string name="app_label">Сповіщення</string>
     <string name="status_bar_no_recent_apps">Немає нещодавніх застосунків</string>
-    <string name="battery_low_title">Батарея розряджена</string>
     <string name="battery_low_percent_format">Залишилось %d%%</string>
     <string name="invalid_charger">"Зарядка по USB-порту не підтримується.
 Використовуйте зарядний пристрій з комплекту поставки"</string>
@@ -138,7 +137,7 @@ d MMMM yyyy"</string>
     <string name="torch_activity_hint">Ліхтарик можна швидко вимкнути, утримуючи [icon] на экрані блокування</string>
     <string name="torch_opened">Ліхтарик відкритий</string>
     <string name="torch_closed">Ліхтарик закритий</string>
-    <string name="lockscreen_carrier_default">Немає мережі</string>
+    <string name="lockscreen_carrier_default"> </string>
     <string name="chooseUsbActivity">Виберіть застосунок для пристроїв USB</string>
     <string name="usb_storage_title">Підключення USB</string>
     <string name="usb_storage_message">"Підключення до комп'ютеру через USB. Натисніть на кнопку нижче якщо ви бажаєте обмінюватися файлами між комп'ютером і накопичувачем вашого Android пристрою."</string>
