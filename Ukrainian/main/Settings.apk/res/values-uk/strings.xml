@@ -2571,7 +2571,7 @@
     <string name="lockpassword_pin_fixed_length">Код повинен містити цифр: %d</string>
     <string name="cancel_alert">Скасувати зміни?</string>
     <string name="android_beam_witch_label">Увімкнути Android Beam</string>
-    <string name="sim_management_title">Керування SIM картою</string>
+    <string name="sim_management_title">Керування SIM картками</string>
     <string name="sim_radio_off">Не активоване</string>
     <string name="sim_status_title">Статус SIM карти</string>
     <string name="slot_status_title">Інформація про IMEI</string>
