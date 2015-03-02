@@ -90,8 +90,8 @@
     <string name="allow">Дозволити</string>
     <string name="deny">Заборонити</string>
     <string name="device_info_default">Невідомо</string>
-    <string name="show_dev_on">Параметри розроблювача відкриті</string>
-    <string name="show_dev_already">Ви вже розроблювач</string>
+    <string name="show_dev_on">Параметри розробника відкриті</string>
+    <string name="show_dev_already">Ви вже розробник</string>
     <string name="header_category_wireless_networks">Бездротові мережі</string>
     <string name="header_category_device">Параметри пристрою</string>
     <string name="header_category_personal">Персоналізація</string>
@@ -1193,7 +1193,7 @@
     <string name="security_settings_premium_sms_desc">Надіслати платне SMS</string>
     <string name="computing_size">Обчислення…</string>
     <string name="invalid_size_value">Не вдалося обчислити розмір пакета</string>
-    <string name="empty_list_msg">Немає застосунків сторонніх розроблювачів</string>
+    <string name="empty_list_msg">Немає застосунків сторонніх розробників</string>
     <string name="version_text">Версія %1$s</string>
     <string name="move_app">Перемістити</string>
     <string name="move_app_to_internal">Перемістити на телефон</string>
@@ -1333,9 +1333,9 @@
     <string name="onscreen_keyboard_settings_summary">Налаштування екранної клавіатури</string>
     <string name="builtin_keyboard_settings_title">Фізична клавіатура</string>
     <string name="builtin_keyboard_settings_summary">Налаштування фізичної клавіатури</string>
-    <string name="development_settings_title">Для розроблювачів</string>
-    <string name="development_settings_summary">Налаштування параметрів для розроблювачів</string>
-    <string name="development_settings_not_available">Режим \" Для розроблювачів\" не доступний для даного користувача</string>
+    <string name="development_settings_title">Для розробників</string>
+    <string name="development_settings_summary">Налаштування параметрів для розробників</string>
+    <string name="development_settings_not_available">Режим \"Для розробників\" не доступний для даного користувача</string>
     <string name="enable_adb">Налагодження по USB</string>
     <string name="enable_adb_summary">Увімкнути режим налагодження при підключенні до компютера по USB</string>
     <string name="clear_adb_keys">Заборонити доступ USB налагодження</string>
@@ -1355,8 +1355,8 @@
     <string name="adb_warning_title">Дозволити налагодження по USB?</string>
     <string name="adb_warning_message">Налагодження по USB – це режим, який дозволяє використовувати ваше пристрою як зовнішній накопичувач: переміщати файли (з компютера й на компютер), прямо встановлювати застосунка, а також переглядати системні журнали</string>
     <string name="adb_keys_warning_message">Заборонити доступ для налагодження по USB на всіх компютерах, на яких ви входили в акаунт?</string>
-    <string name="dev_settings_warning_title">Дозволити налаштування для розроблювачів?</string>
-    <string name="dev_settings_warning_message">Ці налаштування тільки для розроблювачів. Вони можуть викликати нестабільність роботи пристрою й застосунків на ньому</string>
+    <string name="dev_settings_warning_title">Дозволити налаштування для розробників?</string>
+    <string name="dev_settings_warning_message">Ці налаштування тільки для розробників. Вони можуть викликати нестабільність роботи пристрою й застосунків на ньому</string>
     <string name="verify_apps_over_usb_title">Перевірка застосунків по USB</string>
     <string name="verify_apps_over_usb_summary">Перевіряти застосунки на віруси, встановлені через ADB/ADT.</string>
     <string name="enforce_read_external_title">Захист USB накопичувача</string>
@@ -1364,7 +1364,7 @@
     <string name="enforce_read_external_confirm_title">Захистити USB накопичувач?</string>
     <string name="enforce_read_external_confirm_message">"Коли ввімкнений захист USB накопичувача, застосунки повинні запитувати дозвіл для читання даних із зовнішнього накопичувача.
 \u0009
-Деякі застосунки можуть перестати працювати, поки їх не оновлять розроблювачі."</string>
+Деякі застосунки можуть перестати працювати, поки їх не оновлять розробники."</string>
     <string name="enable_terminal_title">Локальний темінал</string>
     <string name="enable_terminal_summary">Увімкнути локальний темінал</string>
     <string name="gadget_picker_title">Вибір гаджета</string>
@@ -2130,12 +2130,12 @@
     <string name="search_privacy">конфіденційність</string>
     <string name="debug_log">Журнал налагодження</string>
     <string name="upload_debug_log_title">Відправляти звіти</string>
-    <string name="upload_debug_log_summary">Відправляти звіти про помилки розроблювачам для допомоги в розвитку прошивання MIUI</string>
+    <string name="upload_debug_log_summary">Відправляти звіти про помилки розробникам для допомоги в розвитку MIUI</string>
     <string name="device_miui_version">Версія MIUI</string>
     <string name="cmcc_hardware_version">Аппаратна версія</string>
     <string name="device_cpu">Процесор</string>
     <string name="device_memory">ОЗП</string>
-    <string name="device_internal_memory">Память</string>
+    <string name="device_internal_memory">"Пам'ять"</string>
     <string name="device_sd_memory">SD карта</string>
     <string name="device_cpu2_info">"Два ядра "</string>
     <string name="device_cpu4_info">"Чотири ядра "</string>
@@ -2495,7 +2495,7 @@
     <string name="bluetooth_enable">Увімкнути Bluetooth</string>
     <string name="sync_enable">Увімкнути синхронізацію</string>
     <string name="accessibility_enable">Увімкнути можливість</string>
-    <string name="development_enable">Режим розроблювача</string>
+    <string name="development_enable">Режим розробника</string>
     <string name="device_name">Імя пристрою</string>
     <string name="device_edit_title">Імя пристрою</string>
     <string name="device_name_input_hint">Введіть імя пристрою</string>
