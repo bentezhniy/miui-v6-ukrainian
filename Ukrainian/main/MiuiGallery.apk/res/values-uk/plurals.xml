@@ -25,9 +25,9 @@
         <item quantity="one">"Видалити %s відео з &amp;lt;b>пам'яті телефону і Mi Cloud&amp;lt;/b>?"</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">Вибрано: %1$d</item>
-        <item quantity="zero">Вибрано: %1$d</item>
-        <item quantity="one">Вибрано: %1$d</item>
+        <item quantity="other">Обрано: %1$d</item>
+        <item quantity="zero">Обрано: %1$d</item>
+        <item quantity="one">Обрано: %1$d</item>
     </plurals>
     <plurals name="number_of_pictures">
         <item quantity="other">%1$d</item>
@@ -51,8 +51,8 @@
         <item quantity="one">Немає доступу для видалення цих файлів (%d)</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">Ви можете вибрати елементів: %d</item>
-        <item quantity="one">Ви можете вибрати елементів: %d</item>
+        <item quantity="other">Ви можете обрати елементів: %d</item>
+        <item quantity="one">Ви можете обрати елементів: %d</item>
     </plurals>
     <plurals name="number_of_images">
         <item quantity="other">Зображень: %1$d</item>
