@@ -26,7 +26,7 @@
     <string name="music_mi_effect_summary">Використовувати підсилювач \"Mi Sound\" при відтворенні звуку через навушники</string>
     <string name="music_headphone_settings">Тип навушників</string>
     <string name="music_dirac_control">Поліпшити якість звуку</string>
-    <string name="music_dirac_mode_off">Режим \"Dirac\" вимкнений</string>
+    <string name="music_dirac_mode_off">Режим \"Dirac\" вимкнено</string>
     <string name="music_dirac_mode_general">Звичайні навушники</string>
     <string name="music_dirac_mode_general_earbuds">Звичайні навушники</string>
     <string name="music_dirac_mode_general_inear">Звичайні вкладиші</string>
@@ -42,7 +42,7 @@
     <string name="menu_item_show_more">Показати ще</string>
     <string name="ringtone_mute">Без звуку</string>
     <string name="title_system_resource">Системні ресурси</string>
-    <string name="resource_ringtone_volume_mute">Звук вимкнений</string>
+    <string name="resource_ringtone_volume_mute">Звук вимкнено</string>
     <string name="audio_list_loading">Завантаження…</string>
     <string name="title_local_resource">Локальні ресурси</string>
     <string name="online_resource_entry">Онлайн ресурси</string>
@@ -930,8 +930,8 @@
     <string name="apn_protocol">Протокол APN</string>
     <string name="apn_roaming_protocol">APN для роумінгу</string>
     <string name="carrier_enabled">Увімкнути/вимкнути APN</string>
-    <string name="carrier_enabled_summaryOn">APN увімкнений</string>
-    <string name="carrier_enabled_summaryOff">APN вимкнений</string>
+    <string name="carrier_enabled_summaryOn">APN увімкнено</string>
+    <string name="carrier_enabled_summaryOff">APN вимкнено</string>
     <string name="bearer">Власник</string>
     <string name="mvno_type">Тип MVNO</string>
     <string name="mvno_match_data">Значення MVNO</string>
