@@ -45,7 +45,7 @@
     </string-array>
     <string-array name="entries_date_type">
         <item>Час отримання</item>
-        <item>Час відправлення</item>
+        <item>Час надсилання</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Через SMS</item>

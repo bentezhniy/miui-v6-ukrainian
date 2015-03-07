@@ -527,9 +527,9 @@ sim карта буде очищена при невдалій спробі вв
     <string name="remove_ims_account">Видалити аккаунт</string>
     <string name="not_voice_capable">Голосові виклики не підтримуються</string>
     <string name="respond_via_sms_canned_response_1">Не можу говорити. Що трапилося?</string>
-    <string name="respond_via_sms_canned_response_2">Я зараз Вам передзвонюся</string>
+    <string name="respond_via_sms_canned_response_2">Я зараз Вам передзвоню</string>
     <string name="respond_via_sms_canned_response_3">Я передзвоню Вам пізніше.</string>
-    <string name="respond_via_sms_canned_response_4">Не можу говорити. Подзвоните пізніше</string>
+    <string name="respond_via_sms_canned_response_4">Я на Майдані. Передзвоню Вам пізніше</string>
     <string name="respond_via_sms_cannot_empty">Повідомлення не може бути порожнім</string>
     <string name="respond_via_sms_setting_title">Швидкі відповіді</string>
     <string name="respond_via_sms_setting_summary">Змінити шаблони для швидкої відповіді</string>

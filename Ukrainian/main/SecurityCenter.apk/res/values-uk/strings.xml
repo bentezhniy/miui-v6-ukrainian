@@ -640,7 +640,7 @@
     <string name="button_text_ignore">Виключити</string>
     <string name="button_text_ignore_alert_title">Виключити вибране попередження?</string>
     <string name="back">Назад</string>
-    <string name="empty_title_manual_item_white_list">Список пуст</string>
+    <string name="empty_title_manual_item_white_list">Список порожній</string>
     <string name="title_cloud_account">Mi акаунт</string>
     <string name="summary_cloud_account">Щоб отримати доступ до всіх сервісів необхідно ввійти в Mi акаунт</string>
     <string name="title_cloud_service">Mi Cloud</string>

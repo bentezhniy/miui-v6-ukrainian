@@ -56,6 +56,7 @@
     <string name="status_bar_settings_all_app_display_loading">Завантаження…</string>
     <string name="status_bar_settings_show_statusBar_notification">На екрані блокування та у вікні</string>
     <string name="status_bar_settings_show_statusBar_notification_summary">Показувати сповіщення на екрані блокування та у спливаючому вікні</string>
+	<string name="status_bar_settings_show_notificationBar_notification">У рядку стану</string>
     <string name="status_bar_filter_item_preview_image">Перегляди</string>
     <string name="status_bar_filter_item_description">Для налаштування сповіщень перейдіть в \"Налаштування> Сповіщення> Керування сповіщеннями\".</string>
     <string name="status_bar_settings_notification_bar">Панель сповіщень</string>

@@ -260,7 +260,7 @@
     <string name="bind_settings">Додаткові акаунти</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="account_bind_settings">Додаткові аккаунти</string>
-    <string name="account_bind_devices">"Прив'язані пристрою"</string>
+    <string name="account_bind_devices">"Прив'язані пристрої"</string>
     <string name="account_dspt_provision">Mi акаунт</string>
     <string name="account_dspt_provision2">" (детальніше)"</string>
     <string name="login_title">Авторизація</string>

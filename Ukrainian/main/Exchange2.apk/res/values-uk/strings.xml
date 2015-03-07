@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="account_setup_options_mail_window_1day">Одного разу</string>
+     <string name="account_setup_options_mail_window_1month">Один місяць</string>
+     <string name="account_setup_options_mail_window_1week">Один тиждень</string>
+     <string name="account_setup_options_mail_window_2weeks">Два тижні</string>
+     <string name="account_setup_options_mail_window_3days">Три дні</string>
+     <string name="account_setup_options_mail_window_all">Всі</string>
+     <string name="account_setup_options_mail_window_auto">Автоматично</string>
+     <string name="app_name">Послуги з обміну</string>
+     <string name="auth_error_notification_text">Торкніться, щоб змінити параметри облікового запису для %s</string>
+     <string name="auth_error_notification_title">Помилка автентифікації</string>
+     <string name="exception_cancel">Ця дія скасована: %s</string>
+     <string name="exception_updated">Були замінені деталі цієї дії: %s</string>
+     <string name="exchange_name">Корпоративний</string>
+     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+     <string name="mailbox_name_server_all_unread">Непрочитано</string>
+     <string name="mailbox_name_server_starred">Обрані</string>
+     <string name="meeting_accepted">Отримано: %s</string>
+     <string name="meeting_allday">Коли: %s (весь день)</string>
+     <string name="meeting_allday_recurring">Де: %s (весь день, повторювати)</string>
+     <string name="meeting_canceled">Скасовано: %s</string>
+     <string name="meeting_declined">Відхилено: %s</string>
+     <string name="meeting_recurring">Коли: %s (повторюється)</string>
+     <string name="meeting_tentative">Травень: %s</string>
+     <string name="meeting_updated">Останнє оновлення: %s</string>
+     <string name="meeting_when">Де: % s</string>
+     <string name="meeting_where">Де: % s</string>
+     <string name="notification_exchange_calendar_added">Додано календар Exchange</string>
+     <string name="policy_app_blacklist">Відхилити застосування</string>
+     <string name="policy_app_whitelist">Дозволити лише певних програм</string>
+     <string name="policy_bluetooth_restricted">"Заборонити використання Bluetooth"</string>
+     <string name="policy_dont_allow_attachments">"Заборонити вкладення"</string>
+     <string name="policy_dont_allow_browser">"Заборонити Браузер"</string>
+     <string name="policy_dont_allow_consumer_email">"Заборона листів"</string>
+     <string name="policy_dont_allow_html">"Вимкнути пошту у форматі HTML"</string>
+     <string name="policy_dont_allow_internet_sharing">"Вимкнути спільний доступ до Інтернету"</string>
+     <string name="policy_dont_allow_irda">"Заборонити з'єднання через інфрачервоний порт"</string>
+     <string name="policy_dont_allow_pop_imap">"Вимкнути облікові записи POP3 або IMAP"</string>
+     <string name="policy_dont_allow_storage_cards">"Заборонити карту пам'яті"</string>
+     <string name="policy_dont_allow_text_messaging">"Заборонити текстові повідомлення"</string>
+     <string name="policy_dont_allow_unsigned_apps">"Заборонити непідписані додатки"</string>
+     <string name="policy_dont_allow_unsigned_installers">"Заборонити встановлювати додатки, що непідписані"</string>
+     <string name="policy_dont_allow_wifi">"Вимкнути Wi-Fi"</string>
+     <string name="policy_html_truncation">Заборона за розміром пошти HTML</string>
+     <string name="policy_max_attachment_size">Заборона за розміром вкладення</string>
+     <string name="policy_require_encryption">Вимагати шифрування пристрою</string>
+     <string name="policy_require_manual_sync_roaming">Дозволити лише ручну синхронізації при роумінгу</string>
+     <string name="policy_require_sd_encryption">Вимагати шифрування SD карти</string>
+     <string name="policy_require_smime">Вимагати повідомлення SMIME</string>
+     <string name="policy_text_truncation">Заборона за розміром електронної пошти</string>
+</resources>

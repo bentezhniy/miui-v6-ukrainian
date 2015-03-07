@@ -59,7 +59,7 @@
     <string name="message_too_big_for_video">Повідомлення занадто велике, щоб прикласти відео</string>
     <string name="failed_to_add_media">Неможливо додати цей обєкт (%1$s)</string>
     <string name="failed_to_resize_image">Не вдалося змінити розмір малюнка</string>
-    <string name="resize_image_error_information">Зображення занадто велике для відправлення, навіть після зміни розміру</string>
+    <string name="resize_image_error_information">Зображення занадто велике для надсилання, навіть після зміни розміру</string>
     <string name="forward_prefix">" Від: "</string>
     <string name="discard_message">Скасувати чернетку?</string>
     <string name="discard_message_reason">Не вказаний жоден отримувач</string>
@@ -98,7 +98,7 @@
     <string name="set">Зберегти</string>
     <string name="play">Відтворити</string>
     <string name="edit">Змінити</string>
-    <string name="try_to_send">Продовжити відправлення</string>
+    <string name="try_to_send">Продовжити надсилання</string>
     <string name="preferences_title">Налаштування</string>
     <string name="pref_notification_settings_title">Повідомлення</string>
     <string name="pref_mms_settings_title">MMS</string>
@@ -262,8 +262,8 @@
     <string name="send_to_count">Відправлене повідомлень: %1$s</string>
     <string name="send_to_index_contact">Відправлене %1$s з %2$s</string>
     <string name="message_received">Доставлене</string>
-    <string name="message_failed">Помилка відправлення</string>
-    <string name="message_pending">Відправлення</string>
+    <string name="message_failed">Помилка надсилання</string>
+    <string name="message_pending">Надсилання</string>
     <string name="message_readed">Прочитане</string>
     <string name="message_rejected">Відхилене</string>
     <string name="resent_message">Повторити</string>
@@ -326,7 +326,7 @@
     <string name="batch_deleting_message_progress_message">Видалити обрані повідомлення</string>
     <string name="attach_subject">Тема</string>
     <string name="flatshow_page_no">%1$d</string>
-    <string name="prepare_send">Підготовка до відправлення…</string>
+    <string name="prepare_send">Підготовка до надсилання…</string>
     <string name="activity_not_found">Не вдається відкрити вкладення</string>
     <string name="activity_not_found_uri">Не вдається знайти застосунок для цього типу файлів</string>
     <string name="fetion_prefix">[Fetion]</string>
@@ -343,7 +343,7 @@
     <string name="pref_title_system_mms_priority">Пріоритет для \"Повідомлення\"</string>
     <string name="pref_summary_on_system_mms_priority">Системний застосунок буде отримувати повідомлення першим</string>
     <string name="pref_summary_off_system_mms_priority">Інші застосунки для повідомлень будуть отримувати повідомлення першими</string>
-    <string name="title_timed_message_dialog">Час відправлення повідомлення</string>
+    <string name="title_timed_message_dialog">Час надсилання повідомлення</string>
     <string name="error_timed_msg">Неможливо запланувати час раніше поточного</string>
     <string name="to_send_wrapper">Повідомлення заплановане на: %s</string>
     <string name="group_message">Групове повідомлення</string>
@@ -498,7 +498,7 @@ sms (%1$d), MMS (%2$d)."</string>
     <string name="alert_dlg_cancel_button">Скасування</string>
     <string name="send_message_notification_tickerText">Запит дозволу керування пристроєм</string>
     <string name="send_message_notification_title">Керування пристроєм</string>
-    <string name="send_message_notification_msg">Керування пристроєм запитує дозвіл на відправлення повідомлення</string>
+    <string name="send_message_notification_msg">Керування пристроєм запитує дозвіл на надсилання повідомлення</string>
     <string name="view_hms_details">Інформація</string>
     <string name="xiaomi_service_number">Сервісний номер</string>
     <string name="retrive_hms_tips">Одержання…</string>
@@ -524,7 +524,7 @@ sms (%1$d), MMS (%2$d)."</string>
     <string name="menu_send_as_common">Відправлено як SMS</string>
     <string name="message_sent">Відправлено</string>
     <string name="left_cancel">Проведіть для скасування</string>
-    <string name="release_cancel">Відпустіть для відправлення</string>
+    <string name="release_cancel">Відпустіть для надсилання</string>
     <string name="press_recording">Натисніть і утримуйте іконку мікрофона для запису</string>
     <string name="warning_show">Відправка через %d сек.</string>
     <string name="audio_playing_seconds">%d сек.</string>

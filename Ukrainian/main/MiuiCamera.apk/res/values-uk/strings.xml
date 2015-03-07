@@ -43,8 +43,8 @@
     <string name="pref_camera_settings_category">Налаштування камери</string>
     <string name="pref_camcorder_settings_category">Налаштування відеокамери</string>
     <string name="pref_camera_picturesize_title_simple_mode">Співвідношення сторін</string>
-    <string name="pref_camera_picturesize_entry_standard">Стандартний 4:3</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">Широкоформатний 16:9</string>
+    <string name="pref_camera_picturesize_entry_standard">Стандартне 4:3</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">Широкоформатне 16:9</string>
     <string name="pref_camera_picturesize_entry_4208x3120">13 Мп (4208x3120)</string>
     <string name="pref_camera_picturesize_entry_4208x2368">10 Мп (4208x2368)</string>
     <string name="pref_camera_picturesize_entry_3264x2448">8 Мп (3264x2448)</string>
@@ -66,9 +66,9 @@
     <string name="pref_camera_picturesize_entry_1280x720">0.9 Мп (1280x720)</string>
     <string name="pref_camera_picturesize_entry_1024x768">0.8 Мп (1024x768)</string>
     <string name="pref_camera_jpegquality_title">Якість фото</string>
-    <string name="pref_camera_jpegquality_entry_high">Високе</string>
-    <string name="pref_camera_jpegquality_entry_normal">Нормальне</string>
-    <string name="pref_camera_jpegquality_entry_low">Низьке</string>
+    <string name="pref_camera_jpegquality_entry_high">Висока</string>
+    <string name="pref_camera_jpegquality_entry_normal">Нормальна</string>
+    <string name="pref_camera_jpegquality_entry_low">Низька</string>
     <string name="pref_camera_histogram_entry_enable">Увімкнена</string>
     <string name="pref_camera_histogram_entry_disable">Вимкнена</string>
     <string name="pref_camera_focusmode_title">Режим фокусування</string>
@@ -124,7 +124,7 @@
     <string name="pref_camera_multilevel_entry_high">Висока</string>
     <string name="pref_camera_multilevel_entry_higher">Дуже висока</string>
     <string name="pref_camera_multilevel_entry_highest">Найвища</string>
-    <string name="pref_camera_multilevel_entry_middle">Центр (за замовчуванням)</string>
+    <string name="pref_camera_multilevel_entry_middle">Середня (за замовчуванням)</string>
     <string name="pref_camera_contrast_title">Контрастність</string>
     <string name="pref_camera_saturation_title">Насиченість</string>
     <string name="pref_camera_sharpness_title">Чіткість</string>
