@@ -49,7 +49,7 @@
     <string name="date_picker_dialog_other_button_label">Інші</string>
     <string name="copy_to_clipboard_failure_message">Не вдалося скопіювати в буфер обміну</string>
     <string name="miuichromium_error_page_title">Не вдається знайти сторінку</string>
-    <string name="miuichromium_error_page_reason_network">Показати URL</string>
+    <string name="miuichromium_error_page_reason_network">Увімкніть мережу</string>
     <string name="miuichromium_error_page_mobile">Мобільний інтернет</string>
     <string name="miuichromium_error_page_wlan">Мережа Wi-Fi</string>
     <string name="miuichromium_error_page_reason_server">Неможливо завантажити сторінку</string>
@@ -86,7 +86,7 @@
     <string name="miui_search_notification_message">Натисніть, щоб відкрити</string>
     <string name="miui_quicksearch_enable_pref_title">Швидкий пошук</string>
     <string name="miui_quicksearch_enable_pref_summary">Завжди відображати швидкий пошук у панелі повідомлень</string>
-    <string name="menu_theme_setting">Настроювання теми</string>
+    <string name="menu_theme_setting">Налаштування теми</string>
     <string name="menu_hv_swap">Альбомний режим</string>
     <string name="menu_addtodesk">На робочий стіл</string>
     <string name="menu_nightmode">Нічний режим</string>
@@ -175,7 +175,7 @@
     <string name="pref_extras_reset_default_title">Інші</string>
     <string name="pref_extras_reset_default">Скидання налаштувань</string>
     <string name="pref_extras_reset_default_dlg">Відновити налаштування за замовчуванням?</string>
-    <string name="pref_ua_title">Настроювання агента</string>
+    <string name="pref_ua_title">Налаштування агента</string>
     <string name="pref_ua_string">Агент користувача</string>
     <string name="pref_ua_mione_entry">Телефон Xiaomi</string>
     <string name="pref_content_search_engine">Пошукова система</string>
@@ -227,7 +227,7 @@
     <string name="find_on_page">Знайти на сторінці</string>
     <string name="url_copy_done">URL скопійований</string>
     <string name="empty_history">Історія порожня</string>
-    <string name="pref_setting_title">Настроювання сторінки</string>
+    <string name="pref_setting_title">Налаштування сторінки</string>
     <string name="pref_general_setting_title">Налаштування</string>
     <string name="pref_extras_website_settings">Дані сайтів</string>
     <string name="geolocation_permissions_prompt_toast_allowed">У цього сайту є доступ до даних про ваше місце розташування</string>
@@ -299,7 +299,7 @@
     <string name="pref_file_download_save_title">Завантаження й збереження файлів</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Скидання налаштувань</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">Відновити налаштування за замовчуванням?</string>
-    <string name="pref_file_download_save_modify_default_path">Папка завантажень</string>
+    <string name="pref_file_download_save_modify_default_path">Папка для завантажень</string>
     <string name="download_dialog_file_length_hint_txt">Розмір файлу:</string>
     <string name="download_dialog_file_length_nolength_txt">Завантаження…</string>
     <string name="download_dialog_file_length_nolength_error_txt">невідомо</string>
@@ -420,7 +420,7 @@
     <string name="add_new_quicklink">Додати в популярні</string>
     <string name="url_opened_in_background">Відкрити у фоновій вкладці</string>
     <string name="pref_adblock_title">Блокування реклами</string>
-    <string name="pref_enable_adblock_notification">Повідомлення блокування</string>
+    <string name="pref_enable_adblock_notification">Повідомлення про блокування</string>
     <string name="pref_clear_adblock_statistics">Скинути статистику</string>
     <string name="pref_adblock_counts">Заблоковано реклами: %d</string>
     <string name="pref_clear_adblock_statistics_dlg">Очистити статистику блокування реклами?</string>
@@ -441,7 +441,7 @@
     <string name="select_download_device">Виберіть пристрій</string>
     <string name="show_check_security_url_check_tip_dialog_title">Безпека сайту</string>
     <string name="show_check_security_url_check_tip_dialog_description">Посилання цього сайту буде відправлено на сервер Xiaomi для перевірки безпеки</string>
-    <string name="pref_check_security_url_title">Перевіряти безпека сайтів</string>
+    <string name="pref_check_security_url_title">Перевіряти безпеку сайтів</string>
     <string name="pref_check_security_url_summary">Відправляти посилання сайтів на сервер Xiaomi для перевірки безпеки</string>
     <string name="action_menu_text_video">Відео</string>
     <string name="action_menu_text_bandwidth">Перепускна здатність</string>
