@@ -3031,4 +3031,17 @@
 	<string name="device_security_settings_title">Безпека</string>
 	<string name="enable_crypt_keeper_encrypt">Використовувати шифрування</string>
     <string name="bluetooth_unlock_title">Розблокування пристрою Bluetooth</string>
+	<string name="wifi_off_airplane_on_title">WiFi у режимі В літаку</string>
+    <string name="wifi_off_airplane_on_content">Можна ввімкнути WiFi вручну коли увімкнуто режим польоту.</string>
+    <string name="wifi_off_airplane_on_not_remind">Не показувати знову</string>
+    <string name="wifi_off_airplane_on_cancel">Скасувати</string>
+    <string name="wifi_off_airplane_on_confirm">OК</string>
+    <string name="wifi_connect_cmcc_dialog_title">Сповіщення про використання даних</string>
+    <string name="wifi_connect_cmcc_dialog_content">Підключення до служб даних мережі CMCC.</string>
+    <string name="wifi_connect_cmcc_dialog_not_remind">Не показувати знову</string>
+    <string name="wifi_connect_cmcc_dialog_cancel">Скасувати</string>
+    <string name="wifi_connect_cmcc_dialog_confirm">ОК</string>
+    <string name="wifi_notify_cmcc_connected_title">Сповіщення CMCC мережі</string>
+    <string name="wifi_notify_cmcc_connected_summary">"Показувати сповіщення при під'єднанні до CMCC мережі"</string>
+    <string name="wifi_datanetwork_switch_not_remind">Не показувати знову</string>
 </resources>
