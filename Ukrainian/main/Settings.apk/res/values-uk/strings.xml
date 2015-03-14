@@ -3009,4 +3009,26 @@
     <string name="vpn_IPSec_user_cert">Сертифікат користувача IPSec</string>
     <string name="rom_author_title">MIUI Сборка</string>
     <string name="rom_version_title">Проверить обновления</string>
+	<string name="a1">Дисплей</string>
+    <string name="holiestar_title">Індикація спалахом</string>
+    <string name="holiestar_summary">Індикація дзвінківта сповіщень спалахом</string>
+    <string name="Xposed_title">Xposed</string>
+    <string name="Xposed_summary">Спеціальні можливості для MIUI</string>
+    <string name="vipercn_title">Viper</string>
+    <string name="vipercn_summary">Утиліта для покращення звуку</string>
+    <string name="a3">Інше</string>
+    <string name="kqstone_title">Immersed Statusbar</string>
+    <string name="kqstone_summary">Кастомізація кольору рядка стану для кожного застосунка</string>
+    <string name="a2">Застосунки</string>
+    <string name="greenify_title">Greenify</string>
+    <string name="greenify_summary">Керування застосунками, що працюють у фоні</string>
+    <string name="usb_way">Тип підключення USB</string>
+    <string name="usb_way1">"Оберіть тип з'єднання пристрою з комп'ютером"</string>
+	<string name="privacy_mode_title">Дозволи</string>
+    <string name="privacy_mode_summary">Дані буде приховано від користувача</string>
+	<string name="location_access_on">Увімкн.</string>
+    <string name="location_access_off">Вимкн.</string>
+	<string name="device_security_settings_title">Безпека</string>
+	<string name="enable_crypt_keeper_encrypt">Використовувати шифрування</string>
+    <string name="bluetooth_unlock_title">Розблокування пристрою Bluetooth</string>
 </resources>

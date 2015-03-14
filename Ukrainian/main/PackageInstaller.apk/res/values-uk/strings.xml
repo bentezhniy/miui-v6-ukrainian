@@ -27,7 +27,7 @@
 
 всі користувацькі дані будуть збережені.
 продовжити встановлення?"</string>
-    <string name="lift_ban">Зняти заборона</string>
+    <string name="lift_ban">Зняти заборону</string>
     <string name="uninstall_confirm_question">Видалити цей застосунок?</string>
     <string name="uninstall_failed_retained_app_msg">Застосунок, змінений оператором, не може бути видаленим</string>
     <string name="install_failed_system_incompatible">Цей застосунок не сумісний із системою MIUI</string>
