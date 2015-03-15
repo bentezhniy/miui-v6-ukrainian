@@ -2,6 +2,8 @@
 
 Українська для MIUIv6. Створено на основі репозиторію від користувача GitHub greeshan (https://github.com/greeshan)
 
+Ўкраінскі для MIUIv6. Створаны на аснове рэпазітара ад карыстальніка GitHub greeshan (https://github.com/greeshan)
+
 Украинский для MIUIv6. Создан на основе репозитория от пользователя GitHub greeshan (https://github.com/greeshan)
 
 Ukrainian for MIUIv6. Based on repository by greeshan (https://github.com/greeshan)
