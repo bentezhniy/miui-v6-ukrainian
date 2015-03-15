@@ -23,12 +23,12 @@
     <string name="my_favorite">Улюблені</string>
     <string name="add_favorite">До улюблених</string>
     <string name="has_no_program_now">"Цей канал не веде трансляцію зараз"</string>
-    <string name="title_settings">Radio</string>
+    <string name="title_settings">Радіо</string>
     <string name="category_account">АКАУНТ</string>
     <string name="title_account">Mi Акаунт</string>
     <string name="category_tone_quality">ЯКІСТЬ РАДІО</string>
     <string name="title_tone_quality">Налаштування якості відтворення</string>
-    <string name="summary_tone_quality">Будь ласка, оберіть зручну для вас якість відтворення</string>
+    <string name="summary_tone_quality">Оберіть зручну для вас якість відтворення</string>
     <string name="category_sleep_mode">ТАЙМЕР</string>
     <string name="title_sleep_mode">Таймер сну</string>
     <string name="summary_on_sleep_mode">Зупинити радіо після певного проміжоку часу</string>
@@ -39,7 +39,7 @@
     <string name="title_download_quality">Якість завантаження</string>
     <string name="summary_download_quality">Додаткові параметри для радіо, яке завантажено</string>
     <string name="category_data_usage">ТРАФІК</string>
-    <string name="avoid_to_use_traffic_title">Спливаюче вікно при використанні мобільної мережі</string>
+    <string name="avoid_to_use_traffic_title">Повідомлення про використання мобільної мережі</string>
     <string name="avoid_to_use_traffic_summary">Уникнути витрат на трафік</string>
     <string name="remaining_time">"Залишилося часу: "</string>
     <string name="notification_description_from_radio">Від MiuiРадіо</string>

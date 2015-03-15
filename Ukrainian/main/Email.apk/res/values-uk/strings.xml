@@ -877,4 +877,6 @@
     <string name="account_setup_index_other_mails">Інші</string>
     <string name="accounts_heading">Акаунти</string>
     <string name="from_label">Акаунт відправника</string>
+	<string name="account_setup_options_mail_check_frequency_12hour">Кожні 12 годин</string>
+    <string name="account_setup_options_mail_check_frequency_4hour">Кожні 4 години</string>
 </resources>

@@ -3011,7 +3011,7 @@
     <string name="rom_version_title">Проверить обновления</string>
 	<string name="a1">Дисплей</string>
     <string name="holiestar_title">Індикація спалахом</string>
-    <string name="holiestar_summary">Індикація дзвінківта сповіщень спалахом</string>
+    <string name="holiestar_summary">Індикація дзвінків та сповіщень спалахом</string>
     <string name="Xposed_title">Xposed</string>
     <string name="Xposed_summary">Спеціальні можливості для MIUI</string>
     <string name="vipercn_title">Viper</string>

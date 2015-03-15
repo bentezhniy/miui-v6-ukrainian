@@ -679,7 +679,7 @@ sim карта буде очищена при невдалій спробі вв
     <string name="t9_indexing_method_pinyin">Алфавітний</string>
     <string name="t9_indexing_method_zhuyin">Китайський</string>
     <string name="t9_indexing_rebuilding_message">Переіндексація бази T9…</string>
-    <string name="auto_redial_pref_title">Автодозвон</string>
+    <string name="auto_redial_pref_title">Перетелефоновувати</string>
     <string name="auto_redial_pref_summary">Автоматично передзвонювати, якщо лінія зайнята</string>
     <string name="auto_retry_mode_title">Автоповтор</string>
     <string name="auto_retry_mode_summary">Увімкнути режим автоповтору</string>
