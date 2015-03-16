@@ -179,4 +179,14 @@
     <string name="unknownnumber">Невідомо</string>
     <string name="permdesc_bluetoothmap">Дозволяє застосунку одержати доступ до повідомлень Bluetooth</string>
     <string name="permlab_bluetoothmap">Доступ до повідомлень Bluetooth</string>
+	<string name="airplane_can_not_share">"Неможливо використовувати Bluetooth у режимі В літаку"</string>
+    <string name="bluetooth_share_file_name">Контент загального доступу</string>
+    <string name="download_line4" />
+    <string name="format_progress_text">%1$d%%</string>
+    <string name="notify_need_on_BT_before_retry">Bluetooth вимкнено. Будь ласка, увімкніть Bluetooth та спробуйте знову</string>
+    <string name="panu_disconnect_while_wifi_connected">"Bluetooth з'єднання скасовано"</string>
+    <string name="panu_no_need_connect">"Неможливо використовувати з'єднання Bluetooth при підключенні Wi-Fi"</string>
+    <string name="sim_selected_dialog_title">Обрати SIM</string>
+    <string name="suggested">Рекомендовано</string>
+    <string name="too_much_file_sent">Максимум %1$s файлів одночасно</string>
 </resources>

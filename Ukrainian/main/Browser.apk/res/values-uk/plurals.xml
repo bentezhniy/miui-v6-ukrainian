@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="last_num_days">
-        <item quantity="other">Остані %d дн.</item>
-    </plurals>
+        <item quantity="other">Останні %d дн.</item>
+        <item quantity="one">Вчора</item>
+     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d з %2$d</item>
         <item quantity="one">1 збіг</item>

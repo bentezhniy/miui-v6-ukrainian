@@ -191,4 +191,6 @@
     <string name="sd_not_available">Накопичувач не підключений</string>
     <string name="never">Ніколи</string>
     <string name="every_day">Щодня</string>
+	<string name="date_format">dd.MM.yyyy HH:mm:ss</string>
+    <string name="dir_date_format">dd.MM.yyyy_HH-mm-ss</string>
 </resources>

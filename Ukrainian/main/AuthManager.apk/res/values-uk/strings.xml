@@ -345,7 +345,7 @@
     <string name="Sysopt_Boost_Autostart_Group">Автозавантаження</string>
     <string name="Sysopt_Boost_Boot">Завантаження</string>
     <string name="Sysopt_Boost_Receiver">Фонові</string>
-    <string name="HIPS_Securityprompt_Acceptroot">Дозволити</string>
+    <string name="HIPS_SecurityPrompt_AcceptROOT">Дозволити</string>
     <string name="HIPS_Perm_Sendmms">Відправлення MMS</string>
     <string name="HIPS_Perm_Sendmms_Desc">Доступ для відправлення MMS</string>
     <string name="HIPS_Perm_Sendmms_Hint">Доступ для відправлення MMS (%1$s)</string>

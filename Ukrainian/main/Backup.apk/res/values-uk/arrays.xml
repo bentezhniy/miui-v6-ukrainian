@@ -46,4 +46,10 @@
         <item>Журнал викликів</item>
         <item>Повідомлення</item>
     </string-array>
+	<string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+     </string-array>
 </resources>

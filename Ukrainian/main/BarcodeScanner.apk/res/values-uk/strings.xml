@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Сканер</string>
+	<string name="choose_picture">Обрати зображення з QR кодом</string>
     <string name="copy">Копіювати</string>
     <string name="name">"Ім'я:"</string>
     <string name="nickname">Нік:</string>

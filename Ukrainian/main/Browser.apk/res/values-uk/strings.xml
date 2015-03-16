@@ -936,6 +936,19 @@
     <string name="setting_menu_advertise_restriction">Спливаючі вікна</string>
     <string name="setting_menu_general_setting">Загальні</string>
     <string name="setting_menu_gesture">Жести</string>
-    <string name="setting_menu_website_data">Даны сайтів</string>
+    <string name="setting_menu_website_data">Дані сайтів</string>
     <string name="tab_video">Відео</string>
+	<string name="action_menu_text_fullscreen">На весь екран</string>
+    <string name="js_dialog_title_default">JavaScript</string>
+    <string name="pref_images_preload_value_always">2</string>
+    <string name="pref_images_preload_value_never">0</string>
+    <string name="pref_images_preload_value_wifi_only">1</string>
+    <string name="pref_webapp_settings_fontsize_key">pref_webapp_settings_fontsize_key</string>
+    <string name="search_easou">Easou</string>
+    <string name="search_s139">139</string>
+    <string name="time_picker_dialog_am">AM</string>
+    <string name="time_picker_dialog_hour_minute_separator">:</string>
+    <string name="time_picker_dialog_minute_second_separator">:</string>
+    <string name="time_picker_dialog_pm">PM</string>
+    <string name="time_picker_dialog_second_subsecond_separator">.</string>
 </resources>
