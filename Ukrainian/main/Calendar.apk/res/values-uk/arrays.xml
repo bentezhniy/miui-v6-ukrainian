@@ -331,9 +331,9 @@
         <item>Амазонка - Рондонія</item>
         <item>Бразилія - Пара</item>
     </string-array>
-    <string-array name="prefentries_alerts_vibratewhen">
+	<string-array name="prefEntries_alerts_vibrateWhen">
         <item>Завжди</item>
-        <item>У режимі \" Без звуку\"</item>
+        <item>Коли сигнал вимкнено</item>
         <item>Ніколи</item>
-    </string-array>
+     </string-array>
 </resources>
