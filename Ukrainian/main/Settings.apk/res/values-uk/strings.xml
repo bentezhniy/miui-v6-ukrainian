@@ -847,7 +847,7 @@
     <string name="device_status_activity_title">Загальна інформація</string>
     <string name="device_status">Загальна інформація</string>
     <string name="device_status_summary">Номер телефону, рівень сигналу та т. д.</string>
-    <string name="storage_settings">Память</string>
+    <string name="storage_settings">"Пам'ять"</string>
     <string name="storage_settings_title">Налаштування сховища</string>
     <string name="storage_settings_summary">Відключити SD карту, переглянути доступні накопичувачі</string>
     <string name="status_imei">IMEI</string>
@@ -871,7 +871,7 @@
     <string name="status_unavailable">Недоступно</string>
     <string name="status_up_time">Час із моменту включення</string>
     <string name="status_awake_time">Час роботи</string>
-    <string name="internal_memory">Внутрішня память</string>
+    <string name="internal_memory">"Внутрішня пам'ять"</string>
     <string name="sd_memory">SD карта</string>
     <string name="memory_available">Доступно</string>
     <string name="memory_available_read_only">Доступно (тільки читання)</string>
@@ -1114,7 +1114,7 @@
     <string name="advanced_settings">Додатково</string>
     <string name="advanced_settings_summary">Увімкнути додаткові налаштування</string>
     <string name="application_info_label">Про застосунок</string>
-    <string name="storage_label">Память</string>
+    <string name="storage_label">"Пам'ять"</string>
     <string name="auto_launch_label">Запуск за замовчуванням</string>
     <string name="auto_launch_label_generic">За замовчуванням</string>
     <string name="screen_compatibility_label">Сумісність із екраном</string>
@@ -1561,7 +1561,7 @@
     <string name="process_stats_type_background">Фон</string>
     <string name="process_stats_type_foreground">Фон із пріоритетом</string>
     <string name="process_stats_type_cached">Кешовано</string>
-    <string name="process_stats_memory_status">Поточна память: %1$s</string>
+    <string name="process_stats_memory_status">"Поточна пам"ять: %1$s"</string>
     <string name="process_stats_avg_ram_use">Середнє використання ОЗП</string>
     <string name="process_stats_max_ram_use">Максимальне використання ОЗП</string>
     <string name="process_stats_run_time">Час роботи</string>
@@ -2354,10 +2354,10 @@
     <string name="master_clear_personal_data_sdcard">Видалити ваші особисті дані? Всі данні будуть видалені безповоротно.</string>
     <string name="master_clear_all">Стерти всі дані з памяті пристрою? Це необоротна дія!</string>
     <string name="master_clear_erase_application_progress">Видалення застосунків…</string>
-    <string name="erase_internal_storage">Очистити внутрішню память</string>
+    <string name="erase_internal_storage">"Очистити внутрішню пам'ять"</string>
     <string name="erase_internal_storage_description">Видалити всі дані із внутрішньої памяті, у тому числі музику й світлини</string>
     <string name="storage_format">Форматування</string>
-    <string name="system_storage">Внутрішня память</string>
+    <string name="system_storage">"Внутрішня пам'ять"</string>
     <string name="usage_log">Статистика використання застосунка</string>
     <string name="bluetooth_device_searchable">Видимість</string>
     <string name="usb_msd_title">Накопичувач</string>
@@ -2577,12 +2577,12 @@
     <string name="sim_status_title">Статус SIM карти</string>
     <string name="slot_status_title">Інформація про IMEI</string>
     <string name="next_button_label">Далі</string>
-    <string name="internal_media_format_final_desc">Очистити память пристрою? Це необоротна дія! Пристрій буде перезавантажено після завершення очищення</string>
-    <string name="internal_media_format_desc">Очистити внутрішню память? <b>Усі</b> дані будуть загублені безповоротно! Пристрій буде перезавантажено після завершення очищення</string>
+    <string name="internal_media_format_final_desc">"Очистити пам'ять пристрою? Це необоротна дія! Пристрій буде перезавантажено після завершення очищення"</string>
+    <string name="internal_media_format_desc">"Очистити внутрішню пам'ять? <b>Усі</b> дані будуть загублені безповоротно! Пристрій буде перезавантажено після завершення очищення"</string>
     <string name="internal_media_format_button_text">Очистити</string>
-    <string name="internal_media_format_title">Очистити внутрішню память</string>
-    <string name="internal_format">Очистити внутрішню память</string>
-    <string name="internal_format_summary">Видалити всі дані із внутрішньої памяті</string>
+    <string name="internal_media_format_title">"Очистити внутрішню пам'ять"</string>
+    <string name="internal_format">"Очистити внутрішню пам'ять"</string>
+    <string name="internal_format_summary">"Видалити всі дані із внутрішньої пам'яті"</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">Створення звіту про помилки</string>
     <string name="bugreport_tool_log_toast">Звіт збережений в %s</string>
     <string name="bugreport_tool_log">Створити звіт про помилку</string>
@@ -2806,8 +2806,8 @@
     <string name="symbols_not_allowed_for_password">Пароль не може містити символи</string>
     <string name="reset_legacy_password_settings_preface_text">Необхідно скинути пароль блокування екрана</string>
     <string name="priority_storage_title">Налаштування памяті</string>
-    <string name="priority_storage_summary">Виберіть память за замовчуванням для збереження даних</string>
-    <string name="priority_storage_settings_summary">Коли накопичувач не підключений, дані будуть автоматично зберігатися у внутрішню память пристрою</string>
+    <string name="priority_storage_summary">"Виберіть пам'ять за замовчуванням для збереження даних"</string>
+    <string name="priority_storage_settings_summary">"Коли накопичувач не підключений, дані будуть автоматично зберігатися у внутрішню пам'ять пристрою"</string>
     <string name="priority_storage_app_settings">Дані будуть збережені в %1$s</string>
     <string name="enable_mobile_data_when_opening_hotspot">Увімкнути мобільний інтернет?</string>
     <string name="free_wifi_agreement_remind_never">Запамятати</string>
