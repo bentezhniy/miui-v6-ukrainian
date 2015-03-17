@@ -1561,7 +1561,7 @@
     <string name="process_stats_type_background">Фон</string>
     <string name="process_stats_type_foreground">Фон із пріоритетом</string>
     <string name="process_stats_type_cached">Кешовано</string>
-    <string name="process_stats_memory_status">"Поточна пам"ять: %1$s"</string>
+    <string name="process_stats_memory_status">"Поточна пам'ять: %1$s"</string>
     <string name="process_stats_avg_ram_use">Середнє використання ОЗП</string>
     <string name="process_stats_max_ram_use">Максимальне використання ОЗП</string>
     <string name="process_stats_run_time">Час роботи</string>
