@@ -36,7 +36,7 @@
     <string name="resource_pack_confirm">Куплено компонентів теми: %1$d. Буде вигідніше купити повний комплект, ніж докупляти по одному компоненту.</string>
     <string name="resource_pack_warning">Куплено компонентів теми: %1$d. Буде вигідніше купити інші компоненти по одному, ніж повний комплект.</string>
     <string name="resource_title">Інформація</string>
-    <string name="resource_download">Скачати</string>
+    <string name="resource_download">Завантажити</string>
     <string name="resource_downloading">Завантаження…</string>
     <string name="resource_waiting_download">Очікування…</string>
     <string name="resource_import_successful">Завантаження завершене</string>
@@ -69,7 +69,7 @@
     <string name="resource_detail_recommend_desiner_themes">Тем: %1$s</string>
     <string name="resource_share_title">Відправити</string>
     <string name="resource_share_subject">Відправити тему: %1$s</string>
-    <string name="resource_share_text">Я відправив вам тему \"%1$s\". Скачати: %2$s</string>
+    <string name="resource_share_text">Я відправив вам тему \"%1$s\". Завантажити: %2$s</string>
     <string name="resource_delete_all">Видалити обрані ресурси (%1$d)?</string>
     <string name="resource_can_not_selected">%1$s не може бути обраний!</string>
     <string name="resource_system_title">Системні</string>

@@ -339,4 +339,12 @@ Touch the screen to start GPS…"</string>
     <string name="cit_tool_wifi_rx_ap_type_error">AP error, re-enter (bss/adhoc)</string>
     <string name="cit_tool_wifi_rx_ap_not_null">"AP name or type can't be empty"</string>
     <string name="cit_tool_wifi_exit">Exit</string>
+	<string name="cit_camera_calibration_summary">"Інструкція:1.Натисніть кнопку нижче для запуску камери2.Натисніть клавішу \"Назад\" для виходу з камери3.З'явиться напис про те, що калібрування завершене."</string>
+    <string name="cit_tool_cal_camera">Калібрування камери</string>
+    <string name="cit_tool_wifi_chain_1">1</string>
+    <string name="cit_tool_wifi_chain_1_2">1+2</string>
+    <string name="cit_tool_wifi_chain_2">2</string>
+    <string name="cit_tool_wifi_rxn_test_bw">Пропускна здатність:</string>
+    <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
+    <string name="cit_tool_wifi_txrx_chain_selection">Выберите антенну</string>
 </resources>

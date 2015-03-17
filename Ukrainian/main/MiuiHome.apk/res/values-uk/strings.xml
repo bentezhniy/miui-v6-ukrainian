@@ -62,7 +62,7 @@
     <string name="editing_set_transition_effect_tips">Ефекти переходу</string>
     <string name="cant_remove_system_app">Неможливо видалити системний застосунок</string>
     <string name="cant_remove_retained_app">Не вдалося видалити обраний застосунок</string>
-    <string name="uninstall_dialog_message">Будуть очищені всі дані</string>
+    <string name="uninstall_dialog_message">Буде видалено всі дані застосунка</string>
     <string name="uninstall_dialog_title_format">Видалити \"%s\"?</string>
     <string name="uninstall_dialog_title_multi_format" formatted="false">Видалити застосунок \"%s\" і ще %d?</string>
     <string name="uninstall">Видалити</string>

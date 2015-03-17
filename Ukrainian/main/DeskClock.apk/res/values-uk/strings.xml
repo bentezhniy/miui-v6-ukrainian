@@ -41,7 +41,7 @@
     <string name="timer_message_01">%1$d хв. і %2$d сек.</string>
     <string name="timer_message_10">%1$d хв. і %2$d сек.</string>
     <string name="timer_message">Таймер на %1$d хв. і %2$d сек.</string>
-    <string name="timer_item_picker_minute">М</string>
+    <string name="timer_item_picker_minute">хв.</string>
     <string name="timer_item_picker_second">сек.</string>
     <string name="timer_item_duration_display">%1$d хв. %2$d сек.</string>
     <string name="timer_new_item">Додати</string>
@@ -240,4 +240,5 @@
     <string name="zone_time_offset_ahead_only_hour">%d г. більше</string>
     <string name="zone_time_offset_behind">%1$d г. %2$d хв. менше</string>
     <string name="zone_time_offset_behind_only_hour">%d г. менше</string>
+	<string name="battery_charging_level">%d%%</string>
 </resources>

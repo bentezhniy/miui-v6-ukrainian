@@ -106,4 +106,5 @@
     <string name="start_recording">Почати запис</string>
     <string name="stop_recording">Зупинити запис</string>
     <string name="view_list_of_recordings">Перегляд списку записів</string>
+	<string name="preference_tip_rename">Вікно перейменування після запису</string>
 </resources>

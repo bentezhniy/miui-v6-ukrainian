@@ -89,4 +89,28 @@
         <item quantity="zero">Обрано: %1$d</item>
         <item quantity="one">Обрано: %1$d</item>
     </plurals>
+	<plurals name="batch_delete_msg">
+        <item quantity="other">Видалити контакти: %d?</item>
+        <item quantity="one">Видалити контакт: %d?</item>
+     </plurals>
+     <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Видалити контакти: %d</item>
+        <item quantity="one">Видалити контакт: 1</item>
+     </plurals>
+     <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Дзвінків: %d</item>
+        <item quantity="one">Дзвінків: %d</item>
+     </plurals>
+     <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Видалити %d конактів з SIM?</item>
+        <item quantity="one">Видалити %d контакт з SIM?</item>
+     </plurals>
+     <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Скопійовано %d контактів</item>
+        <item quantity="one">Скопійовано %d контакт</item>
+     </plurals>
+     <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">%d контактів на SIM.</item>
+        <item quantity="one">%d контакт на SIM.</item>
+     </plurals>
 </resources>

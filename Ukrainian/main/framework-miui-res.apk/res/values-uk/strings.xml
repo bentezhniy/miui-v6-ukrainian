@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string name="alwaysUsePrompt">Вик. за замовчуванням</string>
+    <string name="alwaysUsePrompt">Вик. за замовчуванням</string>
+	<string name="app_no_notification">нічого</string>
+    <string name="app_notificaiton_on_notificationBar">Панель сповіщень</string>
+    <string name="app_notificaiton_on_statusBar_and_notificationBar">Панель сповіщень та рядок стану</string>
+    <string name="christmas_day">Різдво</string>
+    <string name="device_hongmi">Телефон Hongmi</string>
+    <string name="device_xiaomi">Телефон Xiaomi</string>
+    <string name="first_back_long_press_message">"Ви бажаєте, щоб функція тривалого натискання клавіши Назад закривало застосунок та його сервіси? \n Увімкніть через Налаштування > Додатково > Клавіши"</string>
+    <string name="force_exit_message">Застосунок \"%1$s\" закрито</string>
+    <string name="global_actions_airplane_mode">В літаку</string>
+    <string name="global_actions_reboot">Перезавантаження</string>
+    <string name="global_actions_shutdown">Вимкнення</string>
+    <string name="global_actions_silent_mode">Без звуку</string>
+    <string name="international_womens_day">Міжнародний жіночий день</string>
+    <string name="lockscreen_access_pattern_cell_added">Ячейку додано</string>
+    <string name="lockscreen_access_pattern_cleared">Графічний ключ видалено</string>
+    <string name="lockscreen_access_pattern_detected">Графічний ключ створено</string>
+    <string name="lockscreen_access_pattern_start">Графічний ключ</string>
+    <string name="memory_clear_nothing_result">"Немає пам'яті для звільнення"</string>
+    <string name="memory_clear_result">"Очищено: %1$s Доступно: %2$s"</string>
+    <string name="miui_device_name">MIUI</string>
+    <string name="new_years_day">Новий рік</string>
+    <string name="perm_send_push_dspt">Дозволити надсилання push-повідомлень до Xiaomi</string>
+    <string name="perm_send_push_lab">Надсилання push-повідомлень</string>
+    <string name="reboot_confirm_title">Ви впевнені, що хочете перезавантажити пристрій?</string>
+    <string name="reboot_progress">Перезавантаження…</string>
+    <string name="screen_button_notification_text">"Натисніть \"Додому\"+\"Живлення\" для увімкнення"</string>
+    <string name="screen_button_notification_title">Кнопки на дисплеї вимкнено</string>
+    <string name="screen_on_proximity_sensor_hint">"Примусовий вихід: натисніть \"Назад\"+\"Гучність +\""</string>
+    <string name="screen_on_proximity_sensor_summary">Не закривайте верхню частину екрану</string>
+    <string name="screen_on_proximity_sensor_title">Режим передбачення помилкових натискань</string>
+    <string name="select">Обрати</string>
+    <string name="select_all">Обрати усе</string>
+    <string name="shutdown_confirm_title">Ви впевнені, що бажаєте вимкнути пристрій?</string>
+    <string name="shutdown_progress">Вимкнення…</string>
+    <string name="valentines_day">День усіх закоханих</string>
+    <string name="winter_begins">Зима</string>
 </resources>

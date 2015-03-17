@@ -12,7 +12,7 @@
     <string name="high_risk_perms">Дозволи високого ризику</string>
     <string name="perm_privacy_app_finish">Закрити</string>
     <string name="perm_privacy_app_launch">Відкрити</string>
-    <string name="perm_privacy_app_installed">Встановлення завершена!</string>
+    <string name="perm_privacy_app_installed">Встановлення завершене!</string>
     <string name="perm_sysopt_boost_auto_start">Дозволити автозапуск</string>
     <string name="perm_sysopt_boost_auto_start_summary">Дозволити застосунку автозапуск при завантаженні телефону</string>
     <string name="perm_privacy_app_trust">Довіряти застосунку</string>

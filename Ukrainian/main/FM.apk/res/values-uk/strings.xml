@@ -156,4 +156,5 @@
     <string name="turn_off_speaker_phone">Вимкнути динамік</string>
     <string name="turn_on_fm">Увімкнути радіо</string>
     <string name="turn_on_speaker_phone">Увімкнути динамік</string>
+	<string name="txt_divider">" | "</string>
 </resources>

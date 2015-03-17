@@ -58,7 +58,7 @@
     <string name="play_local_sound">Радіо відтворюється локально: %1$s</string>
     <string name="no_network_text">Не вдалося підключитися до мережі.</string>
     <string name="use_fm_radio_failed">Цей пристрої не може використовувати FM-радіо</string>
-    <string name="no_network_button_radio">Грати FM-радыо</string>
+    <string name="no_network_button_radio">Грати FM-радіо</string>
     <string name="no_network_button_refresh">Оновити</string>
     <string name="no_display_history_text">Історія відсутня</string>
     <string name="favorite">В улюблені</string>

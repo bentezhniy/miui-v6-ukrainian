@@ -169,7 +169,7 @@
     <string name="micloud_main_sync_stop">Зупинити синхронізацію</string>
     <string name="micloud_main_sync_pause">Синхронізація зупинена</string>
     <string name="micloud_main_sync_exception">Помилка синхронізації</string>
-    <string name="micloud_main_stop_sync">Зупинити синхронізацію</string>
+    <string name="micloud_main_stop_sync">Синхронізацію деактивовано</string>
     <string name="micloud_main_suggest_sync">Ваші дані в Mi Cloud застаріли. Потрібна синхронізація</string>
     <string name="micloud_main_set_internet">Налаштування</string>
     <string name="micloud_main_sync_now">Синхронізувати</string>
@@ -264,10 +264,20 @@
     <string name="normal">Нормальний</string>
     <string name="space">Память</string>
     <string name="sync">Синхронізація</string>
-    <string name="system_sync_off">Синхронізація системи відключена</string>
+    <string name="system_sync_off">Синхронізацію системи вимкнено</string>
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_disconnected">Мережа Wi-Fi недоступна</string>
     <string name="wifi_sync">Синхронізація по Wi-Fi</string>
     <string name="finish">Завершене</string>
     <string name="micloud">Mi Cloud</string>
+	<string name="antispam_sync">Чорний список</string>
+    <string name="calendar_sync">Календар</string>
+    <string name="click_to_enabled">Натисніть, аби синхронізувати.</string>
+    <string name="cloudservice_new_sync">Синхронізація %s з Mi Cloud</string>
+    <string name="find_device_status_ok_international">Знайдіть Ваш пристрій в будь-якому місці на www.mi.com/micloud</string>
+    <string name="micloud_main_sync_init">Отримання інформації</string>
+    <string name="micloud_setting_antispam_summary">Виключеня для чорного списку.</string>
+    <string name="micloud_single_dspt">Використовуйте Mi Cloud для синхронізації даних, пошуку пристрою та обміну інформацією з друзями</string>
+    <string name="micloud_space_duokan_detail">Керуйте вмістом використовуючи Duokan.</string>
+    <string name="micloud_space_duokan_title">Duokan</string>
 </resources>

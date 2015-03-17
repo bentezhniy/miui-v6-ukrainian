@@ -131,7 +131,7 @@
     <string name="resource_exchange_wrong_format_by_server">Помилка перевірки коду. Переконаєтеся, що ви ввели його коректно.</string>
     <string name="resource_exchange_has_used">Введений код вже використовується</string>
     <string name="resource_exchange_has_expired">Термін дії коду минув</string>
-    <string name="resource_exchange_unavailable">Тема із цим кодом недоступна</string>
+    <string name="resource_exchange_unavailable">Тема з цим кодом недоступна</string>
     <string name="resource_exchange_has_bought">Ви вже купили цю тему</string>
     <string name="resource_exchange_success">Готове!</string>
     <string name="resource_exchange_share_code_dlg_title">Відправлення…</string>
@@ -616,7 +616,7 @@
     <string name="description_star">вибране</string>
     <string name="edit_contact">Змінити контакт</string>
     <string name="local_invisible_directory">Інше</string>
-    <string name="aggregation_suggestion_join_dialog_message">Обєднати поточний контакт із обраним контактом?</string>
+    <string name="aggregation_suggestion_join_dialog_message">"Об'єднати поточний контакт із обраним контактом?"</string>
     <string name="aggregation_suggestion_edit_dialog_title">Редагувати обрані контакти</string>
     <string name="aggregation_suggestion_edit_dialog_message">Перемкнутися на редагування обраного контакту? Введена інформація буде скопійована</string>
     <string name="menu_copyContact">Копіювати в \"Мої контакти\"</string>
@@ -649,7 +649,7 @@
     <string name="social_widget_loading">Завантаження…</string>
     <string name="contacts_unavailable_create_contact">Створити новий контакт</string>
     <string name="contacts_unavailable_add_account">Увійти в акаунт</string>
-    <string name="contacts_unavailable_import_contacts">Імпорт із файлу vСard</string>
+    <string name="contacts_unavailable_import_contacts">Імпорт з файлу vСard</string>
     <string name="create_group_dialog_title">Створення нової групи</string>
     <string name="create_group_item_label">Створити нову групу</string>
     <string name="delete_group_dialog_title">Видалення групи</string>
@@ -724,10 +724,10 @@
     <string name="action_menu_overflow_description">Додаткові параметри</string>
     <string name="yellowpage_navigation_network_location_enabled">Сервіс активний. Відключити його можна в налаштуваннях місця розташування</string>
     <string name="yellowpage_search_the_yellowpage">Пошук сервісу</string>
-    <string name="import_from_sim">Імпорт із SIM карти</string>
+    <string name="import_from_sim">Імпорт з SIM карти</string>
     <string name="export_to_sim_title">Експортування…</string>
-    <string name="import_from_sim1">Імпорт із SIM карти 1</string>
-    <string name="import_from_sim2">Імпорт із SIM карти 2</string>
+    <string name="import_from_sim1">Імпорт з SIM карти 1</string>
+    <string name="import_from_sim2">Імпорт з SIM карти 2</string>
     <string name="sim_no_contact">Немає контактів на SIM карті</string>
     <string name="sim_indexed_contact_not_exist">Позиція %1$d не є припустимою на SIM карті, повинна бути між %2$d і %3$d</string>
     <string name="sim_contact_search_error">Відбулася помилка при пошуку контактів з SIM карти</string>
@@ -827,7 +827,7 @@
     <string name="unknown_contact_name">Невідомий номер</string>
     <string name="contactDetailCalllog">Журнал викликів</string>
     <string name="add_blacklist">У чорний список</string>
-    <string name="remove_blacklist">Видалити із чорного списку</string>
+    <string name="remove_blacklist">Видалити з чорного списку</string>
     <string name="empty_divider_title">Ви можете</string>
     <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">Відновити контакти з резервної копії в Mi акаунті</string>
@@ -865,7 +865,7 @@
 
 скопійовано: %1$d 
 не вдалося: %2$d"</string>
-    <string name="pref_title_account_import">Імпорт із акаунта</string>
+    <string name="pref_title_account_import">Імпорт з акаунта</string>
     <string name="pref_title_import_from_account">В Mi акаунт</string>
     <string name="pref_summary_import_from_account">Імпорт контактів з акаунта Google в Mi акаунт</string>
     <string name="import_to_xiaomi_account_confirm">Імпорт</string>
@@ -918,7 +918,7 @@
     <string name="option_send_to_desktop">Ярлик на робочий стіл</string>
     <string name="option_send_to_others">Відправити…</string>
     <string name="option_not_star">Видалити з вибраних</string>
-    <string name="option_not_in_group">Видалити контакт із групи</string>
+    <string name="option_not_in_group">Видалити контакт з групи</string>
     <string name="option_view_group">Подивитися</string>
     <string name="option_rename_group">Перейменувати</string>
     <string name="option_delete_group">Видалити групу</string>
@@ -967,8 +967,8 @@
     <string name="group_delete_success_toast">Група видалена</string>
     <string name="group_create_fail_toast">Не вдалося створити групу</string>
     <string name="group_rename_fail_toast">Не вдалося перейменувати групу</string>
-    <string name="contact_unfavorite_toast">Контакт видалений з вибраних</string>
-    <string name="group_member_remove_toast">Контакт видалений із групи</string>
+    <string name="contact_unfavorite_toast">Контакт видалено з вибраних</string>
+    <string name="group_member_remove_toast">Контакт видалено з групи</string>
     <string name="duplicate_group_name">Група вже існує</string>
     <string name="all_list_empty">Немає контактів</string>
     <string name="favorites_list_empty">Немає вибраних</string>
@@ -1015,7 +1015,7 @@
     <string name="smart_group_frequency_4">Більше 6 місяців</string>
     <string name="contact_detail_calllog_call_record_tips">Запис виклику</string>
     <string name="contact_detail_calllog_call_note_tips">Замітка виклику</string>
-    <string name="import_from_other_phone">Імпорт із іншого телефону</string>
+    <string name="import_from_other_phone">Імпорт з іншого телефону</string>
     <string name="device_brand_title">Виберіть марку телефону</string>
     <string name="device_version_title">Виберіть модель телефону</string>
     <string name="device_list_title">Виберіть телефон</string>
@@ -1101,7 +1101,7 @@
     <string name="delete_selected_sim_entry_miui">Видалити обрані контакти</string>
     <string name="import_selected_sim_entries_miui">Імпорт обраних контактів</string>
     <string name="dlg_add_blacklist">Додати номер у чорний список?</string>
-    <string name="dlg_remove_blacklist">Видалити номер із чорного списку?</string>
+    <string name="dlg_remove_blacklist">Видалити номер з чорного списку?</string>
     <string name="close_dial_pad">Закрити клавіатуру</string>
     <string name="dial">Виклик</string>
     <string name="delete_dial_input">Видалити</string>
@@ -1197,8 +1197,6 @@
     <string name="cancel_vСard_import_or_export_failed">Не вдалося скасувати імпорт/експорт vСard</string>
     <string name="contact_is_readonly">Не вдається відредагувати контакт тільки для читання</string>
     <string name="import_vСard_description">"Імпорт контактів з пам'яті телефону"</string>
-    <string name="listFoundallContactsZero">Немає контактів</string>
-    <string name="returncall">Зворотний виклик</string>
     <string name="searching_vсard_message">Пошук даних vСard на накопичувачі…</string>
     <string name="vсard_export_request_rejected_message">Експорт vСard відхилено</string>
     <string name="vсard_export_will_start_message">Експорт \"%s\" почнеться найближчим часом</string>
@@ -1206,5 +1204,47 @@
     <string name="vсard_import_request_rejected_message">Імпорт vСard відмінений</string>
     <string name="vсard_import_will_start_message">Імпорт \"%s\" почнеться найближчим часом</string>
     <string name="vсard_import_will_start_message_with_default_name">Файл буде імпортований найближчим часом</string>
-    <string name="vсard_unknown_filename">контакт</string>
+    <string name="vcard_unknown_filename">контакт</string>
+	<string name="actionIncomingCall">Вхідні виклики</string>
+    <string name="caching_vcard_message">Триває кешування файлів vCard до тимчасового локального сховища, незабаром почнеться імпорт.</string>
+    <string name="caching_vcard_title">Кешування</string>
+    <string name="call_log_empty_gecode">-</string>
+    <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
+    <string name="callrecordview_menu_delete_confirm">Очистити журналі викликів?</string>
+    <string name="cancel_vcard_import_or_export_failed">Не вдалося скасувати імпорт/експорт vCard</string>
+    <string name="contact_delete_toast">Контакт успішно видалено</string>
+    <string name="from_account_format">%1$s</string>
+    <string name="help_url_people_add" />
+    <string name="help_url_people_edit" />
+    <string name="help_url_people_main" />
+    <string name="imei">IMEI</string>
+    <string name="import_percent">0%</string>
+    <string name="import_vcard_description">Імпорт контактів з SD-карти</string>
+    <string name="listFoundAllContactsZero">Контактів немає</string>
+    <string name="lunar_calendar">Календар</string>
+    <string name="lunar_leap">闰</string>
+    <string name="lunar_yue">月</string>
+    <string name="meid">MEID</string>
+    <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
+    <string name="resource_comment_date">%1$02d-%2$02d</string>
+    <string name="resource_detail_vertical_divider">|</string>
+    <string name="resource_price_unit">MiCredits</string>
+    <string name="resource_tab_to_view">Переглянути</string>
+    <string name="returnCall">Зворотній виклик</string>
+    <string name="searching_vcard_message">Пошук даних vCard на SD-картці…</string>
+    <string name="sim_contact_number_missing">Номер контакту на SIM-картці відсутній</string>
+    <string name="sina_weibo">Sina Weibo</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
+    <string name="solar_calendar">Сонячний календарь</string>
+    <string name="vcard_export_request_rejected_message">Запит про експорт даних vCard вимкнено. Спробуйте ще пізніше.</string>
+    <string name="vcard_export_will_start_message">Експорт файлу %s…</string>
+    <string name="vcard_import_failed">Не вдалося імпортувати дані vCard</string>
+    <string name="vcard_import_request_rejected_message">Імпорт vCard скасовано.</string>
+    <string name="vcard_import_will_start_message">Імпорт %s почнеться найближчим часом</string>
+    <string name="vcard_import_will_start_message_with_default_name">Файл буде імпортовано найближчим часом</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
+    <string name="yellowpage_navigation_search_history">Історія</string>
 </resources>

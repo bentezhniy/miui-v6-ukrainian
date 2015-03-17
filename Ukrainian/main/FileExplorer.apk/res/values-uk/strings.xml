@@ -322,4 +322,27 @@
     <string name="image_share">Відправити</string>
     <string name="init">Запуск…</string>
     <string name="category_recent">Нещодавні</string>
+	<string name="action_mode_deselect_all">Зняти все</string>
+    <string name="action_mode_select_all">Скасувати все</string>
+    <string name="delete_selected_tasks">Видалити обрані？</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="files">Файли</string>
+    <string name="get_cloud_space">Додати 500GB</string>
+    <string name="kp_category_all">Категорії</string>
+    <string name="kp_category_doc">Word</string>
+    <string name="kp_category_excel">Excel</string>
+    <string name="kp_category_pdf">PDF</string>
+    <string name="kp_category_ppt">PowerPoint</string>
+    <string name="kp_category_txt">Text</string>
+    <string name="kuaipan_cloud_photo">KuaiPan світлини</string>
+    <string name="kuaipan_create_shortcut_success">Посилання створене</string>
+    <string name="kuaipan_data_formater_with_year">Місяць М день Д рік РРРР</string>
+    <string name="kuaipan_data_formater_without_year">М місяць д день</string>
+    <string name="kuaipan_delete_success">Світлину видалено</string>
+    <string name="kuaipan_photo_folder_divider">,</string>
+    <string name="kuaipan_photo_locate">Розташування %1$s</string>
+    <string name="kuaipan_photo_more_folder_count">%1$s</string>
+    <string name="kuaipan_root_fooder">Домашня</string>
+    <string name="no_display_file">"Неможливо відобразити %1$s"</string>
+    <string name="version_text">Версія %1$s</string>
 </resources>

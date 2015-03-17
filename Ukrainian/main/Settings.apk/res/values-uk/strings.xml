@@ -2215,7 +2215,7 @@
     <string name="screen_key_long_press_timeout">Тривалість натискання</string>
     <string name="under_keyguard">Функції на екрані блокування</string>
     <string name="enable_snapshot_screenlock">Запуск камери клавішею \"Назад\"</string>
-    <string name="disable_power_key_long_press_under_keyguard">Відключити меню живлення</string>
+    <string name="disable_power_key_long_press_under_keyguard">Не показувати меню живлення</string>
     <string name="trackball_wake_title">Пробудження трекболом</string>
     <string name="pref_volume_wake_title">Будити клавішами гучності</string>
     <string name="pref_volume_wake_summary">Натискання клавіш регулювання гучності в заблокованому стані розбудіть пристрій</string>
@@ -2777,7 +2777,7 @@
     <string name="other_personal_settings">Додатково</string>
     <string name="other_advanced_settings">Додатково</string>
     <string name="recent_location_requests_title">Доступ до місця розташування</string>
-    <string name="recent_location_requests_summary">Застосунка з доступом до місця розташування</string>
+    <string name="recent_location_requests_summary">Застосунки з доступом до місця розташування</string>
     <string name="permission_manager">Дозволи</string>
     <string name="security_keyguard_category_name">Блокування екрана</string>
     <string name="security_password_category_name">Пароль</string>
