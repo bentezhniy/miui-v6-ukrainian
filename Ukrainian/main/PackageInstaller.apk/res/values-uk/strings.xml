@@ -49,7 +49,7 @@
     <string name="install">Встановити</string>
     <string name="done">Готове</string>
     <string name="security_settings_desc">Дозволити цьому застосунку:</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="unknown">Невідомо</string>
     <string name="installing">Встановлення…</string>
     <string name="install_done">Застосунок встановлений</string>
@@ -100,7 +100,7 @@
     <string name="Parse_error_dlg_title">Синтаксична помилка</string>
     <string name="Parse_error_dlg_text">При синтаксичному аналізі пакета виникла неполадка</string>
     <string name="all">Всі дозволи</string>
-    <string name="button_cancel">Скасування</string>
+    <string name="button_cancel">Скасувати</string>
     <string name="button_continue">Продовжити</string>
     <string name="button_continue_install">Продовжити</string>
     <string name="button_install_lastest">Встановити</string>

@@ -11,7 +11,7 @@
     <string name="payphone">Телефон-Автомат</string>
     <string name="mmiStarted">Виконується запит</string>
     <string name="ussdRunning">Виконується USSD запит...</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="enter_input" formatted="false">USSD запит повинен містити від %d до %d символів. Повторіть ще раз</string>
     <string name="ok">ОК</string>
     <string name="send_button">Відправити</string>
@@ -404,7 +404,7 @@ sim карта буде очищена при невдалій спробі вв
     <string name="managed_roaming_title_sub3">Керування роумінгом (SUB3)</string>
     <string name="managed_roaming_dialog_content">Знайдена мережа з обмеженим обслуговуванням. Виконати пошук служб?</string>
     <string name="managed_roaming_dialog_ok_button">ОК</string>
-    <string name="managed_roaming_dialog_cancel_button">Скасування</string>
+    <string name="managed_roaming_dialog_cancel_button">Скасувати</string>
     <string name="ota_title_activate">Активувати телефон</string>
     <string name="ota_touch_activate">"Необхідний спеціальний виклик для активації служби телефону.
 
@@ -523,7 +523,7 @@ sim карта буде очищена при невдалій спробі вв
     <string name="ims_service_capability">Увімкнути/вимкнути можливість обслуговування</string>
     <string name="ims_service_capability_title">Увімкнути/вимкнути можливості сервісу IMS</string>
     <string name="ims_menu_save">Зберегти</string>
-    <string name="ims_menu_discard">Скасування</string>
+    <string name="ims_menu_discard">Скасувати</string>
     <string name="remove_ims_account">Видалити аккаунт</string>
     <string name="not_voice_capable">Голосові виклики не підтримуються</string>
     <string name="respond_via_sms_canned_response_1">Не можу говорити. Що трапилося?</string>
@@ -559,7 +559,7 @@ sim карта буде очищена при невдалій спробі вв
     <string name="place_a_call1">Підписка 1</string>
     <string name="place_a_call2">Підписка 2</string>
     <string name="place_a_call3">Підписка 3</string>
-    <string name="cancel_call">Скасування</string>
+    <string name="cancel_call">Скасувати</string>
     <string name="sip_add_account_tip_text">Немає акаунтів</string>
     <string name="clir_choices_network_default">Мережа за замовчуванням</string>
     <string name="clir_choices_hide_number">Сховати номер</string>

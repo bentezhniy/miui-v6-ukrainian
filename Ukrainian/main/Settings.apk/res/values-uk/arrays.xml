@@ -656,4 +656,43 @@
         <item>Баланс</item>
         <item>Якість</item>
     </string-array>
+	<string-array name="back_long_press_timeout">
+        <item>0,5 секунди</item>
+        <item>1 секунда</item>
+        <item>1,5 секунди</item>
+        <item>2 секунди</item>
+     </string-array>
+     <string-array name="captioning_typeface_selector_titles">
+        <item>За замовчуванням</item>
+        <item>Без засічок</item>
+        <item>Без засічок, стиснутий</item>
+        <item>Із засічками</item>
+        <item>Моноширинний</item>
+     </string-array>
+     <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Стоковий</item>
+     </string-array>
+     <string-array name="multi_sim_entries">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+     </string-array>
+     <string-array name="multi_sim_entries_voice">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+        <item>Підтвердження</item>
+     </string-array>
+     <string-array name="multi_sim_entries_voice_without_prompt">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+     </string-array>
+     <string-array name="multi_sim_summaries">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+     </string-array>
+     <string-array name="multi_sim_summaries_voice">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+        <item>Підтвердження користувача</item>
+     </string-array>
 </resources>

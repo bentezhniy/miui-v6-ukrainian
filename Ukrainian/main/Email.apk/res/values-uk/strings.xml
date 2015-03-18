@@ -254,9 +254,9 @@
     <string name="bottom_bar_more_unread">Не прочитане</string>
     <string name="bottom_bar_no_quickreply_toast">Немає швидкоъ відповіді</string>
     <string name="bytes">%s б</string>
-    <string name="cancel">Скасування</string>
-    <string name="cancel_action">Скасування</string>
-    <string name="cancel_attachment">Скасування</string>
+    <string name="cancel">Скасувати</string>
+    <string name="cancel_action">Скасувати</string>
+    <string name="cancel_attachment">Скасувати</string>
     <string name="cannot_move_multiple_accounts_toast">Не вдалося перемістити повідомлення, тому що вони знаходяться у різних акаунтах.</string>
     <string name="cannot_move_protocol_not_supported_toast">Переміщення не підтримується в акаунтах POP3.</string>
     <string name="cannot_move_special_mailboxes_toast">Не можна переміщати повідомлення з папок Чернетки, Вихідні і Відправлені</string>
@@ -295,7 +295,7 @@
     <string name="confirm_delete_conversation_title">Видалити</string>
     <string name="confirm_discard_text">Видалити повідомлення?</string>
     <string name="confirm_response">Відправлення…</string>
-    <string name="confirm_save_message_no">Скасування</string>
+    <string name="confirm_save_message_no">Скасувати</string>
     <string name="confirm_save_message_title">Зберегти чернетку?</string>
     <string name="confirm_save_message_yes">ОК</string>
     <string name="confirm_send_message_with_no_body">Немає тексту</string>
@@ -370,7 +370,7 @@
     <string name="donot_disturb_summary">У визначений час сповіщення про пошту будуть вимкнені</string>
     <string name="donot_disturb_title">Не турбувати</string>
     <string name="downlaod_cancel_confirm_download">ОК</string>
-    <string name="downlaod_cancel_continue_download">Скасування</string>
+    <string name="downlaod_cancel_continue_download">Скасувати</string>
     <string name="downlaod_confirm_download">ОК</string>
     <string name="downlaod_nonWifi_confirm_message">При завантаженні можливо надмірне споживання трафіку.</string>
     <string name="downlaod_nonWifi_confirm_title">Завантажити вкладення?</string>
@@ -555,7 +555,7 @@
     <string name="message_discarded">Повідомлення видалене</string>
     <string name="message_invite_accept">ОК</string>
     <string name="message_invite_calendar_view">Показати в календарі</string>
-    <string name="message_invite_decline">Скасування</string>
+    <string name="message_invite_decline">Скасувати</string>
     <string name="message_invite_tentative">Можливо</string>
     <string name="message_invite_title">Запрошення календаря</string>
     <string name="message_saved">Чернетка збережена</string>
@@ -576,7 +576,7 @@
     <string name="new_messages">Нових повідомлень: %1$d</string>
     <string name="next_action">Далі</string>
     <string name="next_not_prompt">"Запам'ятати"</string>
-    <string name="no">Скасування</string>
+    <string name="no">Скасувати</string>
     <string name="no_application_found">Немає застосунку для відкриття цього вкладення</string>
     <string name="no_application_found_title">Відкрити вкладення</string>
     <string name="no_contacts">Немає контактів</string>

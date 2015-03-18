@@ -39,7 +39,7 @@
     <string name="airplane_error_msg">У режимі польоту не можна використовувати Bluetooth</string>
     <string name="bt_enable_line1">Щоб використовувати служби Bluetooth, увімкніть адаптер Bluetooth</string>
     <string name="bt_enable_line2">Увімкнути Bluetooth?</string>
-    <string name="bt_enable_cancel">Скасування</string>
+    <string name="bt_enable_cancel">Скасувати</string>
     <string name="bt_enable_ok">Увімкнути</string>
     <string name="incoming_file_confirm_title">Передача файлів</string>
     <string name="incoming_file_confirm_content">"\"%1$s\" відправляє вам файл %2$s (%3$s).

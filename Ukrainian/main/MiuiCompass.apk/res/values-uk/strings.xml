@@ -41,6 +41,6 @@
     <string name="using_camera_confirm_title">Попередження</string>
     <string name="using_camera_confirm_message">Дозволити застосунку використовувати камеру?</string>
     <string name="using_camera_confirm_ok">ОК</string>
-    <string name="using_camera_confirm_cancel">Скасування</string>
+    <string name="using_camera_confirm_cancel">Скасувати</string>
     <string name="shake_enter_tip">Струсніть для калібрування</string>
 </resources>

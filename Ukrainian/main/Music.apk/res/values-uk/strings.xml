@@ -100,7 +100,7 @@
     <string name="dialog_button_find_music">Пошук музики</string>
     <string name="dialog_button_editor_choice">Рекомендоване</string>
     <string name="dialog_button_create_playlist">Створити плейлист</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="ok">ОК</string>
     <string name="done">Готове</string>
     <string name="retry">Повтор</string>
@@ -199,7 +199,7 @@
     <string name="metered_alert">Попередження</string>
     <string name="metered_alert_msg">Дозволити завантаження музики по мобільному інтернету?</string>
     <string name="metered_allow">ОК</string>
-    <string name="metered_disallow">Скасування</string>
+    <string name="metered_disallow">Скасувати</string>
     <string name="metered_play_toast">Відтворення музики онлайн</string>
     <string name="no_results_return">Немає результатів</string>
     <string name="list_item_play_FM_radio">Відтворити радіо</string>

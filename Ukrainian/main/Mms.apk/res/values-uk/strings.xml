@@ -94,7 +94,7 @@
     <string name="menu_view_contact">Переглянути контакт</string>
     <string name="hidden_sender_address">Адреса відправника прихована</string>
     <string name="yes">ОК</string>
-    <string name="no">Скасування</string>
+    <string name="no">Скасувати</string>
     <string name="set">Зберегти</string>
     <string name="play">Відтворити</string>
     <string name="edit">Змінити</string>
@@ -495,7 +495,7 @@ sms (%1$d), MMS (%2$d)."</string>
     <string name="confirm_dlg_title">Керування пристроєм</string>
     <string name="confirm_dlg__msg">Скасувати реєстрацію?</string>
     <string name="alert_dlg_ok_button">ОК</string>
-    <string name="alert_dlg_cancel_button">Скасування</string>
+    <string name="alert_dlg_cancel_button">Скасувати</string>
     <string name="send_message_notification_tickerText">Запит дозволу керування пристроєм</string>
     <string name="send_message_notification_title">Керування пристроєм</string>
     <string name="send_message_notification_msg">Керування пристроєм запитує дозвіл на надсилання повідомлення</string>

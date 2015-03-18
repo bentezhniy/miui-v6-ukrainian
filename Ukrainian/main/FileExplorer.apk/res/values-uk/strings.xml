@@ -31,11 +31,11 @@
     <string name="operation_rename">Перейменувати</string>
     <string name="operation_delete">Видалити</string>
     <string name="operation_info">Інформація</string>
-    <string name="operation_cancel">Скасування</string>
+    <string name="operation_cancel">Скасувати</string>
     <string name="operation_refresh">Оновити</string>
     <string name="operation_show_sys">Показувати приховані файли</string>
     <string name="operation_hide_sys">Не показувати приховані файли</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="tab_expand">Онлайн</string>
     <string name="mi_router_label">Mi роутер</string>
     <string name="usb_label">USB</string>
@@ -175,7 +175,7 @@
     <string name="decompress_to_here">Розпакувати в поточну папку</string>
     <string name="decompress_to">Розпакувати в…</string>
     <string name="decompress_confirm">Розпакувати</string>
-    <string name="decompress_cancel">Скасування</string>
+    <string name="decompress_cancel">Скасувати</string>
     <string name="kuaipan_prompt">Kuaipan</string>
     <string name="kuaipan_prompt_message">Іде обслуговування сервісу. Будь ласка, спробуйте пізніше.</string>
     <string name="move_failed">Помилка переміщення</string>

@@ -25,7 +25,7 @@
     <string name="clear_shortcuts_summary">Очищення історії всіх пошукових запитів</string>
     <string name="clear_shortcuts_prompt">Вся історія пошукових запитів буде очищена</string>
     <string name="clear_shortcuts_agree">Очистити</string>
-    <string name="clear_shortcuts_disagree">Скасування</string>
+    <string name="clear_shortcuts_disagree">Скасувати</string>
     <string name="menu_help">Допомога</string>
     <string name="google_search_label">Google</string>
     <string name="google_app_label">Пошук Google</string>

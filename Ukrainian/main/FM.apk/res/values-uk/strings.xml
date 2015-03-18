@@ -60,8 +60,8 @@
     <string name="group_favor">Обрані станції</string>
     <string name="group_other">Інші станції</string>
     <string name="FMRecording_reach_storage_threshold">Запис зупинений. Недостатньо місця на SD карті</string>
-    <string name="access_sd_fail">Неможливо одержати доступ до SD карти</string>
-    <string name="alert_dialog_cancel">Скасування</string>
+    <string name="access_sd_fail">Неможливо отримати доступ до SD карти</string>
+    <string name="alert_dialog_cancel">Скасувати</string>
     <string name="alert_dialog_ok">ОК</string>
     <string name="alert_title_delete">Видалити</string>
     <string name="alert_title_new_station">Нова станція</string>

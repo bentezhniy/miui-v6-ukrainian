@@ -9,6 +9,6 @@
     <string name="aqi_quality_index_dangerous">ІЯП %1$s</string>
     <string name="aqi_quality_index_hazardous">ІЯП %1$s</string>
     <string name="aqi_quality_index_break">ІЯП %1$s</string>
-    <string name="view_indexes_wind_unit">км/ч</string>
+    <string name="view_indexes_wind_unit">км/г</string>
     <string name="view_realtime_clear_substitution">Ясно</string>
 </resources>

@@ -34,7 +34,7 @@
     <string name="cancelling_notification_title_template">Скасування %1$s</string>
     <string name="failed_notification_title_template">Помилка друку %1$s</string>
     <string name="blocked_notification_title_template">Друк заблокований %1$s</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="restart">Повтор</string>
     <string name="no_connection_to_printer">"Немає з'єднання із принтером"</string>
     <string name="reason_unknown">Невідомо</string>

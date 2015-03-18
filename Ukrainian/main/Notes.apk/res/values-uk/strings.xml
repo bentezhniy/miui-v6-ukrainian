@@ -76,7 +76,7 @@
     <string name="select_account_prompt">Синхронізація нотаток</string>
     <string name="enable_sync_desc">Синхронізувати нотатки з Mi акаунтом \"%1$s\"?</string>
     <string name="add_account_desc">Синхронізувати нотатки з вашим Mi акаунтом?</string>
-    <string name="not_now">Скасування</string>
+    <string name="not_now">Скасувати</string>
     <string name="enable_sync">Синхронізувати</string>
     <string name="login_sync">ОК</string>
     <string name="pref_title_note_style">Стиль нотаток</string>

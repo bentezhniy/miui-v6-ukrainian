@@ -90,7 +90,7 @@
     <string name="i_know">ОК</string>
     <string name="find_device_disabled_title">Відключене</string>
     <string name="find_device_disabled_notice">Ви можете перемикати функцію пошуку пристроїв з налаштувань Mi акаунта.</string>
-    <string name="button_cancel">Скасування</string>
+    <string name="button_cancel">Скасувати</string>
     <string name="enable_micloud">Активувати сервіси</string>
     <string name="micloud_more">Докладніше</string>
     <string name="micloud_dspt">Використовуйте Mi Cloud для синхронізації даних і пошуку пристрою</string>

@@ -118,7 +118,7 @@
     <string name="comment_upload_not_logined">Будь ласка, спочатку ввійдіть в акаунт</string>
     <string name="comment_upload_need_login">Увійти в акаунт, щоб залишити відгуки?</string>
     <string name="comment_upload_login_ok">ОК</string>
-    <string name="comment_upload_login_cancel">Скасування</string>
+    <string name="comment_upload_login_cancel">Скасувати</string>
     <string name="comment_upload_account_need_activitied">Ваш акаунт не активований, включити його зараз?</string>
     <string name="comment_upload_account_not_activitied">Ваш акаунт не активований, будь ласка, активуйте й спробуйте ще раз.</string>
     <string name="comment_count_hint">Натисніть для оцінки:</string>
@@ -167,7 +167,7 @@
     <string name="deleting">Видалення…</string>
     <string name="update">Оновити</string>
     <string name="installed">Встановлене</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="launch">Запустити</string>
     <string name="send">Відправити</string>
     <string name="delete">Видалити</string>
@@ -285,7 +285,7 @@
     <string name="install_on_data_description">Завантаження по 2G/3G може надмірно споживати трафік, продовжити завантаження застосунків %1$s і %2$s?</string>
     <string name="install_all_title">Встановити всі</string>
     <string name="install_all_description">Встановити застосунки %1$s і %2$s зараз?</string>
-    <string name="install_btn_cancel">Скасування</string>
+    <string name="install_btn_cancel">Скасувати</string>
     <string name="install_btn_continue">Далі</string>
     <string name="install_btn_ok">ОК</string>
     <string name="install_start_cleanup">Почати очищення</string>
@@ -371,7 +371,7 @@
     <string name="user_agreement_content5">\?</string>
     <string name="user_agreement_title">Умови користування</string>
     <string name="user_agreement_allow">ОК</string>
-    <string name="user_agreement_quit">Скасування</string>
+    <string name="user_agreement_quit">Скасувати</string>
     <string name="user_agreement_remind_never">Більше не показувати</string>
     <string name="user_agreement_remind_again">Показувати умови користування</string>
     <string name="user_agreement_remind_summary">Показувати умови користування при кожному запуску застосунку</string>

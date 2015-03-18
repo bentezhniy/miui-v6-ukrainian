@@ -338,7 +338,7 @@
     <string name="duration">Тривалість</string>
     <string name="flash">Спалах</string>
     <string name="save">ОК</string>
-    <string name="no_save">Скасування</string>
+    <string name="no_save">Скасувати</string>
     <string name="pref_camera_multiple_face_beauty_title">Поліпшення тону шкіри</string>
     <string name="pref_camera_multiple_face_beauty_entry_off">1 людина</string>
     <string name="pref_camera_multiple_face_beauty_entry_on">2 людини</string>
@@ -362,7 +362,7 @@
     <string name="bg_replacement_message">"Встановіть телефон нерухомо. 
 на якийсь час відійдіть від об'єктива"</string>
     <string name="can_not_play_video">Розблокування екрана для відтворення</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="clear_effects">Забрати ефекти</string>
     <string name="cloud_album_details">Інформація хмарного альбому:</string>
     <string name="confirm_change_mode_title">Перемкнути режим</string>
@@ -501,7 +501,7 @@
     <string name="resume_playing_restart">Почати спочатку</string>
     <string name="resume_playing_resume">Продовжити</string>
     <string name="resume_playing_title">Продовжити відтворення</string>
-    <string name="review_cancel">Скасування</string>
+    <string name="review_cancel">Скасувати</string>
     <string name="rotate_left">Повернути вліво</string>
     <string name="rotate_right">Повернути вправо</string>
     <string name="scan_qrcode">Сканування QR коду</string>
@@ -531,7 +531,7 @@
     <string name="toast_burst_snap_forbidden_when_face_beauty_open">Серійна зйомка недоступна, коли включений режим поліпшення тону шкіри</string>
     <string name="toast_burst_snap_forbidden_when_hdr_open">Серійна зйомка недоступна, коли ввімкнений режим HDR.</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серійна зйомка не підтримується, якщо ISO не встановлене в режим \"Авто\".</string>
-    <string name="undo">Скасування</string>
+    <string name="undo">Скасувати</string>
     <string name="unit_mm">мм</string>
     <string name="video_camera_label">Відеокамера</string>
     <string name="video_err">Неможливо відтворити відео</string>

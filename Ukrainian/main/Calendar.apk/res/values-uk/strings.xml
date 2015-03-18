@@ -92,7 +92,7 @@
     <string name="edit_label">Змінити</string>
     <string name="delete_label">Видалити</string>
     <string name="save_label">Готове</string>
-    <string name="discard_label">Скасування</string>
+    <string name="discard_label">Скасувати</string>
     <string name="snooze_all_label">Відкласти всі</string>
     <string name="dismiss_all_label">ОК</string>
     <string name="snooze_label">Відкласти</string>

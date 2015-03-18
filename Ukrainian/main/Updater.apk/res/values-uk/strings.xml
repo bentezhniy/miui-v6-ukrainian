@@ -41,8 +41,8 @@
     <string name="check_update_when_wifi_available">Оновлення тільки по Wi-Fi</string>
     <string name="update_monthly_build_only">Тільки щомісячні оновлення</string>
     <string name="apply_update_dialog_update_button">Оновлення</string>
-    <string name="apply_update_dialog_cancel_button">Скасування</string>
-    <string name="cancel_download_buton_text">Скасування</string>
+    <string name="apply_update_dialog_cancel_button">Скасувати</string>
+    <string name="cancel_download_buton_text">Скасувати</string>
     <string name="boot_recovery">Перезавантаження в Recovery</string>
     <string name="cancel_download">Скасувати завантаження?</string>
     <string name="update_success">Оновлення завершене</string>
@@ -90,7 +90,7 @@
     <string name="auto_dialog_title_check_again">Скасувати оновлення?</string>
     <string name="auto_dialog_msg_check_again">"Необхідно прийняти змінену політику конфіденційност перед оновленням. "</string>
     <string name="auto_button_examine_immediately">Показати</string>
-    <string name="auto_button_sure_cancel">Скасування</string>
+    <string name="auto_button_sure_cancel">Скасувати</string>
     <string name="auto_update_sum">Встановлювати оновлення автоматично після завантаження</string>
     <string name="updater_nonetwork">Ввімкніть інтернет для перегляду списку змін</string>
     <string name="updater_nonetwork_clause">Увімкніть інтернет для перегляду зміненої політики конфіденційності</string>
@@ -196,7 +196,7 @@
     <string name="downloading_description">Завантаження…</string>
     <string name="apply_upload_info_message">Натисніть \"Оновити\". Телефон буде автоматично перезавантажений для застосування оновлень</string>
     <string name="apply_now_button_text">Оновити</string>
-    <string name="apply_later_button_text">Скасування</string>
+    <string name="apply_later_button_text">Скасувати</string>
     <string name="reboot_to_new_system">Перезавантаження в нову систему</string>
     <string name="install_failed">Помилка оновлення</string>
     <string name="download_failed">Помилка завантаження</string>

@@ -5,7 +5,7 @@
     <string name="local_home_title">Локальні бекапи</string>
     <string name="button_backup">Створити бекап</string>
     <string name="start_backup">Почати</string>
-    <string name="button_cancel">Скасування</string>
+    <string name="button_cancel">Скасувати</string>
     <string name="backup_empty">Немає бекапів</string>
     <string name="backup_items_sysdata_tailer">" (системні дані) "</string>
     <string name="backup_items_app_tailer">" (дані  застосунків) "</string>
@@ -20,7 +20,7 @@
     <string name="backup_hint">Не виключайте телефон</string>
     <string name="menu_patch_delete">Видалити бекапи</string>
     <string name="delete">Видалити</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="delete_backup_process">Видалення…</string>
     <string name="backup_error">Помилка</string>
     <string name="delete_failed_backup_confirm">Бекап має помилки й не може використовуватися для відновлення</string>
@@ -118,7 +118,7 @@
     <string name="button_next">Далі</string>
     <string name="button_finish">Закрити</string>
     <string name="progress_backup_hint">Створення бекапа…</string>
-    <string name="cancel_backup">Скасування</string>
+    <string name="cancel_backup">Скасувати</string>
     <string name="restore_contact">Відновити контакти</string>
     <string name="restore_contact_content">При відновленні адресної книги може відбутися дублювання контактів, продовжити?</string>
     <string name="progress_restore_hint">Відновлення…</string>

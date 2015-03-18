@@ -6,7 +6,7 @@
     <string name="task_already_exist">Завантаження вже існує</string>
     <string name="privacy_tip_title">Використовувати сервіс Xunlei?</string>
     <string name="privacy_tip_content">Сервіс прискорення Xunlei дозволяє завантажувати файли на максимальній швидкості. Ваша інформація о Mi акаунті буде синхронізована для перевірки активнтх підписок на цей сервіс.</string>
-    <string name="privacy_tip_cancel">Скасування</string>
+    <string name="privacy_tip_cancel">Скасувати</string>
     <string name="privacy_tip_ok">ОК</string>
     <string name="privacy_notif_title">Прискорення завантаження Xunlei увімкнено</string>
     <string name="privacy_notif_content">Натисніть для перегляду інформації</string>

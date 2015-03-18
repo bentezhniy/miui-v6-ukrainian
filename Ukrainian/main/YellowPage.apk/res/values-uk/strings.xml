@@ -495,7 +495,7 @@
     <string name="resource_title_select_ringtone">Виберіть мелодію</string>
     <string name="resource_trial_end_message">Пробний період %1$s закінчено. Якщо вам сподобалось, ви можете придбати повну версію.</string>
     <string name="resource_trial_end_purchase">Придбати</string>
-    <string name="resource_trial_end_restore">Скасування</string>
+    <string name="resource_trial_end_restore">Скасувати</string>
     <string name="resource_trial_end_title">Пробний період закінчений</string>
     <string name="resource_trial_fail_cancel">ОК</string>
     <string name="resource_trial_fail_go_settings">Налаштування</string>

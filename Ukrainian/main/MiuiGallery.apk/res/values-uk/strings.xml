@@ -93,7 +93,7 @@
     <string name="confirm_delete_has_cloud_local_image_video">"Видалити обрані файли з пам'яті телефону й Mi Cloud? (%s)"</string>
     <string name="confirm_delete_has_cloud_image_video">Видалити обрані файли з Mi Cloud? (%s)</string>
     <string name="confirm_delete_has_local_image_video">Видалити обрані файли? (%s)</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="select_all">Вибрати всі</string>
     <string name="deselect_all">Зняти вибір</string>
     <string name="slideshow">Слайдшоу</string>
@@ -545,7 +545,7 @@
     <string name="priority_storage">Збереження на SD карту</string>
     <string name="priority_storage_summary">Автоматично зберігати файли на SD карту, коли вона підключена</string>
     <string name="abandon">Відмова</string>
-    <string name="paint_cancel_title">Скасування</string>
+    <string name="paint_cancel_title">Скасувати</string>
     <string name="paint_cancel_context">Скасувати редагування?</string>
     <string name="paint_crop_cancel_title">редагувати</string>
     <string name="paint_crop_cancel_context">Зберегти зміни?</string>
@@ -568,7 +568,7 @@
     <string name="no_such_album">Альбом не знайдено</string>
     <string name="auto_upload_guide_title">Увімкнути автозавантаження?</string>
     <string name="auto_upload_guide_msssage">" "<Data> Автоматично завантажувати фото з інших застосунків у Mi Cloud. Функція доступна у &lt;font color=#323232>&lt;b>Налаштування галереї > Хмарні альбоми > Автозавантаження альбомів&lt;/b>&lt;/font>. </Data>" "</string>
-    <string name="not_now">Скасування</string>
+    <string name="not_now">Скасувати</string>
     <string name="go_setting">ОК</string>
     <string name="paint_crop_tips">Для отримання кращого ефекту спробуйте помістити необхідну частину фото в сітку</string>
     <string name="action_fail_unknown_error">Відбулася невідома помилка</string>

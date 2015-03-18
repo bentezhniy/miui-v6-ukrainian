@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="copy">Копіювати</string>
     <string name="cut">Вирізати</string>
-    <string name="no">Скасування</string>
+    <string name="no">Скасувати</string>
     <string name="ok">ОК</string>
     <string name="paste">Вставити</string>
     <string name="search_go">Пошук</string>
@@ -409,12 +409,12 @@
     <string name="sms_control_title">Відправлення SMS повідомлень</string>
     <string name="sms_control_message">Застосунок \"%1$s\" намагається відправити велику кількість SMS повідомлень. Дозволити відправлення?</string>
     <string name="sms_control_yes">ОК</string>
-    <string name="sms_control_no">Скасування</string>
+    <string name="sms_control_no">Скасувати</string>
     <string name="sms_short_code_confirm_message">Застосунок \"%1$s\" намагається відправити повідомлення на номер &lt;b>%2$s&lt;/b>.</string>
     <string name="sms_short_code_details">Це може привести до витрат на вашому особовому рахунку</string>
     <string name="sms_premium_short_code_details">Це приведе до витрат на вашому особовому рахунку</string>
     <string name="sms_short_code_confirm_allow">Відправити</string>
-    <string name="sms_short_code_confirm_deny">Скасування</string>
+    <string name="sms_short_code_confirm_deny">Скасувати</string>
     <string name="sms_short_code_remember_choice">Запамятати</string>
     <string name="sms_short_code_remember_undo_instruction">Ви зможете змінити це пізніше в налаштуванннях застосунків</string>
     <string name="sms_short_code_confirm_always_allow">Дозволити</string>
@@ -582,7 +582,7 @@
     <string name="date_picker_increment_year_button">На рік вперед</string>
     <string name="date_picker_decrement_year_button">На рік тому</string>
     <string name="keyboardview_keycode_alt">Клавіша ALT</string>
-    <string name="keyboardview_keycode_cancel">Скасування</string>
+    <string name="keyboardview_keycode_cancel">Скасувати</string>
     <string name="keyboardview_keycode_delete">Клавіша видалення</string>
     <string name="keyboardview_keycode_done">Готове</string>
     <string name="keyboardview_keycode_mode_change">Клавіша зміни режиму</string>
@@ -726,7 +726,7 @@
     <string name="error_message_title">Помилка</string>
     <string name="app_no_restricted_accounts">Цей застосунок не підтримується в акаунтах для профілів з обмеженим доступом</string>
     <string name="app_not_found">Неможливо обробити цю дію</string>
-    <string name="revoke">Скасування</string>
+    <string name="revoke">Скасувати</string>
     <string name="mediasize_na_letter">Лист</string>
     <string name="mediasize_na_gvrnmt_letter">Лист уряду</string>
     <string name="mediasize_na_legal">Юридичне</string>
@@ -798,7 +798,7 @@
     <string name="webviewchromium_color_picker_saturation">Насиченість</string>
     <string name="webviewchromium_color_picker_value">Значення</string>
     <string name="webviewchromium_color_picker_button_set">Встановити</string>
-    <string name="webviewchromium_color_picker_button_cancel">Скасування</string>
+    <string name="webviewchromium_color_picker_button_cancel">Скасувати</string>
     <string name="webviewchromium_color_picker_dialog_title">Вибір кольору</string>
     <string name="webviewchromium_color_picker_button_red">Червоний</string>
     <string name="webviewchromium_color_picker_button_cyan">Блакитний</string>

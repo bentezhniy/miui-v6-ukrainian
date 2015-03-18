@@ -316,7 +316,7 @@
     <string name="phone_info_label">Інформація про телефон</string>
     <string name="sd_card_settings_label">SD карта</string>
     <string name="proxy_settings_label">Налаштування проксі</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="settings_label">Налаштування</string>
     <string name="settings_label_launcher">Налаштування</string>
     <string name="settings_shortcut">Ярлик параметрів</string>
@@ -440,8 +440,8 @@
     <string name="lockpassword_password_requires_symbol">Пароль повинен містити хоча б один символ</string>
     <string name="lockpassword_password_recently_used">Адміністратор пристрою забороняє використання останнього пароля</string>
     <string name="lockpassword_ok_label">ОК</string>
-    <string name="lockpassword_cancel_label">Скасування</string>
-    <string name="lockpattern_tutorial_cancel_label">Скасування</string>
+    <string name="lockpassword_cancel_label">Скасувати</string>
+    <string name="lockpattern_tutorial_cancel_label">Скасувати</string>
     <string name="lockpattern_tutorial_continue_label">Далі</string>
     <string name="lock_setup">Налаштування завершене</string>
     <string name="device_admin_title">Адміністрування пристрою</string>
@@ -468,7 +468,7 @@
     <string name="bluetooth_incoming_pairing_msg">Запит від: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Підключитися до цього пристрою?</string>
     <string name="bluetooth_display_passkey_pin_msg">Для підключення до пристрою &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введіть на ньому код &lt;br>&lt;b>%2$s&lt;/b>, а потім натисніть клавішу Return або Enter</string>
     <string name="bluetooth_pairing_accept">Сполучення</string>
-    <string name="bluetooth_pairing_decline">Скасування</string>
+    <string name="bluetooth_pairing_decline">Скасувати</string>
     <string name="bluetooth_pairing_error_message">Не вдалося підключитися до пристрою \"%1$s\"</string>
     <string name="bluetooth_pairing_pin_error_message">Не вдалося підключитися до пристрою \"%1$s\", тому що введений невірний PIN код або пароль</string>
     <string name="bluetooth_pairing_device_down_error_message">"Не вдається встановити з'єднання з пристроєм \"%1$s\" "</string>
@@ -655,14 +655,14 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_scan_always_turnon_message">Для підвищення точності визначення місця розташування й інших подібних цілей, застосунок \"%1$s\" вимагає увімкнути сканування довколишніх мереж Wi-Fi. Дозволити застосунку сканувати прилеглі мережі Wi-Fi?</string>
     <string name="wifi_scan_always_confirm_allow">ОК</string>
-    <string name="wifi_scan_always_confirm_deny">Скасування</string>
+    <string name="wifi_scan_always_confirm_deny">Скасувати</string>
     <string name="wifi_connect">Підключити</string>
     <string name="wifi_failed_connect_message">"Помилка з'єднання з мережею"</string>
     <string name="wifi_forget">Не підключатися</string>
     <string name="wifi_failed_forget_message">Помилка видалення мережі</string>
     <string name="wifi_save">Зберегти</string>
     <string name="wifi_failed_save_message">Помилка збереження мережі</string>
-    <string name="wifi_cancel">Скасування</string>
+    <string name="wifi_cancel">Скасувати</string>
     <string name="wifi_skip_anyway">Пропустити</string>
     <string name="wifi_dont_skip">Не пропускати</string>
     <string name="wifi_skipped_message">"Увага! 
@@ -677,7 +677,7 @@
     <string name="wifi_advanced_ip_address_title">IP-адреса</string>
     <string name="wifi_advanced_settings_label">Налаштування IP</string>
     <string name="wifi_ip_settings_menu_save">Зберегти</string>
-    <string name="wifi_ip_settings_menu_cancel">Скасування</string>
+    <string name="wifi_ip_settings_menu_cancel">Скасувати</string>
     <string name="wifi_ip_settings_invalid_ip_address">Введіть дійсну IP-адресу</string>
     <string name="wifi_ip_settings_invalid_gateway">Введіть дійсну адресу шлюзу</string>
     <string name="wifi_ip_settings_invalid_dns">Введіть дійсну DNS-адресу</string>
@@ -831,7 +831,7 @@
     <string name="sim_lock_failed">"Не вдалося змінити стани блокування SIM карти.
 Можливо, введений невірний PIN код"</string>
     <string name="sim_enter_ok">ОК</string>
-    <string name="sim_enter_cancel">Скасування</string>
+    <string name="sim_enter_cancel">Скасувати</string>
     <string name="wrong_pin_code_pukked">Невірний PIN код SIM карти. Ви можете звернутися до вашого оператора для зясування інформації із приводу розблокування</string>
     <string name="pin_failed">Помилка PIN коду</string>
     <string name="device_info_settings">Про телефон</string>
@@ -1140,7 +1140,7 @@
     <string name="always_allow_bind_appwidgets_text">Ви дозволили цьому застосунку створювати віджети й одержувати доступ до даних</string>
     <string name="auto_launch_disable_text">Значення за замовчуванням не встановлені</string>
     <string name="clear_activities">Видалити налаштування за замовчуванням</string>
-    <string name="screen_compatibility_text">Можливо, застосунок не призначений для вашого екрана. Тут можна настроїти параметри його відображення</string>
+    <string name="screen_compatibility_text">Можливо, застосунок не призначений для вашого екрана. Тут можна налаштувати параметри його відображення</string>
     <string name="ask_compatibility">Запитувати при запуску</string>
     <string name="enable_compatibility">Масштабувати застосунки</string>
     <string name="unknown">Невідомо</string>
@@ -1177,7 +1177,7 @@
     <string name="clear_data_dlg_title">Видалити дані застосунки?</string>
     <string name="clear_data_dlg_text">Усі дані цього застосунка будуть видалені без можливості відновлення</string>
     <string name="dlg_ok">ОК</string>
-    <string name="dlg_cancel">Скасування</string>
+    <string name="dlg_cancel">Скасувати</string>
     <string name="app_not_found_dlg_text">Застосунок не знайдений у списку встановлених</string>
     <string name="clear_data_failed">Дані не видалені</string>
     <string name="app_factory_reset_dlg_title">Видалити оновлення?</string>
@@ -1314,7 +1314,7 @@
     <string name="quick_launch_clear_dialog_title">Очистити</string>
     <string name="quick_launch_clear_dialog_message">Ярлик для %1$s (%2$s) буде вилучений</string>
     <string name="quick_launch_clear_ok_button">ОК</string>
-    <string name="quick_launch_clear_cancel_button">Скасування</string>
+    <string name="quick_launch_clear_cancel_button">Скасувати</string>
     <string name="quick_launch_display_mode_applications">Застосунки</string>
     <string name="quick_launch_display_mode_shortcuts">Ярлики</string>
     <string name="input_methods_settings_title">Введення тексту</string>
@@ -1475,7 +1475,7 @@
     <string name="print_print_jobs">Завдання друку</string>
     <string name="print_print_job">Завдання друку</string>
     <string name="print_restart">Повтор</string>
-    <string name="print_cancel">Скасування</string>
+    <string name="print_cancel">Скасувати</string>
     <string name="print_job_summary">"%1$s
 %2$s"</string>
     <string name="print_printing_state_title_template">Друк %1$s</string>
@@ -1717,7 +1717,7 @@
     <string name="wifi_setup_connect">Підключити</string>
     <string name="wifi_setup_forget">Не підключатися</string>
     <string name="wifi_setup_save">Зберегти</string>
-    <string name="wifi_setup_cancel">Скасування</string>
+    <string name="wifi_setup_cancel">Скасувати</string>
     <string name="wifi_setup_status_scanning">Пошук доступних мереж…</string>
     <string name="wifi_setup_status_select_network">Щоб підключитися, натисніть на мережу</string>
     <string name="wifi_setup_status_existing_network">Підключитися до існуючої мережі</string>
@@ -1930,7 +1930,7 @@
     <string name="vpn_not_used">(не використовується)</string>
     <string name="vpn_no_ca_cert">(не перевіряти сервер)</string>
     <string name="vpn_no_server_cert">(отримане від сервера)</string>
-    <string name="vpn_cancel">Скасування</string>
+    <string name="vpn_cancel">Скасувати</string>
     <string name="vpn_save">Зберегти</string>
     <string name="vpn_connect">Підключитися</string>
     <string name="vpn_edit">Зміна мережі VPN</string>
@@ -1958,7 +1958,7 @@
     <string name="new_backup_pw_prompt">Введіть новий пароль</string>
     <string name="confirm_new_backup_pw_prompt">Підтвердіть пароль</string>
     <string name="backup_pw_set_button_text">Зберегти пароль</string>
-    <string name="backup_pw_cancel_button_text">Скасування</string>
+    <string name="backup_pw_cancel_button_text">Скасувати</string>
     <string name="additional_system_update_settings_list_item_title">Додаткові оновлення системи</string>
     <string name="selinux_status_disabled">Відключене</string>
     <string name="selinux_status_permissive">Дозволене</string>
@@ -1971,7 +1971,7 @@
 
 Адміністратор може контролювати інтернет з'єднання застосунків, включаючи електронну пошту, застосунки й сайти з особистою інформацією.
 
-Для одержання додаткової інформації звернетеся до адміністратора."</string>
+Для одержання додаткової інформації звертайтеся до адміністратора."</string>
     <string name="ssl_ca_cert_warning_message">"Треті особи можуть контролювати інтернет з'єднання застосунків, включаючи електронну пошту, застосунки й сайти з особистою інформацією.
 
 Це може здійснюватися за допомогою довірених облікових даних."</string>
@@ -1980,7 +1980,7 @@
     <string name="user_list_title">Користувачі</string>
     <string name="user_add_user_menu">Додати користувача</string>
     <string name="user_summary_restricted_profile">Профіль із обмеженим доступом</string>
-    <string name="user_need_lock_message">Щоб створити профіль із обмеженим доступом, необхідно попередньо настроїти блокування екрана для захисту застосунків та особистих даних</string>
+    <string name="user_need_lock_message">Щоб створити профіль із обмеженим доступом, необхідно попередньо налаштувати блокування екрана для захисту застосунків та особистих даних</string>
     <string name="user_set_lock_button">Увімкнути блокування</string>
     <string name="user_summary_not_set_up">Не встановлене</string>
     <string name="user_summary_restricted_not_set_up">Профіль із обмеженим доступом не налаштований</string>
@@ -2178,7 +2178,7 @@
     <string name="touch_sensitive_turn_off_title">Відключити режим \"У рукавичках\"</string>
     <string name="touch_sensitive_turn_off_summary">Відключити обраний режим?</string>
     <string name="touch_sensitive_turn_off_confirm">ОК</string>
-    <string name="touch_sensitive_turn_off_cancel">Скасування</string>
+    <string name="touch_sensitive_turn_off_cancel">Скасувати</string>
     <string name="screen_never_timeout_title">Не виключати</string>
     <string name="screen_on_proximity_sensor_title">Запобігання випадкових натискань</string>
     <string name="screen_on_proximity_sensor_summary">Використання датчика наближення для запобігання випадкових натискань на екран заблокованого телефону</string>
@@ -2187,9 +2187,9 @@
     <string name="preferred_application_warning_message">"Заміна стандартного застосунка \"%1$s\" може збільшити споживання енергії, знизити швидкість роботи пристрою й піддати систему ризику. 
 рекомендується використовувати стандартний застосунок \"%2$s\"."</string>
     <string name="preferred_application_warning_replace">Замінити</string>
-    <string name="preferred_application_warning_use_system">Скасування</string>
+    <string name="preferred_application_warning_use_system">Скасувати</string>
     <string name="preferred_sms_warning_message">При використанні застосунка \"%1$s\" за замовчуванням для повідомлень може стягуватися додаткова оплата</string>
-    <string name="preferred_sms_warning_use_system">Скасування</string>
+    <string name="preferred_sms_warning_use_system">Скасувати</string>
     <string name="preferred_sms_settings">Цей застосунок буде встановлений за замовчуванням для створення й читання повідомлень</string>
     <string name="preferred_sms_title">Застосунок повідомлень за замовчуванням</string>
     <string name="wallpaper_desktop">Робочий стіл</string>
@@ -2313,7 +2313,7 @@
     <string name="wifi_wapi_cert_install">Встановити сертифікат WAPI</string>
     <string name="wifi_wapi_cert_install_button">Встановити</string>
     <string name="wifi_wapi_cert_uninstall_button">Видалити</string>
-    <string name="wifi_wapi_cert_cancel_button">Скасування</string>
+    <string name="wifi_wapi_cert_cancel_button">Скасувати</string>
     <string name="wifi_wapi_cert_uninstall">Видалити сертифікат</string>
     <string name="wifi_wapi_cert_create_subdir">Створити папку</string>
     <string name="wifi_wapi_cert_delet_subdir">Вибір папки сертифіката</string>
@@ -2391,7 +2391,7 @@
     <string name="virus_scanner_select_multi">Вибір більш однієї антивірусної бази даних може вплинути на швидкість сканування та встановлення застосунків</string>
     <string name="virus_scanner_select_single">Виберіть найбільш надійну базу антивіруса</string>
     <string name="virus_scanner_select_OK">ОК</string>
-    <string name="virus_scanner_select_Cancel">Скасування</string>
+    <string name="virus_scanner_select_Cancel">Скасувати</string>
     <string name="virus_scanner_provider">Підтримка: %s</string>
     <string name="virus_scanner_auto_update">Автооновлення</string>
     <string name="virus_scanner_date_formater">d MMMM yyyy</string>
@@ -2588,7 +2588,7 @@
     <string name="bugreport_tool_log">Створити звіт про помилку</string>
     <string name="modem_tool_log">Створити звіт модему</string>
     <string name="modem_tool_log_start">Створити</string>
-    <string name="modem_tool_log_stop">Скасування</string>
+    <string name="modem_tool_log_stop">Скасувати</string>
     <string name="modem_tool_log_start_toast">Надіслати лог модему в %s</string>
     <string name="modem_tool_log_stop_toast">Скасувати відправлення логу модему в %s</string>
     <string name="wifi_tether_setting_title">Основні налаштування</string>
@@ -2728,10 +2728,10 @@
     <string name="wifi_setting_category">Доступні мережі</string>
     <string name="account_autostar_label">Автозапуск</string>
     <string name="downloading_description">Завантаження…</string>
-    <string name="cancel_download_buton_text">Скасування</string>
+    <string name="cancel_download_buton_text">Скасувати</string>
     <string name="apply_now_button_text">Оновлення</string>
     <string name="check_update">Перевірити оновлення</string>
-    <string name="dialog_no">Скасування</string>
+    <string name="dialog_no">Скасувати</string>
     <string name="dialog_yes">ОК</string>
     <string name="confirm_download_cancelation_dialog_message">Скасувати завантаження?</string>
     <string name="found_new_version">Доступна нова версія</string>
@@ -2921,7 +2921,7 @@
     <string name="miracast_no_sinks_found">Немає доступних бездротових дисплеїв</string>
     <string name="miracast_search_for_displays">Пошук бездротових дисплеїв…</string>
     <string name="miracast_settings_category">Налаштування Wi-Fi дисплея</string>
-    <string name="miracast_setup_cancel">Скасування</string>
+    <string name="miracast_setup_cancel">Скасувати</string>
     <string name="miracast_setup_save">Зберегти</string>
     <string name="miracast_sink_busy">Використовується</string>
     <string name="miracast_sink_connected">Підключене</string>
@@ -3043,4 +3043,42 @@
     <string name="wifi_notify_cmcc_connected_title">Сповіщення CMCC мережі</string>
     <string name="wifi_notify_cmcc_connected_summary">"Показувати сповіщення при під'єднанні до CMCC мережі"</string>
     <string name="wifi_datanetwork_switch_not_remind">Не показувати знову</string>
+	<string name="apn_apn">APN</string>
+    <string name="apn_auth_type_chap">CHAP</string>
+    <string name="apn_auth_type_pap">PAP</string>
+    <string name="apn_mcc">MCC</string>
+    <string name="apn_mms">MMS</string>
+    <string name="apn_mmsc">MMSC</string>
+    <string name="apn_mnc">MNC</string>
+    <string name="fw_ms" formatted="false">Час повідомлень: %s (%d)</string>
+    <string name="input_method_selector_always_hide_value">2</string>
+    <string name="input_method_selector_always_show_value">1</string>
+    <string name="input_method_selector_show_automatically_value">0</string>
+	<string name="input_method_selector_visibility_default_value">0</string>
+    <string name="lock_intro_message">"Аби убезпечити дані у Вашому пристрої, створіть графічний ключ розблокування екрану. Для цього з'єднайте у довільному порядку не меньш як чотири крапки на наступному екрані. Щоб розпочати, натисніть \"Далі\"."</string>
+    <string name="miracast_dialog_title">%1$s</string>
+    <string name="percentage">%d%%</string>
+    <string name="smartcover_sensitive_title">Розумна обкладинка</string>
+    <string name="stable_build">" | Стабільна"</string>
+    <string name="status_bar_toggle_arrangement">Сортувати перемикачі</string>
+    <string name="summary_font_size">%1$s</string>
+    <string name="system_update_settings_list_item_summary" />
+    <string name="translation_contributors_summary" />
+    <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
+    <string name="wifi_dns1_hint">8.8.8.8</string>
+    <string name="wifi_dns2_hint">8.8.4.4</string>
+    <string name="wifi_gateway_hint">192.168.1.1</string>
+    <string name="wifi_ip_address_hint">192.168.1.128</string>
+    <string name="wifi_network_prefix_length_hint">24</string>
+	<string name="bluetooth_unlock_state_disconnected">Відключено</string>
+    <string name="bluetooth_unlock_state_key_error">Помилка паролю</string>
+    <string name="bluetooth_unlock_state_label">Статус:</string>
+    <string name="bluetooth_unlock_state_ok">Успішно</string>
+    <string name="bluetooth_unlock_state_too_far">Не достатньо близько</string>
+	<string name="gadget_brightness_state_auto">автоматично</string>
+    <string name="gadget_brightness_state_full">повністю</string>
+    <string name="gadget_brightness_state_half">наполовину</string>
+    <string name="gadget_brightness_state_off">вимкнути</string>
+    <string name="gadget_state_off">вимкн.</string>
+    <string name="gadget_state_on">увімкн.</string>
 </resources>

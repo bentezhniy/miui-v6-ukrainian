@@ -104,7 +104,7 @@
     <string name="passport_relogin">Увійти повторно</string>
     <string name="passport_skip_login">Пропустити реєстрацію</string>
     <string name="passport_checking_account">Зміна пароля…</string>
-    <string name="passport_button_cancel">Скасування</string>
+    <string name="passport_button_cancel">Скасувати</string>
     <string name="passport_wrong_captcha">Код з картинки введений невірно</string>
     <string name="passport_wrong_vcode">Некорректний перевірочний код</string>
     <string name="passport_trust_device">Довіряти цьому пристрою</string>

@@ -73,7 +73,7 @@
     <string name="back">Назад</string>
     <string name="allow_check_website_security">Перевіряти безпеку сайту</string>
     <string name="accept">ОК</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="tips_message">Необхідно підключитися до інтернету, щоб перевірити безпеку сайту</string>
     <string name="tips_title">"Інтернет з'єднання"</string>
     <string name="not_tips">"Запам'ятати"</string>

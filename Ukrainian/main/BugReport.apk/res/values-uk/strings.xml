@@ -25,7 +25,7 @@
     <string name="err_type_xiaomi_service">Обслуговування користувачів</string>
     <string name="err_type_xiaomi_family">"Mi Сім'я"</string>
     <string name="action_submit">Відправити</string>
-    <string name="action_cancel">Скасування</string>
+    <string name="action_cancel">Скасувати</string>
     <string name="action_confirm">Вибрати</string>
     <string name="section_err_type">Тип звіту</string>
     <string name="hot_problem">Показати відомі помилки</string>
@@ -51,7 +51,7 @@
     <string name="discard_draft_dialog_title">Видалити чернетку</string>
     <string name="discard_draft_dialog_content">Звіт змінений. Натисніть \"ОК\" для видалення чернетки</string>
     <string name="discard_draft_dialog_button_discard">ОК</string>
-    <string name="discard_draft_dialog_button_cancel">Скасування</string>
+    <string name="discard_draft_dialog_button_cancel">Скасувати</string>
     <string name="network_unavailable_dialog_title">Інтернет недоступний</string>
     <string name="network_unavailable_dialog_content">Ваш звіт буде відправлений, як тільки мережа буде доступна</string>
     <string name="network_unavailable_dialog_button_ok">ОК</string>
@@ -95,7 +95,7 @@
     <string name="cta_dialog_title">Дозволити доступ до інтернету?</string>
     <string name="cta_dialog_content">Для відправлення звітів потрібен доступ до інтернету</string>
     <string name="cta_not_show_again">"Запам'ятати"</string>
-    <string name="cta_cancel">Скасування</string>
+    <string name="cta_cancel">Скасувати</string>
     <string name="cta_confirm">ОК</string>
     <string name="submit_dialog_title">Відправиити звіт MIUI?</string>
     <string name="submit_dialog_content">Ваш звіт зі всіма журналами помилок буде відправлений на сервер Xiaomi</string>

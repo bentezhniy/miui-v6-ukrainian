@@ -56,7 +56,7 @@
     <string name="myfavorite_onlylocal">Обрані</string>
     <string name="login_tip_title">Авторизація</string>
     <string name="login_tip_content">Авторизуйтесь за допомогою Mi акаунту для синхронізації та оновлення ваших підписок</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="ok">ОК</string>
     <string name="souhu">Souhu</string>
     <string name="tencent">Tencent</string>
@@ -174,7 +174,7 @@
     <string name="vp_install">Встановити HD компоненти?</string>
     <string name="vp_confirm">ОК</string>
     <string name="vp_retry">Повтор</string>
-    <string name="vp_cancel">Скасування</string>
+    <string name="vp_cancel">Скасувати</string>
     <string name="vp_client_message">Встановити \"%1$s\"?</string>
     <string name="vp_plugin_message">Встановіть плагін для покращення звуку?</string>
     <string name="vp_closedialog">ОК</string>
@@ -185,7 +185,7 @@
     <string name="vp_datastream_alert_play">При відтворенні відео по мобільному інтернету може стягуватися додаткова плата за трафік</string>
     <string name="vp_datastream_alert_hint">Ви можете вимкнути сповіщення про трафік в налаштуваннях відео</string>
     <string name="vp_datastream_alert_positive_button">Продовжити</string>
-    <string name="vp_datastream_alert_negative_button">Скасування</string>
+    <string name="vp_datastream_alert_negative_button">Скасувати</string>
     <string name="vp_datastream_alert_title">Попередження про трафік</string>
     <string name="declaration_allow">ОК</string>
     <string name="declaration_content_td_custom">Дозволити доступ до інтернету для перегляду відео?</string>
@@ -314,7 +314,7 @@
     <string name="datastream_alert_download">При завантаженні відео по мобільному інтернету може стягуватись додаткова плата за трафік</string>
     <string name="datastream_alert_hint">Ви можете вимкнути сповіщення про трафік в налаштуваннях відео</string>
     <string name="datastream_alert_positive_button">Продовжити</string>
-    <string name="datastream_alert_negative_button">Скасування</string>
+    <string name="datastream_alert_negative_button">Скасувати</string>
     <string name="datastream_alert_title">Попередження</string>
     <string name="all_media">Все відео</string>
     <string name="ji">еп.</string>

@@ -3,7 +3,7 @@
     <string name="cta_dialog_title">Дозволити застосунку доступ до інтернету?</string>
     <string name="cta_dialog_msg">Для використання деяких сервісів застосунку \"Безпека\" потрібен доступ до інтернету</string>
     <string name="cta_checkbox_title">"Запам'ятати"</string>
-    <string name="cta_button_text_cancel">Скасування</string>
+    <string name="cta_button_text_cancel">Скасувати</string>
     <string name="cta_button_text_agree">ОК</string>
     <string name="cta_settings">Дозволити доступ до інтернету</string>
     <string name="title_optimizer">Попередження</string>
@@ -64,7 +64,7 @@
     <string name="power_customizer_user_define_summary">Користувацькі параметри</string>
     <string name="power_customizer_delete">Видалити</string>
     <string name="power_customizer_save">Зберегти</string>
-    <string name="power_customizer_cancel">Скасування</string>
+    <string name="power_customizer_cancel">Скасувати</string>
     <string name="power_customizer_ok">ОК</string>
     <string name="power_mode_cpu_state">Режим ЦП</string>
     <string name="power_mode_cpu_state_performance">Продуктивність</string>
@@ -117,7 +117,7 @@
     <string name="power_dialog_screen_brightness_automatic">Автоматична яскравість</string>
     <string name="power_dialog_screen_brightness_automatic_off">Яскравість екрана буде залишатися однаковою при будь-якому освітленні</string>
     <string name="power_dialog_screen_brightness_automatic_on">Яскравість екрана буде змінюватися залежно від освітлення</string>
-    <string name="power_dialog_cancel">Скасування</string>
+    <string name="power_dialog_cancel">Скасувати</string>
     <string name="power_dialog_ok">ОК</string>
     <string name="power_dialog_delete_dialog_title">Видалити режим</string>
     <string name="power_dialog_delete_dialog_delete">Видалити обраний режим користувача?</string>
@@ -252,7 +252,7 @@
     <string name="shutdown_boot">Пристрій буде вимкнено о %1$s і ввімкнено о %2$s</string>
     <string name="app_name_securitycenter">Безпека</string>
     <string name="ok">ОК</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="score_pts">%</string>
     <string name="btn_text_start_check">Перевірка</string>
     <string name="btn_text_quick_cleanup">"Очищення пам'яті"</string>
@@ -516,7 +516,7 @@
     <string name="apk_status_duplicate">Дублікат застосунку</string>
     <string name="apk_status_damage">Ушкоджене</string>
     <string name="hints_app_uninstall_residual">Очистити сміття?</string>
-    <string name="button_text_cancel">Скасування</string>
+    <string name="button_text_cancel">Скасувати</string>
     <string name="hints_residual_tips">Файлів сміття на накопичувачі: %s</string>
     <string name="notification_button_text_of_low_memory">Очищення</string>
     <string name="notification_title_of_low_memory">"Пам'ять заповнена на %s"</string>
@@ -548,14 +548,14 @@
     <string name="button_text_view_file">Перегляд</string>
     <string name="toast_app_no_residual_on_sdcard">Застосунок не має даних на накопичувачі</string>
     <string name="button_text_start_optimize">Перевірка</string>
-    <string name="button_text_cancel_optimize">Скасування</string>
-    <string name="button_text_cancel_clean">Скасування</string>
+    <string name="button_text_cancel_optimize">Скасувати</string>
+    <string name="button_text_cancel_clean">Скасувати</string>
     <string name="button_text_quick_clean">Оптимізувати</string>
     <string name="activity_title_perm_manager">Керування ліцензіями</string>
     <string name="activity_title_auto_start_manager">Автозапуск</string>
     <string name="activity_title_notification_bar_manager">Керування повідомленнями</string>
     <string name="activity_title_default_apps_manager">Додатки за замовчуванням</string>
-    <string name="activity_title_permission_manager">Дозволу</string>
+    <string name="activity_title_permission_manager">Дозволи</string>
     <string name="activity_title_root_manager">ROOT доступ</string>
     <string name="empty_title_auto_start_list">Немає застосунків з автозапуском</string>
     <string name="dialog_title_load_cleanup_engine_error">Помилка очищення</string>
@@ -586,7 +586,7 @@
     <string name="root_apply_step_5">Дозволити застосунку \"%s\" ROOT доступ?</string>
     <string name="button_text_accept">Дозволити</string>
     <string name="button_text_accept_timer">Дозволити (%d)</string>
-    <string name="button_text_reject">Скасування</string>
+    <string name="button_text_reject">Скасувати</string>
     <string name="button_text_reject_timer">Скасування (%d)</string>
     <string name="button_text_next_step">Далі</string>
     <string name="button_text_next_step_timer">Далі (%d)</string>

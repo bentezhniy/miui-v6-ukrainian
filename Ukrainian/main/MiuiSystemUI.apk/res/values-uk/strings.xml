@@ -246,4 +246,14 @@ d MMMM yyyy"</string>
     <string name="status_bar_toggle_wifi_ap">Wi-Fi точка</string>
     <string name="status_sim_1">SIM 1</string>
     <string name="status_sim_2">SIM 2</string>
+	<string name="battery_low_title">Підключіть зарядний пристрій</string>
+    <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
+    <string name="oldman_status_bar_time_format_12">h:mm</string>
+    <string name="oldman_status_bar_time_format_24">HH:mm</string>
+    <string name="status_bar_date_formatter">%2$s</string>
+    <string name="status_bar_network_flow_content">"Сьогодні: %1$s   Залишилось: %2$s"</string>
+	<string name="status_bar_network_flow_exceed_content">Сьогодні: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;План перевищено: &lt;font color=%2$s>%3$s&lt;/font></string>
+	<string name="status_bar_network_flow_limit">"   Щомісячний ліміт: %1$s"</string>
+    <string name="status_bar_network_flow_purchase">"   Купівля >"</string>
+    <string name="status_bar_settings_battery_meter_format">%d%%</string>
 </resources>

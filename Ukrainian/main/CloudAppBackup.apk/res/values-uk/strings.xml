@@ -109,7 +109,7 @@
     <string name="about_cloud_app_backup">Про застосунок</string>
     <string name="download_settings">Завантажити налаштування робочого столу</string>
     <string name="recover_settings">Відновити налаштування робочого столу</string>
-    <string name="cancel_recover_settings"><u>Скасування</u></string>
+    <string name="cancel_recover_settings"><u>Скасувати</u></string>
     <string name="recover_settings_description">Не вимикайте пристрій</string>
     <string name="button_abandon">Перезаписати</string>
     <string name="button_finish">Готово</string>

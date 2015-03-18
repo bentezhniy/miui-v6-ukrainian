@@ -120,7 +120,7 @@
     <string name="open_callwait">Увімкнути</string>
     <string name="close_callwait">Виключити</string>
     <string name="sure">ОК</string>
-    <string name="cancle">Скасування</string>
+    <string name="cancle">Скасувати</string>
     <string name="addwhitelist">У білий список</string>
     <string name="st_hint_add_phonenumber">Введення номера телефону</string>
     <string name="st_hint_add_head_number">Введення префікса</string>

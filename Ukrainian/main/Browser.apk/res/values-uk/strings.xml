@@ -36,7 +36,7 @@
     <string name="color_picker_saturation">Насиченість</string>
     <string name="color_picker_value">Значення</string>
     <string name="color_picker_button_set">Встановити</string>
-    <string name="color_picker_button_cancel">Скасування</string>
+    <string name="color_picker_button_cancel">Скасувати</string>
     <string name="color_picker_dialog_title">Вибрати колір</string>
     <string name="color_picker_button_red">Червоний</string>
     <string name="color_picker_button_cyan">Блакитний</string>
@@ -73,7 +73,7 @@
     <string name="js_dialog_title">Сповіщення сторінки \" %s \":</string>
     <string name="js_dialog_before_unload_title">Попередження</string>
     <string name="js_dialog_before_unload_positive_button">ОК</string>
-    <string name="js_dialog_before_unload_negative_button">Скасування</string>
+    <string name="js_dialog_before_unload_negative_button">Скасувати</string>
     <string name="js_dialog_before_unload">"%s 
 
 Покинути цю сторінку?"</string>
@@ -120,7 +120,7 @@
     <string name="miui_bookmark_menu_edit_txt">Змінити</string>
     <string name="miui_bookmark_menu_add_group_txt">Додати групу</string>
     <string name="miui_bookmark_menu_delete_window_delete_txt">Видалити</string>
-    <string name="miui_bookmark_menu_delete_window_cancel_txt">Скасування</string>
+    <string name="miui_bookmark_menu_delete_window_cancel_txt">Скасувати</string>
     <string name="miui_bookmark_action_bar_add_group_title">Додати групу</string>
     <string name="miui_bookmark_action_bar_new_group_title">Нова група</string>
     <string name="miui_bookmark_menu_moveout_group_txt">Вийти</string>
@@ -166,7 +166,7 @@
     <string name="pref_content_night_read_mode">Нічний режим</string>
     <string name="general_set_default_browser_title">Браузер за замовчуванням</string>
     <string name="general_set_default_browser_dialog_summary">Використовуйте MIUI застосунки для кращої продуктивності</string>
-    <string name="general_set_default_browser_dialog_close_txt">Скасування</string>
+    <string name="general_set_default_browser_dialog_close_txt">Скасувати</string>
     <string name="general_set_default_browser_dialog_ok_txt">ОК</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Закривати вкладки</string>
     <string name="url_hint">Пошук/Введення URL</string>
@@ -210,7 +210,7 @@
     <string name="pref_autologin_progress_in_background">Вхід на сайти Google використовуючи %s у фоні</string>
     <string name="menu_enable_night_mode">Включити нічний режим</string>
     <string name="menu_disable_night_mode">Відключити нічний режим</string>
-    <string name="search_cancel">Скасування</string>
+    <string name="search_cancel">Скасувати</string>
     <string name="search">Пошук</string>
     <string name="clear_search_history">Очистити історію</string>
     <string name="search_baidu">Baidu</string>
@@ -512,7 +512,7 @@
     <string name="webapp_addtodeskpop_append">Додане</string>
     <string name="webapp_add_to_favorite_toast">Додано у обране</string>
     <string name="webapp_webapp_favortes_title">Обране</string>
-    <string name="dialog_geolocation_reject">Скасування</string>
+    <string name="dialog_geolocation_reject">Скасувати</string>
     <string name="dialog_geolocation_share">ОК</string>
     <string name="webapp_menu_addtodesk">Додати на робочий стіл</string>
     <string name="webapp_menu_already_addtodesk">Уже додане на робочий стіл</string>
@@ -540,7 +540,7 @@
     <string name="password">Пароль</string>
     <string name="action">Вхід</string>
     <string name="bookmarks_search">Браузер</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="ok">ОК</string>
     <string name="title_bar_loading">Завантаження…</string>
     <string name="page_info">Інформація</string>
@@ -742,7 +742,7 @@
     <string name="webstorage_clear_data_title">Видалити збережені дані</string>
     <string name="webstorage_clear_data_dialog_message">Видалити всі дані, збережені цим веб-сайтом?</string>
     <string name="webstorage_clear_data_dialog_ok_button">ОК</string>
-    <string name="webstorage_clear_data_dialog_cancel_button">Скасування</string>
+    <string name="webstorage_clear_data_dialog_cancel_button">Скасувати</string>
     <string name="webstorage_origin_summary_mb_stored">"Обсяг зайнятої пам'яті телефону (МБ)"</string>
     <string name="geolocation_permissions_prompt_message">%s запитує ваше місце розташування</string>
     <string name="geolocation_permissions_prompt_share">Дозволити</string>
@@ -753,11 +753,11 @@
     <string name="geolocation_settings_page_summary_not_allowed">У цього сайту зараз немає доступу до даних про ваше місце розташування</string>
     <string name="geolocation_settings_page_dialog_message">Закрити цьому сайту доступ до даних про ваше місце розташування?</string>
     <string name="geolocation_settings_page_dialog_ok_button">ОК</string>
-    <string name="geolocation_settings_page_dialog_cancel_button">Скасування</string>
+    <string name="geolocation_settings_page_dialog_cancel_button">Скасувати</string>
     <string name="website_settings_clear_all">Видалити всі</string>
     <string name="website_settings_clear_all_dialog_message">Видалити всі дані веб-сайту й дозволи на доступ до відомостей про ваше місце розташування?</string>
     <string name="website_settings_clear_all_dialog_ok_button">ОК</string>
-    <string name="website_settings_clear_all_dialog_cancel_button">Скасування</string>
+    <string name="website_settings_clear_all_dialog_cancel_button">Скасувати</string>
     <string name="progress_dialog_setting_wallpaper">Встановлення шпалер…</string>
     <string name="error_console_header_text_minimized">Показати консоль Javascript</string>
     <string name="error_console_header_text_maximized">Консоль Javascript</string>
@@ -783,7 +783,7 @@
     <string name="tab_bookmarks">Закладки</string>
     <string name="bookmarks_add_page">Зберегти закладинку</string>
     <string name="stopping">Зупинка…</string>
-    <string name="do_not_save">Скасування</string>
+    <string name="do_not_save">Скасувати</string>
     <string name="containing_folder">Додати</string>
     <string name="new_folder">Нова тека</string>
     <string name="no_subfolders">Пусто</string>
@@ -835,7 +835,7 @@
     <string name="import_bookmarks_dialog_remove">Видалити закладки</string>
     <string name="import_bookmarks_wizard_next">Далі</string>
     <string name="import_bookmarks_wizard_previous">Назад</string>
-    <string name="import_bookmarks_wizard_cancel">Скасування</string>
+    <string name="import_bookmarks_wizard_cancel">Скасувати</string>
     <string name="import_bookmarks_wizard_done">Готово</string>
     <string name="import_bookmarks_dialog_add">Додати закладинки в акаунт Google</string>
     <string name="import_bookmarks_dialog_import">Додати ваші закладки в %s</string>
@@ -866,7 +866,7 @@
     <string name="miuichromium_save_password_notnow">Не зараз</string>
     <string name="miuichromium_save_password_remember">"Запам'ятати"</string>
     <string name="tab_videopage">Відео</string>
-    <string name="webview_cancel">Скасування</string>
+    <string name="webview_cancel">Скасувати</string>
     <string name="webview_js_dialog_before_unload">"%s 
 
 покинути цю сторінку?"</string>

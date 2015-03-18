@@ -9,7 +9,7 @@
     <string name="aqi_quality_index_dangerous">ІКВ %1$s</string>
     <string name="aqi_quality_index_hazardous">ІКВ %1$s</string>
     <string name="aqi_quality_index_break">ІКВ %1$s</string>
-    <string name="view_indexes_wind_unit">км/год</string>
+    <string name="view_indexes_wind_unit">км/г</string>
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
     <string name="weather_unit_with_c">C</string>
@@ -26,7 +26,7 @@
     <string name="act_set_city_find_side_error">Не вдається знайти місце розташування</string>
     <string name="menu_location">Розташування</string>
     <string name="button_allow">OK</string>
-    <string name="button_abandon">редагувати</string>
+    <string name="button_abandon">Редагувати</string>
     <string name="button_not_allow">Скасувати</string>
     <string name="location_allow_err">Не вдається знайти місце розташування</string>
     <string name="view_aqi_title">Якість повітря</string>

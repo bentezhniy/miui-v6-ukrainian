@@ -30,7 +30,7 @@
     <string name="password_forget">Згадати</string>
     <string name="progress_creating">Перевірка покупки…</string>
     <string name="progress_loading">Обробка…</string>
-    <string name="button_cancel">Скасування</string>
+    <string name="button_cancel">Скасувати</string>
     <string name="button_retry">Повтор</string>
     <string name="button_call">Виклик</string>
     <string name="button_pay">Оплатити</string>
@@ -80,7 +80,7 @@
     <string name="paytool_alipay">Alipay</string>
     <string name="paytool_tenpay">Tenpay</string>
     <string name="btn_recharge_large">Поповнити</string>
-    <string name="recharge_other">Скасування</string>
+    <string name="recharge_other">Скасувати</string>
     <string name="btn_recharge_success_quick">Готово</string>
     <string name="btn_prev">Назад</string>
     <string name="btn_next">Далі</string>
@@ -241,14 +241,14 @@
     <string name="lockpattern_retry_text"><u>Скидання графічного ключа</u></string>
     <string name="forget_password"><u>Забули пароль</u></string>
     <string name="login">Вхід</string>
-    <string name="cancel">Скасування</string>
+    <string name="cancel">Скасувати</string>
     <string name="change_security_lock">Інші блокування</string>
     <string name="lockpassword_confirm_your_pattern_header">Підтвердження</string>
     <string name="lockpassword_input_your_pattern_header">Підтвердьте пароль</string>
     <string name="lockpassword_choose_your_pattern_header">Введіть пароль</string>
     <string name="lockpattern_continue_button_text">Продовжити</string>
     <string name="lockpattern_confirm_button_text">Підтвердити</string>
-    <string name="lockpattern_tutorial_cancel_label">Скасування</string>
+    <string name="lockpattern_tutorial_cancel_label">Скасувати</string>
     <string name="lockpattern_tutorial_continue_label">Далі</string>
     <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Пароль введений невірно багато раз&lt;/font></string>
