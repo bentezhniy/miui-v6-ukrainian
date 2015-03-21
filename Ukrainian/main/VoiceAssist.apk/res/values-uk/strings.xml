@@ -39,7 +39,7 @@
     <string name="app_love_sms_title">Вміст СМС</string>
     <string name="app_love_title">Повідомленння про погоду</string>
     <string name="app_love_view_title">Попередній перегляд</string>
-    <string name="app_name">Ассистент</string>
+    <string name="app_name">Асистент</string>
     <string name="app_no_sktq">Намає фактів</string>
     <string name="app_nohave_net">Немає підключення до інтернету</string>
     <string name="app_not_found">Застосунок не знайдений</string>
@@ -51,6 +51,7 @@
     <string name="app_upgradeDownloading">Завантаження оновлення</string>
     <string name="app_upgradeFailed">Помилка оновлення, спробуйте пізніше</string>
     <string name="app_upgradeNo">Пізніше</string>
+	<string name="confirm_and_continue">Продовжити</string>
     <string name="app_upgradeTitle">Оновлення</string>
     <string name="app_upgradeYes">Оновити</string>
     <string name="app_w_1x4">Погода 1x4</string>
@@ -417,7 +418,7 @@
     <string name="voice_support">За підтримки iflytek</string>
     <string name="voice_wakeup">Голосове розблокування</string>
     <string name="voice_wakeup_keyword_title">Слово</string>
-    <string name="voice_wakeup_turn_off">Вимк</string>
+    <string name="voice_wakeup_turn_off">Вимкнути</string>
     <string name="voice_wakeup_turn_on">Увімкнути (недоступно при програванні музики)</string>
     <string name="voice_wakeup_turn_on_confirm">OK</string>
     <string name="voice_wakeup_turn_on_notice">Більше не показувати</string>
@@ -428,7 +429,7 @@
     <string name="weather">Погода</string>
     <string name="web_result">Дізнатися результат</string>
     <string name="widget_loading">Немає інформації про погоду</string>
-    <string name="wifi_off">Вимк Wi-Fi</string>
+    <string name="wifi_off">Вимкнути Wi-Fi</string>
     <string name="wifi_on">Увімкнути Wi-Fi</string>
     <string name="wifi_setting">Налаштування Wi-Fi</string>
     <string name="yellow_page">Жовті сторінки</string>

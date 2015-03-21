@@ -107,7 +107,7 @@
     <string name="unbind_xunlei_success">"Акаунт Xunlei відв'язано"</string>
     <string name="unbind_xunlei_2_success">Акаунт Xunlei змінено</string>
     <string name="privacy_tip_title">Використовувати сервіс Xunlei?</string>
-    <string name="privacy_tip_content">Сервіс прискорення Xunlei дозволяє завантажувати файли на максимальній швидкості. Ваша інформація о Mi акаунті буде синхронізована для перевірки активних підписок на цей сервіс.</string>
+    <string name="privacy_tip_content">Сервіс прискорення Xunlei дозволяє завантажувати файли на максимальній швидкості. Ваша інформація про Mi акаунт буде синхронізована для перевірки активних підписок на цей сервіс.</string>
     <string name="privacy_tip_cancel">Скасувати</string>
     <string name="privacy_tip_ok">ОК</string>
     <string name="xunlei_close_tips_title">Безкоштовне прискорення завантаження</string>

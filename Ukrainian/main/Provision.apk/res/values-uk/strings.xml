@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="welcome">Ласкаво просимо</string>
+    <string name="welcome">Ласкаво просимо!</string>
     <string name="input_method_setting">Оберіть спосіб введення</string>
     <string name="input_method_category">Оберіть метод введення за замовчуванням</string>
     <string name="provision_inputmethod_policy_description">"Перегляд обраної клавіатури "</string>
@@ -23,8 +23,8 @@
     <string name="sim_dectection_next">Продовжити</string>
     <string name="shut_down">Вимкнення</string>
     <string name="sim_redetection">Перевірити SIM карту повторно</string>
-    <string name="title_congratulation">Налаштування завершене</string>
-    <string name="congratulation_label">Ласкаво просимо!</string>
+    <string name="title_congratulation">"Приготуйтесь побачити :)"</string>
+    <string name="congratulation_label"> </string>
     <string name="pref_title_voice_slot">SIM карта для викликів</string>
     <string name="pref_title_data_slot">SIM карта для передачі даних</string>
     <string name="summary_not_set">Не встановлене</string>
