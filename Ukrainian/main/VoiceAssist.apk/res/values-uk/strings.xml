@@ -225,7 +225,7 @@
     <string name="resource_comment_5_star">5 зірок</string>
     <string name="resource_comment_all_comments">Всі</string>
     <string name="resource_comment_average_score">Рейтинг</string>
-    <string name="resource_comment_bad_comments">Отріцателние</string>
+    <string name="resource_comment_bad_comments">Негативні</string>
     <string name="resource_comment_current_version">Поточна версія</string>
     <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_edit_comment">Коментар</string>
