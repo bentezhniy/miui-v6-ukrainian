@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="pref_camera_volumekey_function_entry_zooming">Зум</string>
+    <string name="simple_mode_button_text_4kuhd">Вийти</string>
+    <string name="simple_mode_button_text_chroma_flash">Вийти</string>
+    <string name="simple_mode_button_text_ubi_focus">Вийти</string>
     <string name="camera_error_title">Помилка камери</string>
     <string name="cannot_connect_camera_once">Не вдалося підключитися до камери</string>
     <string name="cannot_connect_camera_twice">Не вдалося підключитися до камери. Спробуйте перезавантажити телефон</string>

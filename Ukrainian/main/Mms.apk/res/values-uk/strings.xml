@@ -551,4 +551,16 @@ sms (%1$d), MMS (%2$d)."</string>
     <string name="my_bookmark">Вибрані</string>
 	<string name="title_show_sms_template">Отримувати SMS з кодом підтвердження</string>
     <string name="pref_show_sms_template_summary">Автоматично копіювати та заповнити коди підтвердження</string>
+	<string name="block_messaging_entry_title">Заблоковані SMS</string>
+    <string name="conversation_style">bubble</string>
+    <string name="mx2_type_description">[%s]</string>
+    <string name="open_url_with_web">Відкрити URL-адресу?</string>
+    <string name="prefDefault_ringtone_repeat">1</string>
+    <string name="prefDefault_vibrateWhen">ніколи</string>
+	<string name="prefDefault_vibrate_false">ніколи</string>
+    <string name="prefDefault_vibrate_true">завжди</string>
+    <string name="pref_title_mms_validity_period">Строк дії MMS</string>
+    <string name="pref_title_sms_validity_period">Строк дії SMS</string>
+    <string name="recipient_editor_count_format">%d</string>
+    <string name="sp_category_title_prefix">%s</string>
 </resources>

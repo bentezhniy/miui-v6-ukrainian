@@ -261,4 +261,5 @@
     <string name="disable">Вимкнути</string>
     <string name="disable_auto_start_format">%s</string>
     <string name="disable_auto_start_message">Відключити автозапуск програми?</string>
+	<string name="image_too_small_message">"Зображення занадто мале"</string>
 </resources>

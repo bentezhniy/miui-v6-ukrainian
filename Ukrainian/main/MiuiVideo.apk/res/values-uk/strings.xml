@@ -452,4 +452,6 @@
     <string name="search_result_recommend_hint">Рекомендовані</string>
     <string name="search_result_recommend_empty">Немає результатів</string>
     <string name="offline_video">Локальні</string>
+	<string name="count_get_result">%d знайдено</string>
+    <string name="play_setting">Відтворення</string>
 </resources>

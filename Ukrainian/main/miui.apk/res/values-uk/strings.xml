@@ -229,5 +229,8 @@
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_date">D</string>
     <string name="permlab_sendSmsNoConfirmation">Доступ до SMS повідомлень</string>
+	<string name="im">IM</string>
+    <string name="label">MIUI SDK</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="permdesc_sendSmsNoConfirmation">Дозволяє застосунку відправляти SMS повідомлення. Шкідливі можуть використовувати цей дозвіл для відправлення повідомлень на платні номери.</string>
 </resources>
