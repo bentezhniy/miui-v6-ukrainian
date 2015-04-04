@@ -280,7 +280,6 @@
     <string name="micloud_single_dspt">Використовуйте Mi Cloud для синхронізації даних, пошуку пристрою та обміну інформацією з друзями</string>
     <string name="micloud_space_duokan_detail">Керуйте вмістом використовуючи Duokan.</string>
     <string name="micloud_space_duokan_title">Duokan</string>
-	<string name="antispam_sync">Чорний список</string>
 	<string name="buy_more_space_b_class">"Увійдіть на mi.com/micloud аби отримати більше місця.\nВам необхідно мати картку банку Mainland China для придбання додаткового місця."</string>
     <string name="buy_more_space_c_class">"Аби скористатися цією послугою, необхідно мати картку банку Mainland China.\nУвійдіть на mi.com/micloud аби отримати більше місця."</string>
     <string name="cloud_back_up_button_ok">Зупинити</string>
