@@ -122,4 +122,8 @@
     <string name="bugreport_tool_log_toast">Звіт збережений в %s</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">Створення звіту про помилки…</string>
 	<string name="button_plus">+1</string>
+	<string name="network_disconnected">Мережа відсутня</string>
+	<string name="submit_dialog_not_wifi_content">"Ваші відгуки, разом з журналом помилок та прикріпленими зображеннями буде надіслано, коли ваш пристрій використовуватиме бездротову мережу"</string>
+	<string name="toast_feedback_collect_store">Збір записів до журналу…</string>
+	<string name="toast_fill_brackets">Будь ласка, заповніть у дужках</string>
 </resources>

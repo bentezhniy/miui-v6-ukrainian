@@ -241,4 +241,5 @@
     <string name="zone_time_offset_behind">%1$d г. %2$d хв. менше</string>
     <string name="zone_time_offset_behind_only_hour">%d г. менше</string>
 	<string name="battery_charging_level">%d%%</string>
+	<string name="timer_item_picker_hour">Г</string>
 </resources>

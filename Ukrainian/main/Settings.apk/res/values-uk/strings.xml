@@ -3081,4 +3081,14 @@
     <string name="gadget_brightness_state_off">вимкнути</string>
     <string name="gadget_state_off">вимкн.</string>
     <string name="gadget_state_on">увімкн.</string>
+	<string name="agps_roaming">A-GPS у роумінгу</string>
+    <string name="agps_roaming_dia">"Використання A-GPS у роумінгу може збільшити використання мобільних даних. Ваш оператор може стягувати додаткову плату за це"</string>
+    <string name="agps_roaming_dia_title">Використовувати A-GPS у роумінгу</string>
+    <string name="agps_roaming_summary">Використання A-GPS у роумінгу може спричинити додаткових витрат заряду АКБ</string>
+    <string name="status_bar_settings_enable_notification">Дозволити сповіщення</string>
+    <string name="status_bar_settings_notification_led">LED-індикація</string>
+    <string name="status_bar_settings_notification_sound_vibrate">Звук та вібрація</string>
+    <string name="status_bar_settings_show_home_message">Іконка застосунку</string>
+    <string name="status_bar_settings_show_keyguard_notification">Показувати push-сповіщення</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">Показувати push-сповіщення на екрані блокування та у інших місцях</string>
 </resources>

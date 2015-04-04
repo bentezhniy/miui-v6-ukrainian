@@ -563,4 +563,19 @@ sms (%1$d), MMS (%2$d)."</string>
     <string name="pref_title_sms_validity_period">Строк дії SMS</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="sp_category_title_prefix">%s</string>
+	<string name="confirm_restore_checkbox">Разблокувати повідомлення від цього номеру</string>
+    <string name="confirm_restore_message">Відновити обрані повідомлення?</string>
+	<string name="message_contact">Контакт:</string>
+    <string name="message_expired">Спливає</string>
+    <string name="message_number">Телефон:</string>
+    <string name="over_max_mms_size">Занадто велике MMS.</string>
+    <string name="pref_summary_send_delivery_reports">Надсилати звіт про доставку надісланих повідомлень</string>
+    <string name="pref_title_send_delivery_reports">Надсилати звіт про доставку</string>
+    <string name="pref_title_storage_status">"Стан пам'яті сховища повідомлень"</string>
+    <string name="recipients_over_size">Отримувачів занадто багато</string>
+    <string name="select_copy_text">Виділити та скопіювати текст повідомлення</string>
+    <string name="storage_dialog_attachments">MMS вкладень:</string>
+    <string name="storage_dialog_available_space">Доступно місця:</string>
+    <string name="storage_dialog_database">База даних:</string>
+    <string name="storage_dialog_mms_size">Розмір MMS:</string>
 </resources>

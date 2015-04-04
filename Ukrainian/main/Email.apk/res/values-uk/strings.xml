@@ -940,4 +940,10 @@
     <string name="trigger_save_char">s</string>
     <string name="trigger_y_char">y</string>
     <string name="widget_large_unread_count">%d+</string>
+	<string name="upload_log">Надсилання звіту</string>
+    <string name="upload_log_failed">Помилка надсилання</string>
+    <string name="upload_log_success">Надіслано-</string>
+    <string name="upload_log_title">Надіслати діагностичного відгука?</string>
+    <string name="uploading_logs">Надсилання звіту</string>
+    <string name="you_are_in_mobile_network">Ви використовуєте мобільну мережу, будьте уважні!</string>
 </resources>

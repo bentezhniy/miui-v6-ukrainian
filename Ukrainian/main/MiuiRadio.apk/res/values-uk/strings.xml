@@ -100,4 +100,8 @@
     <string name="impunity_declaration_ignore">Не показувати знову</string>
     <string name="impunity_declaration_positive_text">Погодитися</string>
     <string name="impunity_declaration_negative_text">Вихід</string>
+	<string name="action_item_delete">Видалити</string>
+	<string name="confirm_delete_history_text">Видалити обрані елементи?</string>
+	<string name="local_program">Локальні програми</string>
+	<string name="no_download_text">Не завантажувати</string>
 </resources>

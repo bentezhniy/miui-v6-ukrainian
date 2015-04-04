@@ -410,4 +410,5 @@
     <string name="today_used_traffic">Сьогодні: %s</string>
     <string name="total_over_flow">Перевищення: %s</string>
     <string name="privacy_prompt_purchase_history_message">Ваш номер телефону і інформація про оператора будуть завантажені на сервер Xiaomi, щоб отримати історію платежів.</string>
+	<string name="add_miservice_dialog_content">"%s вимагає від вас додати MIUI Service Framework до списку виключень. Ви можете отримувати повідомлення з вбудованих застосунків MIUI та інших застосунків сторонніх розробників."</string>
 </resources>
