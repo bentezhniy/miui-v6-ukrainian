@@ -2866,12 +2866,12 @@
     <string name="page_layout_31">Роман</string>
     <string name="oldman_mode_entry_title">Для літніх</string>
     <string name="oldman_mode_entry_name">Для літніх</string>
-    <string name="oldman_mode_settings_caption">Налаштування режиму \" Для літніх\"</string>
-    <string name="oldman_mode_enabled_name">Увімкнути режим \" Для літніх\"</string>
+    <string name="oldman_mode_settings_caption">Налаштування режиму \"Для літніх\"</string>
+    <string name="oldman_mode_enabled_name">Увімкнути режим \"Для літніх\"</string>
     <string name="oldman_mode_summary">Використання спрощеного робочого стола й меню</string>
     <string name="oldman_mode_confirm_title">Перезавантажити пристрій?</string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">Для ввімкнення режиму \" Для літніх\" необхідне перезавантаження.</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">Увімкнути режим \" Для літніх\"?</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">Для ввімкнення режиму \"Для літніх\" необхідне перезавантаження.</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">Увімкнути режим \"Для літніх\"?</string>
     <string name="location_agps_params_settings_title">Налаштування AGPS</string>
     <string name="location_agps_supl_settings">Налаштування SUPL</string>
     <string name="location_agps_supl_server_addr">Сервер</string>
