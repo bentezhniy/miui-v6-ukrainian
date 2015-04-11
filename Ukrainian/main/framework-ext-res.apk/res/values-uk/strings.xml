@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_toggle_ac">Доступ</string>
+    <string name="status_bar_toggle_auto_brightness">Підсвічування</string>
+    <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+    <string name="status_bar_toggle_brightness">Яскравість</string>
+    <string name="status_bar_toggle_data">Інтернет</string>
+    <string name="status_bar_toggle_divider">Ще</string>
+    <string name="status_bar_toggle_drive_mode">За кермом</string>
+    <string name="status_bar_toggle_flight_mode">В літаку</string>
+    <string name="status_bar_toggle_gps">GPS</string>
+    <string name="status_bar_toggle_lock">Заблокувати</string>
+    <string name="status_bar_toggle_mute">Без звуку</string>
+    <string name="status_bar_toggle_network_type">Тип мережі</string>
+    <string name="status_bar_toggle_power_mode">Відтвор.</string>
+    <string name="status_bar_toggle_privacy_mode">Гість</string>
+    <string name="status_bar_toggle_quiet_mode">Тиша</string>
+    <string name="status_bar_toggle_reboot">Перезав.</string>
+    <string name="status_bar_toggle_rotate">Обертання</string>
+    <string name="status_bar_toggle_screen_button">Клавіші</string>
+    <string name="status_bar_toggle_screenshot">Скріншот</string>
+    <string name="status_bar_toggle_shutdown">Вимкнути</string>
+    <string name="status_bar_toggle_sync">Синхр.</string>
+    <string name="status_bar_toggle_sync_auto">Автосинхр.</string>
+    <string name="status_bar_toggle_sync_manual">Синхр.</string>
+    <string name="status_bar_toggle_syncing">Синхр…</string>
+    <string name="status_bar_toggle_torch">Ліхтарик</string>
+    <string name="status_bar_toggle_vibrate">Вібрація</string>
+    <string name="status_bar_toggle_wifi">Wi-Fi</string>
+    <string name="status_bar_toggle_wifi_ap">Wi-Fi точка</string>
+ 	<string name="status_bar_toggle_paper_mode">Режим читання</string>
+	<string name="screen_rotation_freeze_message">Автообертання вимкнено</string>
+    <string name="screen_button_disabled_message">Навігаційні клавіші вимкнено. Аби увімкнути їх, токніться клавіш Додому та Живлення одночасно</string>
+    <string name="screen_button_enabled_message">Навігаційні клавіші увімкнено</string>
+    <string name="miui">MIUI</string>
+</resources>
