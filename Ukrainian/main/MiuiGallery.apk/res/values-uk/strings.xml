@@ -69,11 +69,11 @@
     <string name="delete">Видалити</string>
     <string name="confirm_delete">"Видалити обране? 
 
-файлыв: %s"</string>
+файлів: %s"</string>
     <string name="comfirm_delete_current_album">Видалити обраний альбом?</string>
     <string name="confirm_delete_album" formatted="false">"Видалити обрані альбоми із зображеннями? 
 
-альбомыв: %s 
+альбомів: %s 
 изображень: %s"</string>
     <string name="confirm_delete_system_album">Видалити системний альбом \"%s\"?</string>
     <string name="operation_delete_confirm_message_folder">"Тека буде видалена з усіма файлами.
@@ -630,4 +630,7 @@
     <string name="start_to_use_face_albumset">Почати використовувати альбом облич</string>
     <string name="view_face_album">Переглянути</string>
     <string name="who_is_this">Хто це?</string>
+    <string name="always_rotate_alert_title">Автоповорот зображень</string>
+    <string name="always_rotate_alert_msg">Ви можете налаштувати це пізніше у Галереї.</string>
+    <string name="always_rotate_alert_positive_button_text">Увімкнути</string>
 </resources>
