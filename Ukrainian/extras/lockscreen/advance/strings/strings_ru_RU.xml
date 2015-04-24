@@ -1,0 +1,31 @@
+<strings>
+    <string name="Clear" value="Ясно"/>
+    <string name="Cloudy" value="Облачно"/>
+    <string name="Hazy" value="Мряка"/>
+    <string name="Foggy" value="Сильный туман"/>
+    <string name="Severe_rainstorm" value="Сильный дождь"/>
+    <string name="Rainstorm" value="Ливень"/>
+    <string name="Very_heavy_rainfall" value="Очень сильный ливень"/>
+    <string name="Thunderstorm" value="Гроза"/>
+    <string name="Shower" value="Ливень"/>
+    <string name="Heavy_rainfall" value="Сильный ливень"/>
+    <string name="Rain" value="Дождь"/>
+    <string name="Drizzle" value="Легкий дождь"/>
+    <string name="Sleet" value="Дождь со снегом"/>
+    <string name="Snowstorm" value="Метель"/>
+    <string name="Patches_of_snowfall" value="Снег"/>
+    <string name="Heavy_snowfall" value="Сильный снег"/>
+    <string name="Snowfall" value="Снегопад"/>
+    <string name="Light_snowfall" value="Легкий снегопад"/>
+    <string name="Strong_sandstorm" value="Пещаная буря"/>
+    <string name="Sandstorm" value="Пещаная буря"/>
+    <string name="Light_sandstorm" value="Легкая пещаная буря"/>
+    <string name="Sandstorm" value="Пещаная буря"/>
+    <string name="Hail" value="Град"/>
+    <string name="Floating_Dust" value="Выбросы"/>
+    <string name="Haze" value="Мряка"/>
+    <string name="date_time" value="MM/dd  E"/>
+    <string name="unlock_text" value="Разблокировать"/>
+    <string name="language" value="ru"/>
+
+</strings>

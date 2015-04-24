@@ -1,0 +1,31 @@
+<strings>
+    <string name="Clear" value="Clear"/>
+    <string name="Cloudy" value="Cloudy"/>
+    <string name="Hazy" value="Hazy"/>
+    <string name="Foggy" value="Foggy"/>
+    <string name="Severe_rainstorm" value="Severe rainstorm"/>
+    <string name="Rainstorm" value="Rainstorm"/>
+    <string name="Very_heavy_rainfall" value="Very heavy rainfall"/>
+    <string name="Thunderstorm" value="Thunderstorm"/>
+    <string name="Shower" value="Shower"/>
+    <string name="Heavy_rainfall" value="Heavy rainfall"/>
+    <string name="Rain" value="Rain"/>
+    <string name="Drizzle" value="Drizzle"/>
+    <string name="Sleet" value="Sleet"/>
+    <string name="Snowstorm" value="Snowstorm"/>
+    <string name="Patches_of_snowfall" value="Patches of snowfall"/>
+    <string name="Heavy_snowfall" value="Heavy snowfall"/>
+    <string name="Snowfall" value="Snowfall"/>
+    <string name="Light_snowfall" value="Light snowfall"/>
+    <string name="Strong_sandstorm" value="Strong sandstorm"/>
+    <string name="Sandstorm" value="Sandstorm"/>
+    <string name="Light_sandstorm" value="Light sandstorm"/>
+    <string name="Sandstorm" value="Sandstorm"/>
+    <string name="Hail" value="Hail"/>
+    <string name="Floating_Dust" value="Floating Dust"/>
+    <string name="Haze" value="Haze"/>
+    <string name="date_time" value="MM/dd  E"/>
+    <string name="unlock_text" value="Slide to unlock"/>
+    <string name="language" value="en"/>
+
+</strings>

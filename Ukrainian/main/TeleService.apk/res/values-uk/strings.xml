@@ -989,4 +989,6 @@ sim карта буде очищена при невдалій спробі вв
     <string name="set_auto_msg">При виході нової версії прошивка буде завантажуватися з мережі Wi-Fi і встановлюватися автоматично</string>
     <string name="set_auto_update_title">Увімкнути автоматичне оновлення?</string>
     <string name="title_toast_auto">Автоматичне встановлення оновлень увімкнене</string>
+	<string name="flash_when_ring_summary">Сповіщувати спалахом при вхідному виклику</string>
+    <string name="flash_when_ring_title">Сповіщення спалахом</string>
 </resources>

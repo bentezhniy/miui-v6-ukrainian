@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lockscreen version="1" frameRate="60" displayDesktop="true" screenWidth="720">
+	<ExternalCommands>
+		<Trigger action="resume">
+			<VariableCommand name="reach_state" expression="0" />	
+			<VariableCommand name="panel_open" expression="1" />
+			<VariableCommand name="appear" expression="#music_control.music_state" />
+			<Command target="music_control.visibility" value="true" condition="#music_control.music_state" />
+			<Command target="music_control.visibility" value="false" condition="not(#music_control.music_state)" />
+			<Command target="music_control.animation" value="play" condition="#music_control.music_state" />
+			<Command target="lock1.animation" value="play" />
+			<Command target="lock2.animation" value="play" />
+			<Command target="lock3.animation" value="play" />
+			<Command target="lock4.animation" value="play" />
+		</Trigger>
+		<Trigger action="pause">
+			<Command target="s_number.animation" value="play" />
+		</Trigger>
+	</ExternalCommands>
+	<Var name="slider_move_y" expression="#unlocker.move_y+#unlocker_call.move_y+#unlocker_sms.move_y" />
+	<Var name="slider_up_y" expression="min(#slider_move_y,0)" />
+	<Var name="unlock_state" expression="ifelse(#unlocker.state,1,0)" />
+	<Var name="panel_y" expression="#ani_offset_y*#screen_open" />
+	<!-- 回弹动画 -->
+	<FramerateController name="screen_framerate_controller" loop="false">
+		<ControlPoint frameRate="60" time="0" />
+		<ControlPoint frameRate="60" time="500" />
+	</FramerateController>
+	<Var name="ani_offset_y">
+		<VariableAnimation>
+			<AniFrame value="0" time="0" />
+			<AniFrame value="-40" time="50" />
+			<AniFrame value="-70" time="120" />
+			<AniFrame value="-70" time="250" />
+			<AniFrame value="0" time="380" />
+			<AniFrame value="-15" time="420" />
+			<AniFrame value="-20" time="500" />
+			<AniFrame value="-20" time="520" />
+			<AniFrame value="0" time="600" />
+			<AniFrame value="0" time="100000000000000" />
+		</VariableAnimation>
+	</Var>
+	<Var name="slider_up_y_ani">
+		<VariableAnimation>
+			<AniFrame value="#slider_up_y" time="0" />
+			<AniFrame value="-1280" time="200" />
+			<AniFrame value="-1280" time="100000000000" />
+		</VariableAnimation>
+	</Var>
+	<VariableBinders>
+		<ContentProviderBinder name="weather" uri="content://weather/weather" columns="city_id,city_name,publish_time,temperature,temperature_range,description,wind,humidity,weather_type" countName="hasweather">
+			<Variable name="city_id" type="string" column="city_id" />
+			<Variable name="weather_id" type="int" column="weather_type" />
+			<Variable name="weather_location" type="string" column="city_name" />
+			<Variable name="weather_temperature" type="int" column="temperature" />
+			<Variable name="weather_temperature_range" type="string" column="temperature_range" />
+			<Variable name="weather_description" type="string" column="description" />
+			<Variable name="weather_wind" type="string" column="wind" />
+			<Variable name="weather_publish_time" type="long" column="publish_time" />
+		</ContentProviderBinder>
+		<!-- 空气质量指数 -->
+		<ContentProviderBinder name="weather_aqi" dependency="weather" uriFormat="content://weatherinfo/aqi/%s" uriParas="@city_id" columns="aqi,pm25,pm10,so2,no2,pub_time,src,spot" countName="hasweatherinfo">
+			<Variable name="aqi" type="int" column="aqi" />
+			<Variable name="pm25" type="int" column="pm25" />
+			<Variable name="pm10" type="int" column="pm10" />
+			<Variable name="so2" type="int" column="so2" />
+			<Variable name="no2" type="int" column="no2" />
+		</ContentProviderBinder>
+		<ContentProviderBinder name="missed_calls" uri="content://call_log/calls" columns="date,number,name,type" order="date DESC" where="type=3 AND new=1" countName="call_count">
+			<Variable name="call_name1" type="string" column="name" row="0" />
+			<Variable name="call_number1" type="string" column="number" row="0" />
+			<Variable name="call_date1" type="long" column="date" row="0" />
+			<varibale name="call_type1" type="integer" column="type" row="0" />
+			<Variable name="call_name2" type="string" column="name" row="1" />
+			<Variable name="call_number2" type="string" column="number" row="1" />
+			<Variable name="call_date2" type="long" column="date" row="1" />
+			<varibale name="call_type2" type="integer" column="type" row="1" />
+		</ContentProviderBinder>
+		<ContentProviderBinder dependency="missed_calls" uriFormat="content://datahub/call_log/location/%s" uriParas="@call_number1" columns="location">
+			<Variable name="call_location1" type="string" column="location" row="0" />
+		</ContentProviderBinder>
+		<ContentProviderBinder dependency="missed_calls" uriFormat="content://datahub/call_log/location/%s" uriParas="@call_number2" columns="location">
+			<Variable name="call_location2" type="string" column="location" row="0" />
+		</ContentProviderBinder>
+		<ContentProviderBinder name="sms_table" uri="content://sms/inbox" columns="_id,address,date,body,person" where="seen=0 AND read=0" order="date DESC" countName="sms_count">
+			<Variable name="sms_date1" type="long" column="date" row="0" />
+			<Variable name="sms_body1" type="string" column="body" row="0" />
+			<Variable name="sms_num1" type="string" column="address" row="0" />
+			<Variable name="sms_date2" type="long" column="date" row="1" />
+			<Variable name="sms_body2" type="string" column="body" row="1" />
+			<Variable name="sms_num2" type="string" column="address" row="1" />
+		</ContentProviderBinder>
+		<ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,'%s')" whereParas="@sms_num1" countName="hasName1">
+			<Variable name="sms_name1" type="string" column="display_name" row="0" />
+		</ContentProviderBinder>
+		<ContentProviderBinder dependency="sms_table" uri="content://com.android.contacts/data" columns="display_name" whereFormat="PHONE_NUMBERS_EQUAL(data1,'%s')" whereParas="@sms_num2" countName="hasName2">
+			<Variable name="sms_name2" type="string" column="display_name" row="0" />
+		</ContentProviderBinder>
+	</VariableBinders>
+	<Var name="air_quality" expression="ifelse(ge(#aqi,0)*lt(#aqi,50),'优',ge(#aqi,50)*lt(#aqi,100),'良',ge(#aqi,100)*lt(#aqi,150),'轻度污染',ge(#aqi,150)*lt(#aqi,200),'中度污染',ge(#aqi,200)*lt(#aqi,300),'重度污染',ge(#aqi,300)*le(#aqi,500),'严重污染','获取信息异常')" type="string" />
+	<Var name="Wallpaper_off" expression="ifelse(isnull(#Wallpaper_off),1,#Wallpaper_off)" type="number" const="true" />
+	<Var name="weather_off" expression="ifelse(isnull(#weather_off),0,#weather_off)" type="number" const="true" />
+	<Var name="music_album_cover_off" expression="ifelse(isnull(#music_album_cover_off),1,#music_album_cover_off)" type="number" const="true" />
+	<Var name="lyric_off" expression="ifelse(isnull(#lyric_off),0,#lyric_off)" type="number" const="true" />
+	<Var name="s_number" expression="ifelse(not(#s_id),int(rand()*10+1),#s_id)" const="true" />
+	<Wallpaper />
+	<Image visibility="#Wallpaper_off" x="#screen_width/2" y="#screen_height/2" w="#screen_width" h="#screen_height" srcExp="'s/'+#s_number+'.png'" align="center" alignV="center" />
+	<!-- panel  -->
+	<Var name="panel_open" expression="1" const="true" />
+	<Var name="panel_x" expression="0" const="true" />
+	<Var name="move_distance" expression="223" const="true" />
+	<FramerateController name="panel_framerate_controller" loop="false">
+		<ControlPoint time="0" frameRate="50" />
+		<ControlPoint time="800" frameRate="0" />
+	</FramerateController>
+	<Var name="ani_offse_y">
+		<VariableAnimation>
+			<AniFrame value="#ani_begin_y" time="0" />
+			<AniFrame value="0" time="300" />
+			<AniFrame value="0" time="100000000000000" />
+		</VariableAnimation>
+	</Var>
+	<Var name="ani_rotation">
+		<VariableAnimation delay="200">
+			<AniFrame value="-180" time="0" />
+			<AniFrame value="0" time="300" />
+			<AniFrame value="0" time="100000000000000" />
+		</VariableAnimation>
+	</Var>
+	<Var name="pane_y" expression="(#panel_open-1)*#move_distance+#ani_offse_y" />
+	<!--Image x="#screen_width/2" y="314+230" w="#screen_width" h="500" src="bg1.png" align="center" alignV="center" /-->
+	<MusicControl x="0" name="music_control" visibility="false" autoShow="true" defAlbumCover="default_album_cover.png" enableLyric="true" updateLyricInterval="100">
+		<AlphaAnimation>
+			<Alpha a="#appear*0" time="0" />
+			<Alpha a="#appear*255" time="300" />
+			<Alpha a="#appear*255" time="10000000000000" />
+		</AlphaAnimation>
+		<!-- Text新增自动滚动功能，如果制定了宽度和滚动速度marqueeSpeed，在文字超过宽度的时候会自动滚动显示  -->
+		<Image visibility="#music_album_cover_off" name="music_album_cover" x="#screen_width/2" y="#screen_height/2" w="#screen_height" h="#screen_height" align="center" alignV="center" antiAlias="true" />
+		<Image x="#screen_width/2" y="#screen_height/2" w="#screen_width" h="#screen_height" src="bg1.png" align="center" alignV="center" />
+		<Group y="ifelse(#reach_state,#slider_up_y_ani,#slider_up_y)">
+			
+			
+		<Text name="music_display" x="50" y="325" w="720" marqueeSpeed="30" size="35" color="@color" alpha="255" />
+		<Group clip="true" x="0" y="375" w="#screen_width" h="819">
+
+			<Group x="#panel_x" y="#pane_y">
+			<Var name="lyric_width" expression="640" const="true"/>
+			<Group visibility="#lyric_off" x="#screen_width/2-#lyric_width/2" y="10" w="#lyric_width" h="370" clip="true">
+				<Text x="#lyric_width/2" y="270" w="#lyric_width" align="center" multiLine="true" color="#80ffffff" size="28" text="@music_control.lyric_before" alignV="bottom" spacingMult="1.6"/>
+				<Text x="#lyric_width/2" y="270" w="#lyric_width" align="center" multiLine="true" color="#b3ffffff" size="28" text="@music_control.lyric_current" bold="true" spacingMult="1.6" name="cur_lyric"/>
+				<Text x="#lyric_width/2" y="322" w="#lyric_width" align="center" multiLine="true" color="#80ffffff" size="28" text="@music_control.lyric_after" spacingMult="1.6"/>
+			</Group>			
+
+				<Button name="music_prev" x="148" y="#pane_y+#screen_height-430" w="100" h="100">
+					<Normal>
+						<Circle x="198" y="#screen_height-760" align="center" r="38" strokeColor="#80ffffff" fillColor="#00000000" weight="1" strokeAlign="inner" />
+					</Normal>
+					<Pressed>
+						<Circle x="198" y="#screen_height-760" align="center" r="38" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner" />
+					</Pressed>
+				</Button>
+				<Image x="196" y="#screen_height-760" align="center" alignV="center" src="music_pre.png" />
+				<Button name="music_next" x="#screen_width-248" y="#pane_y+#screen_height-430" w="100" h="100">
+					<Normal>
+						<Circle x="#screen_width-198" y="#screen_height-760" align="center" r="38" strokeColor="#80ffffff" fillColor="#00000000" weight="1" strokeAlign="inner" />
+					</Normal>
+					<Pressed>
+						<Circle x="#screen_width-198" y="#screen_height-760" align="center" r="38" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner" />
+					</Pressed>
+				</Button>
+				<Image x="#screen_width-196" align="center" y="#screen_height-760" alignV="center" src="music_next.png" />
+				<Button name="music_play" x="#screen_width/2-70" y="#pane_y+#screen_height-450" w="140" h="140">
+					<Normal>
+						<Circle x="#screen_width/2" y="#screen_height-760" alignV="center" r="56" strokeColor="#80ffffff" fillColor="#00000000" weight="1" strokeAlign="inner" />
+					</Normal>
+					<Pressed>
+						<Circle x="#screen_width/2" y="#screen_height-760" alignV="center" r="56" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner" />
+					</Pressed>
+					<Image x="#screen_width/2+5" y="#screen_height-760" align="center" alignV="center" src="music_play.png" />
+				</Button>
+				<Button name="music_pause" x="#screen_width/2-70" y="#pane_y+#screen_height-450" w="140" h="140">
+					<Normal>
+						<Circle x="#screen_width/2" align="center" alignV="center" y="#screen_height-760" r="56" strokeColor="#80ffffff" fillColor="#00000000" weight="1" strokeAlign="inner" />
+					</Normal>
+					<Pressed>
+						<Circle x="#screen_width/2" align="center" alignV="center" y="#screen_height-760" r="56" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner" />
+					</Pressed>
+					<Image x="#screen_width/2" y="#screen_height-760" align="center" alignV="center" src="music_pause.png" />
+				</Button>
+				<Var name="progress" expression="ifelse(#music_control.music_duration,#music_control.music_position/#music_control.music_duration,0)" />
+				<Image x="#screen_width/2-70" y="#screen_height-760" alignV="center" src="play_progress.png" />
+			</Group>
+		</Group>
+		</Group>
+	</MusicControl>
+	<Group y="ifelse(#reach_state,#slider_up_y_ani,#slider_up_y)">
+		<Group clip="true" x="0" y="0" w="#screen_width" h="874+223">
+			<Group x="#panel_x" y="#pane_y">
+				<!--Button x="0" y="314" w="#screen_width" h="500">
+					<Triggers>
+						<Trigger action="double" target="music_control" property="visibility" value="toggle" />
+					</Triggers>
+				</Button-->
+				<Group visibility="(eq(1,#battery_state)+eq(2,#battery_state)+eq(3,#battery_state))*not(#music_control.visibility)">
+					<Circle x="#screen_width/2" y="#screen_height-380" align="center" r="38" strokeColor="#b3FFFFFF" fillColor="#00000000" weight="1" strokeAlign="inner" />
+					<Image x="#screen_width/2" y="#screen_height-380" src="d.png" align="center" alignV="center" alpha="225">
+						<AlphaAnimation>
+							<Alpha a="255" time="0" />
+							<Alpha a="255" time="2000" />
+							<Alpha a="0" time="2500" />
+							<Alpha a="0" time="5000" />
+							<Alpha a="255" time="5500" />
+						</AlphaAnimation>
+					</Image>
+					<Group>
+						<Text x="#screen_width/2" y="#screen_height-383" category="Charging" color="@color" size="24" format="%d" paras="#battery_level" align="center" alignV="center" alpha="225" />
+						<Text x="#screen_width/2" y="#screen_height-383" category="BatteryFull" color="@color" size="24" text="满" align="center" alignV="center" alpha="225" />
+						<Text x="#screen_width/2" y="#screen_height-383" category="BatteryLow" color="@color" size="24" format="低" paras="#battery_level" align="center" alignV="center" alpha="225" />
+						<AlphaAnimation>
+							<Alpha a="0" time="0" />
+							<Alpha a="0" time="2500" />
+							<Alpha a="255" time="3000" />
+							<Alpha a="255" time="4500" />
+							<Alpha a="0" time="5000" />
+							<Alpha a="0" time="5500" />
+						</AlphaAnimation>
+					</Group>
+				</Group>
+				<Button x="0" y="314" w="#screen_width" h="500">
+					<Triggers>
+						<Trigger action="double">
+							<Command target="music_control.visibility" value="true" />
+							<VariableCommand name="appear" expression="not(#appear)" />
+							<Command target="music_control.animation" value="play" />
+							<Command target="music_control.visibility" value="false" condition="not(#appear)" delay="300" />
+						</Trigger>
+					</Triggers>
+				</Button>
+				<Group visibility="#call_missed_count">
+					<Image x="#screen_width/2" y="#screen_height-183" src="xian.png" align="center" />
+					<Image x="#screen_width/2" y="#screen_height-83" src="xian.png" align="center" />
+					<Button visibility="eq(#panel_open,0)" x="150" y="#screen_height-182" w="420" h="100">
+						<Pressed>
+							<Rectangle x="150" y="#screen_height-183" w="420" h="100" strokeColor="#00FF0000" fillColor="#26ffffff" weight="2" />
+						</Pressed>
+						<Triggers>
+							<Trigger action="up">
+								<IntentCommand action="android.intent.action.VIEW" type="vnd.android.cursor.dir/calls" />
+								<ExternCommand command="unlock" delay="200" />
+								<VariableCommand name="reach_state" expression="1" />
+								<Command target="slider_up_y_ani.animation" value="play" />
+							</Trigger>
+						</Triggers>
+					</Button>
+					<Image x="174" y="#screen_height-158" src="phone.png" alpha="175" />
+					<Text x="255" y="#screen_height-158" alignV="center" color="@color" size="30" w="230" marqueeSpeed="30" alpha="225" textExp="ifelse(isnull(@call_name1),'陌生号码',@call_name1)" />
+					<Text x="255" y="#screen_height-111" alignV="center" color="@color" size="28" text="@call_number1" alpha="225" />
+					<Text x="#screen_width-174" y="#screen_height-158" align="right" alignV="center" color="@color" size="24" alpha="225" textExp="ifelse(isnull(@call_location1),'未知归属地',@call_location1)" />
+					<DateTime x="#screen_width-174" y="#screen_height-111" align="right" alignV="center" color="@color" alpha="225" size="24" format="kk:mm" value="#call_date1" />
+				</Group>
+				<Group visibility="#sms_unread_count*not(#call_missed_count)">
+					<Image x="#screen_width/2" y="#screen_height-183" src="xian.png" align="center" />
+					<Image x="#screen_width/2" y="#screen_height-83" src="xian.png" align="center" />
+					<Button visibility="eq(#panel_open,0)" x="150" y="#screen_height-182" w="420" h="100">
+						<Pressed>
+							<Rectangle x="150" y="#screen_height-183" w="420" h="100" strokeColor="#00FF0000" fillColor="#26ffffff" weight="2" />
+						</Pressed>
+						<Triggers>
+							<Trigger action="up">
+								<IntentCommand action="android.intent.action.MAIN" type="vnd.android-dir/mms-sms" category="android.intent.category.DEFAULT" />
+								<ExternCommand command="unlock" delay="200" />
+								<VariableCommand name="reach_state" expression="1" />
+								<Command target="slider_up_y_ani.animation" value="play" />
+							</Trigger>
+						</Triggers>
+					</Button>
+					<Image x="174" y="#screen_height-158" src="sms.png" alpha="175" />
+					<Text x="255" y="#screen_height-158" alignV="center" color="@color" size="30" w="230" marqueeSpeed="30" alpha="225" textExp="ifelse(isnull(@sms_name1), @sms_num1, @sms_name1)" />
+					<DateTime x="#screen_width-174" y="#screen_height-158" align="right" alignV="center" color="@color" alpha="225" size="24" format="kk:mm" value="#sms_date1" />
+					<Text x="255" y="#screen_height-111" alignV="center" color="@color" size="28" w="290" marqueeSpeed="30" alpha="225" format="%s" paras="@sms_body1" />
+				</Group>
+				<Group visibility="#sms_unread_count*#call_missed_count">
+					<Image x="#screen_width/2" y="#screen_height+17" src="xian.png" align="center" />
+					<Button visibility="eq(#panel_open,0)" x="150" y="#screen_height-82" w="420" h="100">
+						<Pressed>
+							<Rectangle x="150" y="#screen_height-83" w="420" h="100" strokeColor="#00FF0000" fillColor="#26ffffff" weight="2" />
+						</Pressed>
+						<Triggers>
+							<Trigger action="up">
+								<IntentCommand action="android.intent.action.MAIN" type="vnd.android-dir/mms-sms" category="android.intent.category.DEFAULT" />
+								<ExternCommand command="unlock" delay="200" />
+								<VariableCommand name="reach_state" expression="1" />
+								<Command target="slider_up_y_ani.animation" value="play" />
+							</Trigger>
+						</Triggers>
+					</Button>
+					<Image x="174" y="#screen_height-58" src="sms.png" alpha="175" />
+					<Text x="255" y="#screen_height-58" alignV="center" color="@color" size="30" w="230" marqueeSpeed="30" alpha="225" textExp="ifelse(isnull(@sms_name1), @sms_num1, @sms_name1)" />
+					<DateTime x="#screen_width-174" y="#screen_height-58" align="right" alignV="center" color="@color" alpha="225" size="24" format="kk:mm" value="#sms_date1" />
+					<Text x="255" y="#screen_height-11" alignV="center" color="@color" size="28" w="290" marqueeSpeed="30" alpha="225" format="%s" paras="@sms_body1" />
+				</Group>
+				<Button visibility="#sms_unread_count+#call_missed_count" x="#screen_width/2-50" y="#screen_height-295" w="100" h="100">
+					<Normal>
+						<Circle x="#screen_width/2" y="#screen_height-245" align="center" r="38" strokeColor="#b3FFFFFF" fillColor="#00000000" weight="1" strokeAlign="inner" />
+					</Normal>
+					<Pressed>
+						<Circle x="#screen_width/2" y="#screen_height-245" align="center" r="38" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner" />
+					</Pressed>
+					<Text name="iofo3" x="#screen_width/2" y="#screen_height-250" format="%d" paras="#call_missed_count+#sms_unread_count" size="40" color="@color" align="center" alignV="center" alpha="225" />
+					<Triggers>
+						<Trigger action="up">
+							<VariableCommand name="panel_open" expression="not(#panel_open)" />
+							<VariableCommand name="ani_begin_y" expression="ifelse(#panel_open,-#move_distance,#move_distance)" />
+							<Command target="ani_offse_y.animation" value="play" />
+							<Command target="ani_rotation.animation" value="play" />
+							<Command target="panel_framerate_controller.animation" value="play" />
+						</Trigger>
+					</Triggers>
+				</Button>
+				<Group visibility="#weather_off)">
+					<Group visibility="not(#sms_unread_count+#call_missed_count)">
+						<Image x="#screen_width/2" y="#screen_height-183" src="xian.png" align="center" />
+						<Image x="#screen_width/2" y="#screen_height+17" src="xian.png" align="center" />
+						<ImageNumber name="wd" x="#screen_width/2" y="#screen_height-135" align="center" alignV="center" number="#weather_temperature" src="w/w.png" alpha="225" />
+						<Image x="#screen_width/2+#wd.bmp_width/2+8" y="#screen_height-162" src="w/o.png" align="left" alignV="top" alpha="225" />
+						
+						<Text name="wz" x="#screen_width/2" y="#screen_height-3" align="center" alignV="center" textExp="@weather_location" size="28" color="@color" alpha="225" />
+						<Text x="#screen_width/2" y="#screen_height-83" align="center" alignV="center" textExp="@weather_description" size="36" color="@color" alpha="225" />
+						<Text x="#screen_width/2" y="#screen_height-43" align="center" alignV="center" size="28" color="@color" format="%s" alpha="225" paras="@weather_temperature_range" />
+						
+					</Group>
+					<Button visibility="not(#sms_unread_count+#call_missed_count)" x="#screen_width/2-50" y="#screen_height-295" w="100" h="100">
+						<Normal>
+							<Circle x="#screen_width/2" y="#screen_height-245" align="center" r="38" strokeColor="#b3FFFFFF" fillColor="#00000000" weight="1" strokeAlign="inner" />
+						</Normal>
+						<Pressed>
+							<Circle x="#screen_width/2" y="#screen_height-245" align="center" r="38" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner" />
+						</Pressed>
+						<Image x="#screen_width/2" y="#screen_height-245" srcExp="'weather_large/weather_' + #weather_id + '.png'" align="center" alignV="center" alpha="225" />
+						<Triggers>
+							<Trigger action="up">
+								<VariableCommand name="panel_open" expression="not(#panel_open)" />
+								<VariableCommand name="ani_begin_y" expression="ifelse(#panel_open,-#move_distance,#move_distance)" />
+								<Command target="ani_offse_y.animation" value="play" />
+								<Command target="ani_rotation.animation" value="play" />
+								<Command target="panel_framerate_controller.animation" value="play" />
+							</Trigger>
+						</Triggers>
+					</Button>
+				</Group>
+			</Group>
+		</Group>
+		<Var name="hour" expression="ifelse(#time_format,#hour24,#hour12,#hour12,12)" />
+		<Var name="flag" expression="eq(int(#hour/10),1)" />
+		<Var name="color" type="string" expression="ifelse(#applied_light_wallpaper,'#73000000','#ccffffff')" />
+		<Group frameRate="30">
+			<Var name="offset_x" expression="65+ifelse(#flag,-20,0)" />
+			<Var name="cubic_ani" expression="ifelse(#cubic_flag,8*#cubic_factor*#cubic_factor*#cubic_factor,1-8*#cubic_factor*#cubic_factor*#cubic_factor)" />
+			<Var name="cubic_factor">
+				<VariableAnimation>
+					<AniFrame value="0" time="100" />
+					<AniFrame value="0.5" time="700" />
+					<AniFrame value="0" time="700" />
+					<AniFrame value="0.5" time="1600" />
+				</VariableAnimation>
+			</Var>
+			<Var name="cubic_flag">
+				<VariableAnimation>
+					<AniFrame value="1" time="0" />
+					<AniFrame value="1" time="700" />
+					<AniFrame value="0" time="700" />
+					<AniFrame value="0" time="1600" />
+				</VariableAnimation>
+			</Var>
+		<Group y="24" scale="0.67">
+			<Image name="dot" x="#offset_x+#hour_first.bmp_width+#hour_second.bmp_width" alpha="255*#cubic_ani" y="73" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/s_dot.png'" />
+			<Image name="hour_first" x="#offset_x" y="73" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/l.png'" srcid="#hour/10" />
+			<Image name="hour_second" x="#offset_x+#hour_first.bmp_width" y="73" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/l.png'" srcid="#hour%10" />
+			<Image name="minute_first" x="#offset_x+#hour_first.bmp_width+#hour_second.bmp_width+#dot.bmp_width" y="73" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/s.png'" srcid="#minute/10" />
+			<Image name="minute_second" x="#offset_x+#hour_first.bmp_width+#hour_second.bmp_width+#dot.bmp_width+#minute_first.bmp_width" y="73" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/s.png'" srcid="#minute%10" />
+		</Group>
+		</Group>
+		<DateTime x="50" y="228" format="d/MMMM" size="30" color="@color" />
+		<DateTime x="50" y="278" format="EEEE" size="30" color="@color" />
+		<Image name="lock1" x="#screen_width/2" y="1173" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/lock.png'" align="center" alignV="center" visibility="not(#unlocker.state)">
+			<AlphaAnimation>
+				<Alpha a="255" time="0" />
+				<Alpha a="255" time="2000" />
+				<Alpha a="0" time="3000" />
+				<Alpha a="0" time="100000000000000" />
+			</AlphaAnimation>
+		</Image>
+		<Image name="lock2" x="#screen_width/2" y="1173" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/lock.png'" align="center" alignV="center" visibility="#unlocker.state">
+			<AlphaAnimation>
+				<Alpha a="125" time="0" />
+				<Alpha a="125" time="2000" />
+				<Alpha a="0" time="3000" />
+				<Alpha a="0" time="100000000000000" />
+			</AlphaAnimation>
+		</Image>
+		<Text name="lock3" x="#screen_width/2" y="1173" text="@unlock_text" size="30" color="@color" align="center" alignV="center" visibility="not(#unlocker.state)">
+			<AlphaAnimation>
+				<Alpha a="0" time="0" />
+				<Alpha a="0" time="3000" />
+				<Alpha a="255" time="4000" />
+				<Alpha a="255" time="100000000000000" />
+			</AlphaAnimation>
+		</Text>
+		<Text name="lock4" x="#screen_width/2" y="1173" text="@unlock_text" size="30" color="@color" align="center" alignV="center" visibility="#unlocker.state">
+			<AlphaAnimation>
+				<Alpha a="0" time="0" />
+				<Alpha a="0" time="3000" />
+				<Alpha a="125" time="4000" />
+				<Alpha a="125" time="100000000000000" />
+			</AlphaAnimation>
+		</Text>
+	</Group>
+	<Unlocker name="unlocker" bounceInitSpeed="100" bounceAcceleration="5000" delay="250">
+		<StartPoint x="0" y="#screen_height-380" w="#screen_width" h="380" />
+		<EndPoint x="-720" y="-280" w="1440" h="1000">
+			<Trigger>
+				<VariableCommand name="reach_state" expression="1" />
+				<Command target="slider_up_y_ani.animation" value="play" />
+			</Trigger>
+		</EndPoint>
+	</Unlocker>
+</Lockscreen>

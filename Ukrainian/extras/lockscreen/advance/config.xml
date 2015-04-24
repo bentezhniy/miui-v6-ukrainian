@@ -1,0 +1,23 @@
+﻿<Config>
+	<Group text="Lockscreen Settings">
+		<CheckBox text="Weather Detail" summary="Open or Closed" id="weather_off" default="1"/>	
+		<CheckBox text="Random Switch Wallpaper" summary="Activate this sometimes give poor experience" id="Wallpaper_off" default="0"/>	
+		<NumberChoice text="Set LockScreen Wallpaper" id="s_id" default="0">
+			<Item value="0" text="Random"/>
+			<Item value="4" text="miui6"/>
+			<Item value="7" text="miui6 V2"/>
+			<Item value="10" text="miui6 V3"/>
+			<Item value="1" text="blur one"/>
+			<Item value="2" text="blur"/>
+			<Item value="3" text="小怪物"/>
+			<Item value="5" text="Deep"/>
+			<Item value="6" text="Dark Blue"/>
+			<Item value="8" text="Blue"/>
+			<Item value="9" text="Green"/>
+		</NumberChoice>
+	</Group>
+	<Group text="">
+		<CheckBox text="Album Art" default="1" summary="Open or Closed" id="music_album_cover_off" />	
+		<CheckBox text="Display Lyric" default="1" summary="This may consume performance or power cosumption." id="lyric_off" />	
+	</Group>
+</Config>
