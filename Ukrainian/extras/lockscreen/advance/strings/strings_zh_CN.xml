@@ -1,30 +1,4 @@
-<strings>
-  <string name="Clear" value="晴"/>
-    <string name="Cloudy" value="多云"/>
-    <string name="Hazy" value="阴"/>
-    <string name="Foggy" value="雾"/>
-    <string name="Severe_rainstorm" value="特大暴雨"/>
-    <string name="Rainstorm" value="大暴雨"/>
-    <string name="Very_heavy_rainfall" value="暴雨"/>
-    <string name="Thunderstorm" value="雷阵雨"/>
-    <string name="Shower" value="阵雨"/>
-    <string name="Heavy_rainfall" value="大雨"/>
-    <string name="Rain" value="中雨"/>
-    <string name="Drizzle" value="小雨"/>
-    <string name="Sleet" value="雨夹雪"/>
-    <string name="Snowstorm" value="暴雪"/>
-    <string name="Patches_of_snowfall" value="阵雪"/>
-    <string name="Heavy_snowfall" value="大雪"/>
-    <string name="Snowfall" value="中雪"/>
-    <string name="Light_snowfall" value="小雪"/>
-    <string name="Strong_sandstorm" value="强沙尘暴"/>
-    <string name="Sandstorm" value="沙尘暴"/>
-    <string name="Light_sandstorm" value="沙尘"/>
-    <string name="Sandstorm" value="扬沙"/>
-    <string name="Hail" value="冰雹"/>
-    <string name="Floating_Dust" value="浮尘"/>
-    <string name="Haze" value="霾"/>
-    <string name="date_time" value="M月d日 E"/>
-    <string name="unlock_text" value="上滑解锁"/>
-	<string name="language" value="zh_CN"/>
-</strings>
+<resources>
+    <string name="date_format">M月d日 EEEE</string>
+    <string name="emergency_call">紧急呼叫</string>
+</resources>

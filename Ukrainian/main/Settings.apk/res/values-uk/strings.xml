@@ -1545,7 +1545,7 @@
     <string name="battery_sugg_bluetooth_headset">Спробуйте підключитися до іншого Bluetooth-пристрою</string>
     <string name="battery_desc_apps">Використання батареї застосунками</string>
     <string name="battery_sugg_apps_info">Зупиніть або вилучіть застосунок</string>
-    <string name="battery_sugg_apps_gps">Включайте й виключайте GPS вручну, щоб застосунки не могли використовувати цю функцію</string>
+    <string name="battery_sugg_apps_gps">Включайте й виключайте GPS власноруч, щоб застосунки не могли використовувати цю функцію</string>
     <string name="battery_sugg_apps_settings">У програмі можуть бути налаштування режиму енергозбереження</string>
     <string name="battery_desc_users">Використання батареї</string>
     <string name="menu_stats_unplugged">%1$s з моменту відключення від живлення</string>
@@ -1882,7 +1882,7 @@
 \u0009 \u0009
  Для вибору даних для синхронізації перейдіть у налаштування > акаунти"</string>
     <string name="data_usage_auto_sync_off_dialog_title">Вимкнути автосинхронізацію?</string>
-    <string name="data_usage_auto_sync_off_dialog">Це збереже дані й батарею, але вам доведеться синхронізувати ваші дані вручну для їхньої актуалізації. Ви також не будете одержувати повідомлення про оновлення</string>
+    <string name="data_usage_auto_sync_off_dialog">Це збереже дані й батарею, але вам доведеться синхронізувати ваші дані власноруч для їхньої актуалізації. Ви також не будете одержувати повідомлення про оновлення</string>
     <string name="data_usage_cycle_editor_title">Видалення статистики</string>
     <string name="data_usage_cycle_editor_subtitle">День місяця:</string>
     <string name="data_usage_cycle_editor_positive">Зберегти</string>
@@ -2600,8 +2600,8 @@
     <string name="select_ssid_type_title">Тип підключення SSID</string>
     <string name="gsm_to_wifi_connect_type_title">GSM -> Wi-Fi</string>
     <string name="wifi_priority_settings_label">Налаштування пріоритетів</string>
-    <string name="wifi_priority_type_title">Задати пріоритет AP вручну</string>
-    <string name="wifi_priority_type_summary">Дозволяє вручну задати пріоритет для кожної точки доступу</string>
+    <string name="wifi_priority_type_title">Задати пріоритет AP власноруч</string>
+    <string name="wifi_priority_type_summary">Дозволяє власноруч задати пріоритет для кожної точки доступу</string>
     <string name="wifi_priority_settings_title">Налаштування пріоритету AP</string>
     <string name="wifi_priority_settings_summary">Встановити пріоритет кожної точки доступу</string>
     <string name="wifi_priority_changed" formatted="false">Старе значення: %s | Нове значення: %s</string>
@@ -2964,7 +2964,7 @@
     <string name="miracast_game_mode_title">Ігровий режим</string>
     <string name="miracast_instructions">Бездротова передача відео та аудіо на дисплей ТБ та інші пристрої</string>
     <string name="miracast_is_discoverable">Видимий для всіх бездротових пристроїв (%1$s)</string>
-    <string name="miracast_menu_add_sink">Додати дисплей вручну</string>
+    <string name="miracast_menu_add_sink">Додати дисплей власноруч</string>
     <string name="miracast_menu_title_refreshing">Оновлення...</string>
     <string name="miracast_not_visible_to_other_devices">Невидимий для бездротових пристроїв</string>
     <string name="miracast_password">Пароль</string>
@@ -3031,7 +3031,7 @@
 	<string name="device_security_settings_title">Безпека</string>
 	<string name="enable_crypt_keeper_encrypt">Використовувати шифрування</string>
 	<string name="wifi_off_airplane_on_title">WiFi у режимі В літаку</string>
-    <string name="wifi_off_airplane_on_content">Можна ввімкнути WiFi вручну коли увімкнуто режим польоту.</string>
+    <string name="wifi_off_airplane_on_content">Можна ввімкнути WiFi власноруч коли увімкнуто режим польоту.</string>
     <string name="wifi_off_airplane_on_not_remind">Не показувати знову</string>
     <string name="wifi_off_airplane_on_cancel">Скасувати</string>
     <string name="wifi_off_airplane_on_confirm">OК</string>
@@ -3091,4 +3091,6 @@
     <string name="status_bar_settings_show_home_message">Іконка застосунку</string>
     <string name="status_bar_settings_show_keyguard_notification">Показувати push-сповіщення</string>
     <string name="status_bar_settings_show_keyguard_notification_summary">Показувати push-сповіщення на екрані блокування та у інших місцях</string>
+	<string name="greeshan_xposed_in_settings">Модулі</string>
+    <string name="wifi_type_approval_dialog_title">Номер NTC</string>
 </resources>

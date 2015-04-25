@@ -72,6 +72,15 @@
     <string name="view_aqi_detail_title">Інформація ІКВ</string>
     <string name="first_start_network_msg">Для отримання прогнозу погоди необхідно підключення до інтернету</string>
     <string name="first_start_network_title">Попередження</string>
-    <string name="international_detail_menu_title">Інформація</string>
+    <string name="international_detail_menu_title">Детально</string>
     <string name="view_realtime_clear_substitution">Ясно</string>
+	<string name="share_menu_title">Поширити</string>
+    <string name="share_btn_cancel">Скасувати</string>
+    <string name="share_btn_confirm">Поширити</string>
+    <string name="share_subject">Поширити</string>
+    <string name="share_button">Поширити</string>
+    <string name="share_weather_save_pic_fail">Неможливо зробити скріншот</string>
+    <string name="share_title">Розповісти про погоду</string>
+    <string name="share_weather_desc_split">,</string>
+    <string name="share_weather_desc">\#MIUI Погода#Сьогодні %1$s %2$s</string>
 </resources>

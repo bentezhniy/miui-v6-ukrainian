@@ -52,7 +52,7 @@
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Автоматично одержати шаблон повідомлення</item>
-        <item>Задати шаблон повідомлення вручну</item>
+        <item>Задати шаблон повідомлення власноруч</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Попреджати про трафік</item>

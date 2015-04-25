@@ -158,7 +158,7 @@
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Немає</item>
-        <item>Вручну</item>
+        <item>Власноруч</item>
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Відключене</item>
@@ -595,7 +595,7 @@
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Підключення автоматично</item>
-        <item>Підключення вручну</item>
+        <item>Підключення власноруч</item>
         <item>Завжди запитувати</item>
     </string-array>
     <string-array name="slideshow_time_entries">

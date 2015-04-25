@@ -564,7 +564,7 @@
     <string name="activity_title_apps_manager">Застосунки</string>
     <string name="activity_title_permissions_manager">Дозволи</string>
     <string name="dialog_title_auto_start_declare">Інформація про автозапуск</string>
-    <string name="dialog_msg_auto_start_declare">Деякі застосунки можуть працювати в фоні некоректно без автозапуску. Ви можете застосуни необхідні застосунки вручну в список автозапуску</string>
+    <string name="dialog_msg_auto_start_declare">Деякі застосунки можуть працювати в фоні некоректно без автозапуску. Ви можете додати необхідні застосунки в список автозапуску власноруч</string>
     <string name="button_text_known">ОК</string>
     <string name="empty_title_perm_apps">Немає застосунків з дозволами</string>
     <string name="permission_group_title_charges_related">Витрата</string>

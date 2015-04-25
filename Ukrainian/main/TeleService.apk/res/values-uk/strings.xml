@@ -139,7 +139,7 @@
     <string name="always_enable_mms_summary">Приймати MMS, навіть коли мобільний інтернет вимкнений</string>
     <string name="network_unlock">Розблокувати</string>
     <string name="networks_title">Мережі оператора</string>
-    <string name="network_settings_warn_message">Мережу необхідно буде обрати вручну</string>
+    <string name="network_settings_warn_message">Мережу необхідно буде обрати власноруч</string>
     <string name="network_settings_auto_select_title">Відключити автовибір мережі?</string>
     <string name="network_settings_next">Далі</string>
     <string name="network_settings_confirm_message">Мережа може бути недоступна</string>

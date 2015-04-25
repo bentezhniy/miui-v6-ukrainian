@@ -29,7 +29,7 @@
      <string name="app_name">Стільниця</string>
      <string name="app_sub_dialog_cancel">Скасувати</string>
      <string name="app_sub_dialog_setting_now">Перейдіть до Налаштувань</string>
-     <string name="app_sub_not_found_hint">Не знайдено %1$s. Будь ласка, оберіть вручну.</string>
+     <string name="app_sub_not_found_hint">Не знайдено %1$s. Будь ласка, оберіть власноруч.</string>
      <string name="box_app_name">Меню</string>
      <string name="box_app_sub_bottom_bar_title">ОК</string>
      <string name="box_app_sub_dialog_hint">Ви хочете змінити %1$s на %2$s?</string>
