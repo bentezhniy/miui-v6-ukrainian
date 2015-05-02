@@ -15,7 +15,7 @@
     <string name="abc_shareactionprovider_share_with">Спосіб відправлення</string>
     <string name="abc_shareactionprovider_share_with_application">Відправити за допомогою %s</string>
     <string name="account_cache_provider">Сховище кеша акаунта</string>
-    <string name="account_duplicate_dlg_message_fmt">Це імя користувача вже використовується в акаунті \"%s\"</string>
+    <string name="account_duplicate_dlg_message_fmt">"Це ім'я користувача вже використовується в акаунті \"%s\" "</string>
     <string name="account_duplicate_dlg_title">Копіювати акаунт</string>
     <string name="account_folder_list_summary_drafts">Чернетки</string>
     <string name="account_folder_list_summary_inbox">Вхідні</string>
@@ -48,11 +48,11 @@
     <string name="account_settings_incoming_label">Вхідні</string>
     <string name="account_settings_incoming_summary">Налаштування сервера вхідної пошти</string>
     <string name="account_settings_list_title">Виберіть поштову службу:</string>
-    <string name="account_settings_login_dialog_content_fmt">Невірне імя користувача або пароль акаунта %s. Обновити дані?</string>
+    <string name="account_settings_login_dialog_content_fmt">"Невірне ім'я користувача або пароль акаунта %s. Обновити дані?"</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Помилка авторизації в %s. Відповідь сервера: %s. Обновити логін і пароль?</string>
     <string name="account_settings_login_dialog_title">Не вдалося ввійти в акаунт</string>
     <string name="account_settings_mail_check_frequency_label">Частота перевірки повідомлень</string>
-    <string name="account_settings_name_label">Імя</string>
+    <string name="account_settings_name_label">"Ім'я"</string>
     <string name="account_settings_notifications">Повідомлення</string>
     <string name="account_settings_notify_label">Повідомлення про пошту</string>
     <string name="account_settings_notify_summary">Показувати повідомлення при одержанні нових повідомлень</string>
@@ -98,9 +98,9 @@
     <string name="account_setup_failed_auth_required">Методи аутентифікації не підтримуються сервером</string>
     <string name="account_setup_failed_certificate_inaccessible">Сертифікат недійсний або недоступний</string>
     <string name="account_setup_failed_certificate_required">Необхідний сертифікат клієнта. Підключитися до сервера?</string>
-    <string name="account_setup_failed_check_credentials_message">Помилка сервера. Перевірте імя користувача й пароль і повторіть спробу</string>
-    <string name="account_setup_failed_dlg_auth_message">Невірне імя користувача або пароль</string>
-    <string name="account_setup_failed_dlg_auth_message_fmt">"Невірне імя користувача або пароль
+    <string name="account_setup_failed_check_credentials_message">"Помилка сервера. Перевірте ім'я користувача й пароль і повторіть спробу"</string>
+    <string name="account_setup_failed_dlg_auth_message">"Невірне ім'я користувача або пароль"</string>
+    <string name="account_setup_failed_dlg_auth_message_fmt">"Невірне ім'я користувача або пароль
 (%s)"</string>
     <string name="account_setup_failed_dlg_certificate_message">Не вдалося встановити захищене підключення до сервера</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Не вдалося встановити захищене підключення до сервера
@@ -132,12 +132,12 @@
     <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (ухвалювати всі сертифікати)</string>
     <string name="account_setup_incoming_server_label">Сервер</string>
     <string name="account_setup_incoming_title">Налаштування акаунта</string>
-    <string name="account_setup_incoming_username_label">Імя користувача</string>
+    <string name="account_setup_incoming_username_label">"Ім'я користувача"</string>
     <string name="account_setup_names_account_name_label">Привласніть назву акаунту (за бажанням)</string>
     <string name="account_setup_names_headline">Акаунт налаштований</string>
     <string name="account_setup_names_title">Налаштування акаунта</string>
     <string name="account_setup_names_user_name_empty_error">Це поле повинне бути заповнене</string>
-    <string name="account_setup_names_user_name_label">Імя (відображається у вихідних повідомленнях)</string>
+    <string name="account_setup_names_user_name_label">"Ім'я (відображається у вихідних повідомленнях)"</string>
     <string name="account_setup_need_password_verification">Ваш акаунт був відкритий на іншому обладнанні. Потрібна повторна авторизація</string>
     <string name="account_setup_not_disturb_title">Не турбувати</string>
     <string name="account_setup_options_background_attachments_label">Автоматично завантажувати вкладення при активній мережі Wi-Fi</string>
@@ -172,13 +172,13 @@
     <string name="account_setup_outgoing_security_label">Тип безпеки</string>
     <string name="account_setup_outgoing_smtp_server_label">Сервер SMTP</string>
     <string name="account_setup_outgoing_title">Налаштування акаунта</string>
-    <string name="account_setup_outgoing_username_label">Імя користувача</string>
+    <string name="account_setup_outgoing_username_label">"Ім'я користувача"</string>
     <string name="account_setup_security_policies_required_fmt">Серверу %s потрібен дозвіл на вилучене керування деякими функціями безпеки пристрою. Завершити налаштування цього акаунта?</string>
     <string name="account_setup_security_required_title">Вилучене керування безпекою</string>
     <string name="account_setup_server_acc_manager_title">Акаунт</string>
     <string name="account_setup_service_not_set">Акаунт ще не налаштований</string>
     <string name="account_setup_username_password_toast">Введіть дійсну адресу Email й пароль</string>
-    <string name="account_setup_username_uneditable_error">Неможливо змінити імя користувача. Якщо прагнете використовувати інше імя, створіть новий акаунт.</string>
+    <string name="account_setup_username_uneditable_error">"Неможливо змінити ім'я користувача. Якщо прагнете використовувати інше ім'я, створіть новий акаунт"</string>
     <string name="account_sync_off">Синхронізація акаунта виключена</string>
     <string name="account_waiting_for_folders_msg">Завантаження списку папок…</string>
     <string name="accounts_welcome">Пошта підтримує більшість популярних поштових служб</string>
@@ -213,7 +213,7 @@
     <string name="att_file_not_exists">Файл \"%s\" не знайдений</string>
     <string name="att_mgr_no_attachment">Немає вкладень</string>
     <string name="att_mgr_title_order_mime">Формат</string>
-    <string name="att_mgr_title_order_name">Імя</string>
+    <string name="att_mgr_title_order_name">"Ім'я"</string>
     <string name="att_mgr_title_order_rev_date">Дата</string>
     <string name="att_mgr_title_order_sender">Відправник</string>
     <string name="att_mgr_title_order_size">Розмір</string>
@@ -569,7 +569,7 @@
     <string name="move_to_selection_dialog_title">Перемістити в іншу теку</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Без повідомлень</string>
-    <string name="name_or_number_is_error">Невірне імя користувача або пароль</string>
+    <string name="name_or_number_is_error">"Невірне ім'я користувача або пароль"</string>
     <string name="network_error">Помилка підключення</string>
     <string name="network_not_available">Інтернет недоступний</string>
     <string name="new_incoming_messages_one">Нове повідомлення від %s</string>

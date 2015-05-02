@@ -126,7 +126,7 @@
     <string name="permdesc_asec_destroy">Дозволяє застосунку видаляти файли із внутрішньої памяті телефону</string>
     <string name="permlab_asec_mount_unmount">Монтування внутрішньої памяті</string>
     <string name="permdesc_asec_mount_unmount">Дозволяє застосунку монтувати внутрішню память телефону</string>
-    <string name="permlab_asec_rename">Імя внутрішньої памяті</string>
+    <string name="permlab_asec_rename">"Ім'я внутрішньої памяті"</string>
     <string name="permdesc_asec_rename">Дозволяє застосунку перейменовувати внутрішню память телефону</string>
     <string name="permlab_vibrate">Керування вібрацією</string>
     <string name="permdesc_vibrate">Дозволяє застосунку керувати вібрацією</string>
@@ -211,11 +211,11 @@
     <string name="lockscreen_glogin_forgot_pattern">Зняття блокування акаунта</string>
     <string name="lockscreen_glogin_too_many_attempts">Занадто багато спроб введення графічного ключа!</string>
     <string name="lockscreen_glogin_instructions">Для розблокування війдіть за допомогою свого акаунта Google</string>
-    <string name="lockscreen_glogin_username_hint">Імя користувача (електронна пошта)</string>
+    <string name="lockscreen_glogin_username_hint">"Ім'я користувача (електронна пошта)"</string>
     <string name="lockscreen_glogin_password_hint">Пароль</string>
     <string name="lockscreen_glogin_submit_button">Вхід</string>
-    <string name="lockscreen_glogin_invalid_input">Невірне імя користувача або пароль</string>
-    <string name="lockscreen_glogin_account_recovery_hint">"Забули імя користувача або пароль?
+    <string name="lockscreen_glogin_invalid_input">"Невірне ім'я користувача або пароль"</string>
+    <string name="lockscreen_glogin_account_recovery_hint">"Забули ім'я користувача або пароль?
 Перейдіть на сторінку "</string>
     <string name="lockscreen_glogin_checking_password">Перевірка…</string>
     <string name="lockscreen_unlock_label">Розблокувати</string>
@@ -695,11 +695,11 @@
     <string name="kg_invalid_confirm_pin_hint">PIN коди не збігаються</string>
     <string name="kg_login_too_many_attempts">Занадто багато невірних спроб</string>
     <string name="kg_login_instructions">Для розблокування, введіть акаунт Google.</string>
-    <string name="kg_login_username_hint">Імя користувача (Email)</string>
+    <string name="kg_login_username_hint">"Ім'я користувача (Email)"</string>
     <string name="kg_login_password_hint">Пароль</string>
     <string name="kg_login_submit_button">Вхід</string>
-    <string name="kg_login_invalid_input">Невірне імя користувача або пароль</string>
-    <string name="kg_login_account_recovery_hint">Забули імя користувача або пароль? Відвідаєте <b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_invalid_input">"Невірне ім'я користувача або пароль"</string>
+    <string name="kg_login_account_recovery_hint">"Забули ім'я користувача або пароль? Відвідаєте <b>google.com/accounts/recovery</b>."</string>
     <string name="kg_login_checking_password">Перевірка акаунта…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Ви невірно ввели PIN код %d раз(а). 
 

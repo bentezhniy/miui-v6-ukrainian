@@ -454,4 +454,14 @@
     <string name="offline_video">Локальні</string>
 	<string name="count_get_result">%d знайдено</string>
     <string name="play_setting">Відтворення</string>
+	<string name="development_setting">Для розробників</string>
+	<string name="version_select">Версія </string>
+    <string name="version_select_summary">Обрати між альфа-, девелоп- та стабільною версіями</string>
+	<string name="app_version">Версія застосунку</string>
+	<string name="app_latest_version">Ви використовуєте останню версію застосунку</string>
+	<string name="video_bbs_url">Приєднуйтесь до команди розробників застосунку</string>
+    <string name="video_bbs">Допомогти у розвитку</string>
+	<string name="performance_mode">Режим</string>
+    <string name="performance_mode_desc">Режим продуктивності</string>
+	<string name="develop_version">Версія для розробників</string>
 </resources>

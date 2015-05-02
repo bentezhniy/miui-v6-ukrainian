@@ -20,8 +20,8 @@ EEEE"</string>
     <string name="lockscreen_glogin_password_hint">Пароль</string>
     <string name="lockscreen_glogin_checking_password">Перевірка...</string>
     <string name="login_website_in_case_forget_password">Для скидання пароля, перейдіть на сайт \"i.mi.com\".</string>
-    <string name="experimental_validate_thanks">Спасибі!</string>
-    <string name="experimental_validate_warning">Спасибі за допомогу, ви допомагаєте зробити MIUI краще!</string>
+    <string name="experimental_validate_thanks">Дякуємо!</string>
+    <string name="experimental_validate_warning">Дякуємо за допомогу, ви допомагаєте робити MIUI краще!</string>
     <string name="experimental_validate">Перевірка</string>
     <string name="experimental_try_string">Повторити</string>
     <string name="experimental_validate_username">"Ім'я користувача"</string>
@@ -53,8 +53,8 @@ EEEE"</string>
     <string name="confirm_pin_msg">Введіть PIN повторно</string>
     <string name="invalid_confirm_pin_hint">PIN коди не співпадають</string>
     <string name="unlock_string">OK</string>
-    <string name="open_camera_hint_text">Проведіть вліво для доступу до камери</string>
-    <string name="open_remote_center_hint_text">Проведіть вліво для доступу до Mi пульту</string>
+    <string name="open_camera_hint_text">Проведіть ліворуч для доступу до Камери</string>
+    <string name="open_remote_center_hint_text">Проведіть праворуч для доступу до Телефону</string>
     <string name="click_to_enter_text">Відкрити</string>
     <string name="lockscreen_emergency_call">Екстрений виклик</string>
     <string name="lockscreen_forgot_pattern_button_text">Відновити</string>
