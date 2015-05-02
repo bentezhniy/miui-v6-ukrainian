@@ -3095,4 +3095,12 @@
     <string name="wifi_type_approval_dialog_title">Номер NTC</string>
 	<string name="status_bar_app_enable_on_notificationBar">Рядок стану</string>
     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Екран блокування та рядок стану</string>
+	<string name="fluency_mode">Оптимізація продуктивності системи</string>
+    <string name="fluency_mode_enabled_name">Оптимізація продуктивності системи</string>
+    <string name="fluency_mode_summary">"Вимкніть систему анімації аби зменшити використання пам'яті"</string>
+    <string name="fluency_mode_confirm_title">Перезавантажитися?</string>
+    <string name="fluency_mode_confirm_will_fluency_mode_text">Ваш пристрій повинен перезавантажитися, щоб застосувати ці налаштування</string>
+    <string name="fluency_mode_confirm_will_normal_mode_text">"Увімкнення анімації та використання додаткової пам'яті може призвести до зниження продуктивності на деяких пристроях"</string>
+    <string name="gesture_wakeup_title">Двічі швидко торкніться екрану, щоб розбудити пристрій</string>
+	<string name="skip_lock_screen_confirm_msg">Сповіщення, керування музичним програвачем та камера будуть приховані на екрані блокування.</string>
 </resources>
