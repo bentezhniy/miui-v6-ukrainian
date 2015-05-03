@@ -290,7 +290,7 @@
     <string name="theme_user_agreement_title">Дозволити застосунку доступ до інтернету?</string>
     <string name="theme_user_agreement_allow">ОК</string>
     <string name="theme_user_agreement_exit">Вихід</string>
-    <string name="theme_user_agreement_remind_never">Запамятати</string>
+    <string name="theme_user_agreement_remind_never">Запам\'ятати</string>
     <string name="theme_user_agreement_remind_again">Запитувати доступ до інтернету</string>
     <string name="theme_user_agreement_remind_summary">Запит доступу до інтернету при кожному запуску застосунку</string>
     <string name="theme_favorite_add_success">Тему додано у вибрані</string>
@@ -340,5 +340,5 @@
     <string name="resource_get_auth_missing">Теми завантажені зі сторонніх джерел не підтримуються</string>
     <string name="resource_tip_select_ringtone">Мелодія не обрана</string>
     <string name="theme_batch_has_update_text">Доступно оновлень: %1$d</string>
-    <string name="resource_unable_to_access">Вміст, який ви шукайте, недоступно у вашій країні</string>
+    <string name="resource_unable_to_access">Вміст, який ви шукаєте, недоступний у вашій країні</string>
 </resources>
