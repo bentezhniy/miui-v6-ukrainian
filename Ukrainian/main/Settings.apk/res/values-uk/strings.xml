@@ -2253,7 +2253,7 @@
     <string name="lock_screen_unlock_show_summary">При включенні екрана відразу буде відображатися вікно введення пароля</string>
     <string name="date_time_settings">Дата й час</string>
     <string name="timezone_settings">Часовий пояс</string>
-    <string name="security_privacy_settings_title">Безпека</string>
+    <string name="security_privacy_settings_title">Конфіденційність</string>
     <string name="nearby_wifi">Доступні мережі Wi-Fi</string>
     <string name="unlock_set_enter_system">Відключити екран блокування</string>
     <string name="unlock_set_enter_system_summary">Не використовувати системний екран блокування</string>
