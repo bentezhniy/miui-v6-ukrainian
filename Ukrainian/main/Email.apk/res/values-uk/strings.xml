@@ -946,4 +946,5 @@
     <string name="upload_log_title">Надіслати діагностичного відгука?</string>
     <string name="uploading_logs">Надсилання звіту</string>
     <string name="you_are_in_mobile_network">Ви використовуєте мобільну мережу, будьте уважні!</string>
+	<string name="account_settings_mibill_resolve_label">Аналіз повідомлень-рахунків</string>
 </resources>
