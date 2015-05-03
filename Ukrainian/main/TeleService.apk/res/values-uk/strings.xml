@@ -647,7 +647,7 @@ sim карта буде очищена при невдалій спробі вв
     <string name="call_recording_setting">Запис викликів</string>
     <string name="call_recording_notification_toggle_title">Сповіщення про запис</string>
     <string name="call_recording_notification_summary">Показувати повідомлення в рядку стану при закінченні запису</string>
-    <string name="call_recording_notification_message_low_storage">Запис зупинений. Недостатньо памяті</string>
+    <string name="call_recording_notification_message_low_storage">Запис зупинений. Недостатньо пам\'яті</string>
     <string name="call_recording_notification_message">Натисніть, щоб прослухати.</string>
     <string name="call_recording_notification_message_sd_unmounted">Запис зупинений. Накопичувач вимкнений</string>
     <string name="call_record_add_numbers">Додати</string>

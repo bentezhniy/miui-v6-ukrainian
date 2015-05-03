@@ -984,7 +984,7 @@
     <string name="vt_recording_error">Помилка під час запису.</string>
     <string name="vt_recording_saved">Запис розмови збережено</string>
     <string name="vt_recording_saved_sd_full">На карті SD закінчилось місце, запис збережено.</string>
-    <string name="vt_sd_not_enough">"Місце на зовнішній памяті закінчується"</string>
+    <string name="vt_sd_not_enough">"Місце на зовнішній пам\'яті закінчується"</string>
     <string name="vt_sd_null">"Зовнішня пам'ять недоступна"</string>
     <string name="vt_settings">Налаштування відео</string>
     <string name="vt_swap_video">Перемикання камери</string>
