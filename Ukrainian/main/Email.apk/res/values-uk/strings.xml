@@ -356,9 +356,9 @@
     <string name="device_not_activiey_lint1">Диспетчер пристроїв не активований</string>
     <string name="device_not_activiey_lint2">Поштовий сервіс не працює коректно</string>
     <string name="dialog_auto_download_failed">Помилка автозавантаження. Спробуйте завантажити вручну.</string>
-    <string name="dialog_insufficient_space_for_single_account_on_internal">Недостатньо пам\'яті у \"%s\"</string>
-    <string name="dialog_insufficient_space_on_external">Недостатньо місця в зовнішній пам\'яті</string>
-    <string name="dialog_insufficient_space_on_internal">Недостатньо місця у внутрішній пам\'яті</string>
+    <string name="dialog_insufficient_space_for_single_account_on_internal">Недостатньо памяті у \"%s\"</string>
+    <string name="dialog_insufficient_space_on_external">Недостатньо місця в зовнішній памяті</string>
+    <string name="dialog_insufficient_space_on_internal">Недостатньо місця у внутрішній памяті</string>
     <string name="disable_admin_warning">Відключення прав на адміністрування вашого пристрою для застосунку \"Пошта\" приведе до видалення всіх акаунтів Email, які використовують ці права. Крім того, будуть видалені всі повідомлення, контакти, календарі й інші дані, повязані із цими акаунтами.</string>
     <string name="discard">Скасувати</string>
     <string name="discard_drafts">Видалити чернетку</string>
@@ -655,7 +655,7 @@
     <string name="policy_dont_allow_internet_sharing">Не дозволяти відправлення через інтернет</string>
     <string name="policy_dont_allow_irda">Не дозволяти використовувати інфрачервоні зєднання</string>
     <string name="policy_dont_allow_pop_imap">Не дозволяти використовувати акаунти POP і IMAP</string>
-    <string name="policy_dont_allow_storage_cards">Не дозволяти використовувати карту пам\'яті</string>
+    <string name="policy_dont_allow_storage_cards">Не дозволяти використовувати карту памяті</string>
     <string name="policy_dont_allow_text_messaging">Не дозволяти використовувати SMS</string>
     <string name="policy_dont_allow_unsigned_apps">Не дозволяти використовувати застосунки без підписів</string>
     <string name="policy_dont_allow_unsigned_installers">Не дозволяти використовувати APK без підписів</string>
@@ -801,14 +801,14 @@
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="sort_attachment">Сортування</string>
     <string name="status_network_error">Не вдалося підключити до інтернету. Перевірте підключення і повторіть помилку.</string>
-    <string name="storage">Пам\'ять</string>
+    <string name="storage">Память</string>
     <string name="str_select_all">Вибрати все</string>
     <string name="str_select_none">Зняти вибір</string>
     <string name="subject_hint">Тема</string>
     <string name="swipe_down_to_refresh">Потягніть вниз для оновлення</string>
     <string name="switch_as_tranditional_view">Стандартний режим</string>
     <string name="sync_error">Синхронізація не вдалася</string>
-    <string name="sync_error_message">Недостатньо пам\'яті для синхронізації</string>
+    <string name="sync_error_message">Недостатньо памяті для синхронізації</string>
     <string name="system_account_create_failed">Не вдалося створити акаунт</string>
     <string name="system_folders_sent_dlg">Виберіть теку \"Відправлені\" на сервері</string>
     <string name="system_folders_sent_summary">Виберіть теку \"Відправлені\" на сервері</string>
@@ -865,7 +865,7 @@
     <string name="more_info_attachment">Інформація</string>
     <string name="recipient_error_dialog_title">Помилка відправлення</string>
     <string name="xiaomi_bytes_unit">%1$s б</string>
-    <string name="xiaomi_external_storage_unavailable">Пам\'ять недоступна, перевірте стан SD карти</string>
+    <string name="xiaomi_external_storage_unavailable">Память недоступна, перевірте стан SD карти</string>
     <string name="xiaomi_kilobytes_unit">%1$s Кб</string>
     <string name="xiaomi_megabytes_unit">%1$s Мб</string>
     <string name="xiaomi_update_dialog_message">"Доступна версія: %1$s 

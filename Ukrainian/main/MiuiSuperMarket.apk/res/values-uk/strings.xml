@@ -38,7 +38,7 @@
     <string name="menu_clear_search_history">Очистити історію пошуку</string>
     <string name="menu_clear_update_history">Очистити історію оновлень</string>
     <string name="menu_sort">Сортування</string>
-    <string name="menu_sort_by_name">Ім\'я</string>
+    <string name="menu_sort_by_name">Імя</string>
     <string name="menu_sort_by_time">Дата</string>
     <string name="menu_sort_by_size">Розмір</string>
     <string name="quicksearchbox_description">Пошук маркета для застосунків</string>
@@ -223,7 +223,7 @@
     <string name="install_verification_fail">Встановлення не завершене. Не вдався процес перевірки</string>
     <string name="install_missing_shared_library">У системі відсутні необхідні компоненти</string>
     <string name="install_sdcard_not_available">Встановлення не завершене. Накопичувач недоступний.</string>
-    <string name="install_storage_not_enough">Встановлення не завершене. Недостатньо пам\'яті</string>
+    <string name="install_storage_not_enough">Встановлення не завершене. Недостатньо памяті</string>
     <string name="install_patch_fail">Оновлення не вдалося. Завантажте повторно пакет</string>
     <string name="install_fail">Помилка встановлення</string>
     <string name="system_app_sign_not_match_fail">Помилка встановлення. Несумісний підпис застосунка</string>

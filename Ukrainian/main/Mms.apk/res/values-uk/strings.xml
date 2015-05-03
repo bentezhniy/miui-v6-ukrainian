@@ -160,7 +160,7 @@
     <string name="menu_delete_messages">Видалити повідомлення</string>
     <string name="menu_lock">У вибрані</string>
     <string name="menu_unlock">З вибраних</string>
-    <string name="sim_copy_to_phone_memory">Копіювати в пам\'ять телефону</string>
+    <string name="sim_copy_to_phone_memory">Копіювати в память телефону</string>
     <string name="sim_delete">Видалити</string>
     <string name="sim_view">Перегляд</string>
     <string name="status_pending">Очікує</string>
@@ -187,8 +187,8 @@
     <string name="notification_failed_multiple">Не відправлено повідомлень: %s</string>
     <string name="notification_failed_multiple_title">Повідомлення не відправлені</string>
     <string name="sim_full_body">Видаліть кілька повідомлень, щоб звільнити місце</string>
-    <string name="sms_full_title">Пам\'ять для текстових повідомлень переповнена</string>
-    <string name="sms_full_body">Пам\'ять переповнена. Щоб зберегти нові повідомлення, видаліть трохи старих</string>
+    <string name="sms_full_title">Память для текстових повідомлень переповнена</string>
+    <string name="sms_full_body">Память переповнена. Щоб зберегти нові повідомлення, видаліть трохи старих</string>
     <string name="sms_rejected_title">Повідомлення відхилене</string>
     <string name="sms_rejected_body">Вхідне повідомлення відхилене з невідомої причини</string>
     <string name="type_audio">Аудіозапис</string>
@@ -249,7 +249,7 @@
     <string name="add_nickname_title">Додати нік</string>
     <string name="edit_nickname_for_nocontact">Немає отримувачів</string>
     <string name="edit_nickname_for_nocontact_by_robot">Додайте отримувача для зміни ніку</string>
-    <string name="nickname_placeholder">Ім\'я</string>
+    <string name="nickname_placeholder">Імя</string>
     <string name="me">Я</string>
     <string name="to_count">Усього: %d</string>
     <string name="new_message_arrived">Отримане нове повідомлення</string>
@@ -428,7 +428,7 @@ sms (%1$d), MMS (%2$d)."</string>
     <string name="pref_title_fwd_sender_info">Інформацію про відправника</string>
     <string name="saved_to_sim">Збережене</string>
     <string name="save_to_sim_failed">Помилка збереження</string>
-    <string name="restored_to_phone_memory">Відновлення в пам\'ять телефону завершене</string>
+    <string name="restored_to_phone_memory">Відновлення в память телефону завершене</string>
     <string name="restore_to_phone_memory_failed">Помилка відновлення</string>
     <string name="pref_title_card_format">Формат карти</string>
     <string name="pref_title_miui_card">Відправити через карту MIUI</string>
@@ -490,7 +490,7 @@ sms (%1$d), MMS (%2$d)."</string>
     <string name="app_name">Керування пристроєм</string>
     <string name="manage_permission_app_label">Дозволи керування пристроєм</string>
     <string name="send_message_dlg_title">Керування пристроєм</string>
-    <string name="send_message_dlg_check_hint">Запам\'ятати</string>
+    <string name="send_message_dlg_check_hint">Запамятати</string>
     <string name="send_message_dlg_mgs">Ваше пристрій необхідно зареєструвати на платформі керування пристроєм для надання безкоштовних сервісів SMS. Для реєстрації буде відправлена SMS активації. Продовжити?</string>
     <string name="confirm_dlg_title">Керування пристроєм</string>
     <string name="confirm_dlg__msg">Скасувати реєстрацію?</string>
@@ -508,11 +508,11 @@ sms (%1$d), MMS (%2$d)."</string>
     <string name="file_width_height">Розмір:</string>
     <string name="file_create_time">Час створення:</string>
     <string name="file_size">Розмір:</string>
-    <string name="file_title">Ім\'я:</string>
+    <string name="file_title">Імя:</string>
     <string name="festival_networking_title">Попередження</string>
     <string name="festival_networking_desc">Дозволити додатку доступ до інтернету?</string>
     <string name="festival_continue">ОК</string>
-    <string name="festival_never_remind">Запам\'ятати</string>
+    <string name="festival_never_remind">Запамятати</string>
     <string name="pref_title_festival_networking">Запитувати доступ до інтернету</string>
     <string name="hms_add_image_progress_message">Завантаження…</string>
     <string name="view_hms_attachment_fail">Помилка завантаження зображення</string>

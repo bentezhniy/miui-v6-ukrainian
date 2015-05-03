@@ -32,7 +32,7 @@
     <string name="pref_video_quality_entry_480p">SD</string>
     <string name="pref_video_time_lapse_frame_interval_title">Інтервал</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">Інтервал 0.06 сек.(2 рази)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_4">Інтервал 0.12 сек.(4 рази)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_4">Інтервал 0.12 сек.( 4 рази)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">Інтервал 0.3 сек.(10 раз)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_30">Інтервал 1 сек.(30 раз)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_60">Інтервал 2 сек.(60 раз)</string>

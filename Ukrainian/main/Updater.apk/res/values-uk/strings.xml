@@ -68,7 +68,7 @@
     <string name="unkown_error_title">Невідома помилка</string>
     <string name="download_error">Не вдалося завантажити оновлення</string>
     <string name="download_again">Повторити</string>
-    <string name="space_not_enough_title">Пам\'ять заповнена</string>
+    <string name="space_not_enough_title">Память заповнена</string>
     <string name="space_not_enough_msg">Недостатньо місця для завантаження прошивки</string>
     <string name="clean_up_button">Очистити</string>
     <string name="no_wifi_title">Попередження</string>

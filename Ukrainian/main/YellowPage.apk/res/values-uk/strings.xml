@@ -316,7 +316,7 @@
     <string name="uploads_disabled">Завантаження файлів вимкнено</string>
     <string name="choose_upload">Виберіть файл для завантаження</string>
     <string name="web_permission_message">%1$s запитує доступ до %2$s</string>
-    <string name="remember_preference">Запам\'ятати</string>
+    <string name="remember_preference">Запамятати</string>
     <string name="allow">Дозволити</string>
     <string name="pull_to_refresh_pull_label">Потягніть для оновлення…</string>
     <string name="pull_to_refresh_release_label">Відпустіть для оновлення…</string>

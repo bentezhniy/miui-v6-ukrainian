@@ -421,7 +421,7 @@
     <string name="scanning_sdcard_failed_title">Неможливо просканувати накопичувач</string>
     <string name="scanning_sdcard_failed_message">Причина: \"%s\".</string>
     <string name="fail_reason_io_error">Помилка вводу-виводу</string>
-    <string name="fail_reason_low_memory_during_import">Недостатньо пам\'яті. Можливо файл занадто великий</string>
+    <string name="fail_reason_low_memory_during_import">Недостатньо памяті. Можливо файл занадто великий</string>
     <string name="fail_reason_vcard_parse_error">Неможливо відкрити vСard з невідомих причин</string>
     <string name="fail_reason_not_supported">Формат не підтримується</string>
     <string name="import_failure_no_vcard_file">Файл vСard не знайдений</string>
@@ -461,7 +461,7 @@
     <string name="call_disambig_title">Виклик</string>
     <string name="call_settings">Налаштування</string>
     <string name="sms_disambig_title">Виберіть номер</string>
-    <string name="make_primary">Запам\'ятати</string>
+    <string name="make_primary">Запамятати</string>
     <string name="quickcontact_missing_app">Немає додатка для виконання цієї дії</string>
     <string name="missing_name">Мої групи</string>
     <string name="menu_accounts">Акаунти</string>
@@ -473,7 +473,7 @@
     <string name="menu_share">Відправити</string>
     <string name="share_via">Відправити</string>
     <string name="share_error">Не вдалося передати дані</string>
-    <string name="nameLabelsGroup">Ім\'я</string>
+    <string name="nameLabelsGroup">Імя</string>
     <string name="nicknameLabelsGroup">Нік</string>
     <string name="organizationLabelsGroup">Організація</string>
     <string name="websiteLabelsGroup">Сайт</string>
@@ -562,13 +562,13 @@
     <string name="postal_region">Регіон</string>
     <string name="postal_postcode">Поштовий індекс</string>
     <string name="postal_country">Країна</string>
-    <string name="full_name">Ім\'я</string>
-    <string name="name_given">Ім\'я</string>
+    <string name="full_name">Імя</string>
+    <string name="name_given">Імя</string>
     <string name="name_family">Прізвище</string>
     <string name="name_prefix">Форма звертання</string>
     <string name="name_middle">По батькові</string>
     <string name="name_suffix">Звання</string>
-    <string name="name_phonetic_given">Ім\'я (транскрипція)</string>
+    <string name="name_phonetic_given">Імя (транскрипція)</string>
     <string name="name_phonetic_middle">По батькові (транскрипція)</string>
     <string name="name_phonetic_family">Прізвище (транскрипція)</string>
     <string name="name_phonetic">Транскрипція імені</string>
@@ -585,7 +585,7 @@
     <string name="display_options_sort_by_given_name">По імені</string>
     <string name="display_options_sort_by_family_name">На прізвище</string>
     <string name="display_options_view_names_as">Показувати в контактах</string>
-    <string name="display_options_view_given_name_first">Спочатку ім\'я</string>
+    <string name="display_options_view_given_name_first">Спочатку імя</string>
     <string name="display_options_view_family_name_first">Спочатку прізвище</string>
     <string name="take_photo">Зняти фото</string>
     <string name="take_new_photo">Зняти фото</string>
@@ -595,7 +595,7 @@
     <string name="upgrade_in_progress">Список контактів оновлюється…</string>
     <string name="upgrade_out_of_memory">"Список контактів оновлюється. 
 
-процес оновлення вимагає близько %s Мб пам\'яті.
+процес оновлення вимагає близько %s Мб памяті.
 
 оберіть один з наступних варіантів:"</string>
     <string name="upgrade_out_of_memory_uninstall">Видалити деякі додатки</string>
@@ -654,14 +654,14 @@
     <string name="create_group_item_label">Створити нову групу</string>
     <string name="delete_group_dialog_title">Видалення групи</string>
     <string name="delete_group_dialog_message">Видалити групу \"%1$s\"? Контакти не будуть видалені</string>
-    <string name="toast_join_with_empty_contact">Вкажіть ім\'я контакту, який прагнете об\'єднати</string>
+    <string name="toast_join_with_empty_contact">Укажіть імя контакту, який прагнете обєднати</string>
     <string name="copy_text">Копіювати</string>
     <string name="set_default">Встановити як основний</string>
     <string name="clear_default">Видалити налаштування за замовчуванням</string>
     <string name="toast_text_copied">Текст скопійований</string>
     <string name="cancel_confirmation_dialog_message">Скасувати зміни?</string>
     <string name="profile_display_name">Візитна картка</string>
-    <string name="enter_contact_name">Ім\'я контакту</string>
+    <string name="enter_contact_name">Імя контакту</string>
     <string name="view_updates_from_group">Оновлення</string>
     <string name="notification_action_voicemail_play">Прослухати</string>
     <string name="notification_new_voicemail_ticker">Нове голосове повідомлення від %1$s</string>
@@ -927,8 +927,8 @@
 інформація, доступна тільки для читання, буде прихована зі списку контактів, але не буде видалена"</string>
     <string name="multipleContactDeleteConfirmationDetail">Контакт містить інформацію з декількох акаунтів. Видалення \"%s\" приведе до очищення інформації з усіх акаунтов.</string>
     <string name="deleteConfirmationDetail">Видалити контакт \"%s\"?</string>
-    <string name="nickname_picker_name_column">Ім\'я контакту</string>
-    <string name="nickname_picker_nickname_column">Ім\'я</string>
+    <string name="nickname_picker_name_column">Імя контакту</string>
+    <string name="nickname_picker_nickname_column">Імя</string>
     <string name="not_applied">Не підтримується</string>
     <string name="toast_for_saving_nickname">Зміни збережені</string>
     <string name="toast_for_failed_saving_nickname">Не вдалося зберегти зміни</string>
@@ -1054,7 +1054,7 @@
     <string name="device_import_account_dialog_title_suffix">"
 (знайдене контактів: %1$s)"</string>
     <string name="device_import_local_account">Локальний акаунт</string>
-    <string name="import_name">Ім\'я</string>
+    <string name="import_name">Імя</string>
     <string name="ret_sign">"
 "</string>
     <string name="checkhint">Перевірити інший телефон</string>
@@ -1112,11 +1112,11 @@
     <string name="sim_capacity_content" formatted="false">Усього: %d | Використане: %d</string>
     <string name="sim_error_generic_failure">Помилка</string>
     <string name="sim_error_storage_full">SIM карта заповнена</string>
-    <string name="sim_error_text_too_long">Ім\'я занадто довге</string>
+    <string name="sim_error_text_too_long">Імя занадто довге</string>
     <string name="sim_error_number_too_long">Номер занадто довгий</string>
     <string name="sim_error_email_too_long">Адреса Email занадто довга</string>
-    <string name="sim_error_email_full">Пам\'ять для Email заповнена</string>
-    <string name="sim_error_anr_full">Пам\'ять для номерів заповнена</string>
+    <string name="sim_error_email_full">Память для Email заповнена</string>
+    <string name="sim_error_anr_full">Память для номерів заповнена</string>
     <string name="sim_error_password_error">Невірний пароль</string>
     <string name="yellowPageNavigationLabel">Сервіси</string>
     <string name="yellowPageNavigationIconLabel">Сервіси</string>
