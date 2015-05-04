@@ -3,7 +3,7 @@
     <string name="app_name">Диктофон</string>
     <string name="recording">Запис…</string>
     <string name="recording_stopped">Запис зупинений</string>
-    <string name="error_sdcard_access">Не вдалося одержати доступ до внутрішньої або зовнішньої памяті</string>
+    <string name="error_sdcard_access">Не вдалося одержати доступ до внутрішньої або зовнішньої пам\'яті</string>
     <string name="error_app_internal">Можливо, інший застосунок використовує мікрофон. Перевірте та повторіть наново.</string>
     <string name="error_app_internal_title">Помилка диктофона</string>
     <string name="error_file_access">Файл не існує або пошкоджений</string>
@@ -12,7 +12,7 @@
     <string name="notification_recording_ticker">Запис…</string>
     <string name="notification_playback">Відтворення…</string>
     <string name="notification_stopped">Запис завершений</string>
-    <string name="notification_warning">Мало памяті (залишилося %d хв.)</string>
+    <string name="notification_warning">Мало пам\'яті (залишилося %d хв.)</string>
     <string name="record_list">Список записів</string>
     <string name="record_list_fm">Записи радіо в Mi Cloud</string>
     <string name="record_list_call">Записи викликів</string>
