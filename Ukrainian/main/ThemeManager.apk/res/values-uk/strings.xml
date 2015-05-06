@@ -270,7 +270,7 @@
     <string name="my_gifts">Подарунки</string>
     <string name="my_gifts_purchased">Придбано</string>
     <string name="my_gifts_received">Отримано</string>
-    <string name="theme_batch_updating_text">Тем оновлюється: %1$d</string>
+    <string name="theme_batch_updating_text">Оновлюється тем: %1$d</string>
     <string name="theme_batch_update_all">Оновити всі</string>
     <string name="theme_batch_update_dlg_title">Оновити</string>
     <string name="theme_batch_update_dlg_content">Оновити теми?</string>
@@ -341,4 +341,6 @@
     <string name="resource_tip_select_ringtone">Мелодія не обрана</string>
     <string name="theme_batch_has_update_text">Доступно оновлень: %1$d</string>
     <string name="resource_unable_to_access">Вміст, який ви шукаєте, недоступний у вашій країні</string>
+	<string name="gift_received_notification_title">%s подарував вам тему</string>
+	<string name="resource_tab_to_view">Натисніть для перегляду</string>
 </resources>

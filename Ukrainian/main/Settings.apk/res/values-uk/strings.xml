@@ -950,7 +950,7 @@
     <string name="restore_default_apn_completed">Налаштування за замовчуванням відновлені</string>
     <string name="master_clear_title">Скидання налаштувань</string>
     <string name="master_clear_summary">Повернення до заводських налаштувань та видалення всіх даних з пам\'яті телефону</string>
-    <string name="master_clear_desc">"Будуть видалені всі дані із внутрішньої памяті пристрою, у тому числі:
+    <string name="master_clear_desc">"Будуть видалені всі дані із внутрішньої пам'яті пристрою, у тому числі:
 
 Ваш акаунт Google
 Налаштування/дані системи й застосунків
