@@ -187,7 +187,7 @@
         <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Внутрішня память</item>
+        <item>Внутрішня пам\'ять</item>
         <item>SD карта</item>
         <item>Автоматично</item>
     </string-array>
@@ -537,9 +537,9 @@
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>Якщо ви встановите цей драйвер, память телефону зявиться на компютері</item>
-        <item>В Windows Vista або версіях вище, музичний програвач зявиться на вашому компютері автоматично.</item>
-        <item>Якщо ви встановите цей драйвер, компютер автоматично відкриє й прочитає память телефону</item>
+        <item>Якщо ви встановите цей драйвер, пам\'ять телефону з\'явиться на комп\'ютері</item>
+        <item>В Windows Vista або версіях вище, музичний програвач з\'явиться на вашому комп\'ютері автоматично.</item>
+        <item>Якщо ви встановите цей драйвер, комп\'ютер автоматично відкриє й прочитає пам\'ять телефону</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
@@ -621,8 +621,8 @@
         <item>Переміщення…</item>
     </string-array>
     <string-array name="priority_storage_entries">
-        <item>Внутрішня память</item>
-        <item>Зовнішня память</item>
+        <item>Внутрішня пам\'ять</item>
+        <item>Зовнішня пам\'ять</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Дуже повільно</item>

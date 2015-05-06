@@ -8,8 +8,8 @@
     <string name="sina_share_fail_content_repeat">Не вдається надіслати. Вміст вже існує</string>
     <string name="app_name">Нотатки</string>
     <string name="app_widget">Нотатки</string>
-    <string name="widget_havenot_content">"Нотаток немаэ. Натисніть для створення нотатки. Змініть розмір довгим натисканням"</string>
-    <string name="widget_under_privacy_mode">Неможливо переглянути нотатки в режимі \"Гість\"</string>
+    <string name="widget_havenot_content">"Нотаток немає. Натисніть для створення нотатки. Змініть розмір довгим натисканням"</string>
+    <string name="widget_under_privacy_mode">Неможливо переглядати нотатки в режимі \"Гість\"</string>
     <string name="widget_content_loading">Завантаження…</string>
     <string name="notelist_menu_new">Нова нотатка</string>
     <string name="note_alert_expired">Прострочене</string>

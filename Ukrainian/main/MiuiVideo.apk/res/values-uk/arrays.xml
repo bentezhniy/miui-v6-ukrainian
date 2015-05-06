@@ -32,4 +32,9 @@
         <item>Все краще</item>
         <item>Мої кращі</item>
     </string-array>
+    <string-array name="version_list_entries">
+        <item>Стабільна</item>
+        <item>Девелоперська</item>
+        <item>Альфа</item>
+    </string-array>
 </resources>
