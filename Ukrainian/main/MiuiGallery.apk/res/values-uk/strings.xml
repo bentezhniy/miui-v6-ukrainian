@@ -633,4 +633,6 @@
     <string name="always_rotate_alert_title">Автоповорот зображень</string>
     <string name="always_rotate_alert_msg">Ви можете налаштувати це пізніше у Галереї.</string>
     <string name="always_rotate_alert_positive_button_text">Увімкнути</string>
+	<string name="single_device_project_dialog_title">Транслювати на %s</string>
+    <string name="single_device_project_dialog_checkbox_text">"Запам'ятати цей монітор"</string>
 </resources>

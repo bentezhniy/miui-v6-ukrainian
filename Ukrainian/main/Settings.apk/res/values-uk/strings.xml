@@ -3093,6 +3093,7 @@
     <string name="status_bar_settings_show_keyguard_notification_summary">Показувати push-сповіщення на екрані блокування та у інших місцях</string>
 	<string name="greeshan_xposed_in_settings">Модулі</string>
     <string name="wifi_type_approval_dialog_title">Номер NTC</string>
+	<string name="status_bar_app_disable_notification">Сповіщення вимкнено</string>
 	<string name="status_bar_app_enable_on_notificationBar">Рядок стану</string>
     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Екран блокування та рядок стану</string>
 	<string name="fluency_mode">Оптимізація продуктивності системи</string>
