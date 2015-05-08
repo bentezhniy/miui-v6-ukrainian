@@ -301,4 +301,16 @@
 Може стягуватися додаткова плата."</string>
     <string name="allow_to_use_traffic_title">Попередження</string>
     <string name="use_traffic_toast">Не вдається підключитися до інтернету</string>
+	<string name="click_to_view_new_local_audios">Деталі</string>
+    <string name="disallow_add_to_personal_radio">Лише для читання</string>
+    <string name="fragment_title_personal">Особисте</string>
+    <string name="impunity_declaration_negative_text">Вихід</string>
+    <string name="impunity_declaration_positive_text">Продовжити</string>
+    <string name="max_sleep_time">90</string>
+    <string name="min_sleep_time">1</string>
+    <string name="no_enough_info">Замало інформації про трек</string>
+    <string name="period_format">%1$s-%2$s</string>
+    <string name="server_error">Помилка серверу. Спробуйте пізніше</string>
+    <string name="suggest_text">Користувачам, які вподобали це, також подобається</string>
+    <string name="today_update">Музику оновлено</string>
 </resources>
