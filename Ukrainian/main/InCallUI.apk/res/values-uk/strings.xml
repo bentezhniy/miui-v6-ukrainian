@@ -579,7 +579,7 @@
     <string name="dtmf_tone_enable_title">Звук при наборі номеру</string>
     <string name="dial_pad_autocomplete">Автозаповнення номеронабирача</string>
     <string name="preference_category_ringtone">Мелодія і вібрація</string>
-    <string name="manageConferenceLabel">Керування конференц-викликом
+    <string name="manageConferenceLabel">Керування конференц-викликом</string>
     <string name="sub_1">SUB 1</string>
     <string name="sub_2">SUB 2</string>
     <string name="emergency_call_dialog_number_for_display">Екстрений номер</string>
