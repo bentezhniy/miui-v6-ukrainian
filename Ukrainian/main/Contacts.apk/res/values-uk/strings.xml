@@ -1247,4 +1247,5 @@
     <string name="vcard_import_will_start_message_with_default_name">Файл буде імпортовано найближчим часом</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="yellowpage_navigation_search_history">Історія</string>
+    <string name="preference_contacts_recovery_introduction">Відновлення контактів</string>
 </resources>
