@@ -147,7 +147,7 @@
     <string name="retry_btn">Повтор</string>
     <string name="network_settings_information">Інформація</string>
     <string name="network_settings_duringcall">Операція недоступна під час виклику</string>
-    <string name="network_settings_data_connected_change">Неможливо змінити тип мережі під час активного інтернет зєднання. Вимкнути поточне інтернет зєднання й перемкнути мережу?</string>
+    <string name="network_settings_data_connected_change">Неможливо змінити тип мережі під час активного інтернет з\'єднання. Вимкнути поточне інтернет з\'єднання й перемкнути мережу?</string>
     <string name="network_settings_automatically_option">Автоматичний вибір мережі оператора(%s)</string>
     <string name="network_settings_turn_off">вимкнено</string>
     <string name="network_settings_select_automatic_hint">"Не вдається зареєструватися в обраній мережі. 
@@ -354,8 +354,8 @@ sim карта буде очищена при невдалій спробі вв
     <string name="card_title_multipartycall">Множинний виклик (конференція)</string>
     <string name="card_title_callonhold_released">Виклик зроблений</string>
     <string name="card_title_forwardcheckreceived">Переадресація встановлена</string>
-    <string name="card_title_callconnectingect">Зєднання виклику</string>
-    <string name="card_title_callconnectedect">Зєднання встановлене</string>
+    <string name="card_title_callconnectingect">З\'єднання виклику</string>
+    <string name="card_title_callconnectedect">З\'єднання встановлене</string>
     <string name="card_title_deflectedcall">Відхилені виклики</string>
     <string name="notification_missedCallsTitle">Пропущені виклики</string>
     <string name="notification_missedCallsMsg">Пропущених викликів: %s</string>
