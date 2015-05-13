@@ -695,4 +695,12 @@
         <item>SIM 2</item>
         <item>Підтвердження користувача</item>
      </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Запитувати дозвіл на встановлення</item>
+        <item>Дозволити</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Запитувати</item>
+        <item>Дозволити</item>
+    </string-array>
 </resources>
