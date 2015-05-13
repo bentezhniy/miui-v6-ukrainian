@@ -173,9 +173,9 @@
     <string name="battery_info_health_unspecified_failure">Невідома помилка</string>
     <string name="battery_info_health_cold">Холодна</string>
     <string name="bluetooth">Bluetooth</string>
-    <string name="bluetooth_is_discoverable">Час видимості для пристроїв Bluetooth: %1$s</string>
-    <string name="bluetooth_is_discoverable_always">Телефон бачимо для найближчих обладнань у цей момент</string>
-    <string name="bluetooth_not_visible_to_other_devices">Телефон не бачимо для найближчих пристроїв у цей момент</string>
+    <string name="bluetooth_is_discoverable">Час видимості для Bluetooth пристроїв: %1$s</string>
+    <string name="bluetooth_is_discoverable_always">Відображати для інших Bluetooth пристроїв</string>
+    <string name="bluetooth_not_visible_to_other_devices">Не відображати для інших Bluetooth пристроїв</string>
     <string name="bluetooth_only_visible_to_paired_devices">Відображати тільки для підключених пристроїв</string>
     <string name="bluetooth_visibility_timeout">Тайм-аут видимості</string>
     <string name="bluetooth_lock_voice_dialing">Заблокувати голосовий набір</string>
