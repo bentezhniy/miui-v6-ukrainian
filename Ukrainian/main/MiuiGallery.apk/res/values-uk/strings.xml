@@ -547,7 +547,7 @@
     <string name="abandon">Відмова</string>
     <string name="paint_cancel_title">Скасувати</string>
     <string name="paint_cancel_context">Скасувати редагування?</string>
-    <string name="paint_crop_cancel_title">редагувати</string>
+    <string name="paint_crop_cancel_title">Редагувати</string>
     <string name="paint_crop_cancel_context">Зберегти зміни?</string>
     <string name="do_not_save">Не зберігати</string>
     <string name="photo_paint_crop">Обрізати</string>
