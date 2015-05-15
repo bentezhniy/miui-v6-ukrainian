@@ -703,4 +703,12 @@
         <item>Запитувати</item>
         <item>Дозволити</item>
     </string-array>
+	<string-array name="lock_screen_secure_after_timeout_entries">
+        <item>одразу</item>
+        <item>через 1 хвилину</item>
+        <item>через 2 хвилини</item>
+        <item>через 5 хвилин</item>
+        <item>через 15 хвилин</item>
+        <item>через 30 хвилин</item>
+    </string-array>
 </resources>

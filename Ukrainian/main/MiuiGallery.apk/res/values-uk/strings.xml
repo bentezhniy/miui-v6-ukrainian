@@ -635,4 +635,5 @@
     <string name="always_rotate_alert_positive_button_text">Увімкнути</string>
 	<string name="single_device_project_dialog_title">Транслювати на %s</string>
     <string name="single_device_project_dialog_checkbox_text">"Запам'ятати цей монітор"</string>
+	<string name="project_available_tip">Транслювати це зображення</string>
 </resources>
