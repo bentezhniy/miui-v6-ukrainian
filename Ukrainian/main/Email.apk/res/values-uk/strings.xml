@@ -947,4 +947,5 @@
     <string name="uploading_logs">Надсилання звіту</string>
     <string name="you_are_in_mobile_network">Ви використовуєте мобільну мережу, будьте уважні!</string>
 	<string name="account_settings_mibill_resolve_label">Аналіз повідомлень-рахунків</string>
+    <string name="account_settings_using_ringtone">Мелодія</string>
 </resources>
