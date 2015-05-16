@@ -157,4 +157,5 @@
     <string name="turn_on_fm">Увімкнути радіо</string>
     <string name="turn_on_speaker_phone">Увімкнути динамік</string>
 	<string name="txt_divider">" | "</string>
+	<string name="notification_rec_title">Перегляд запису</string>
 </resources>

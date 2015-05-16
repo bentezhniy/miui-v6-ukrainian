@@ -117,4 +117,6 @@
     <string name="update_title">%1$s оновлено</string>
     <string name="warn_message">Ваші особисті дані більше вразливі для атак застосунків з невідомих джерел</string>
     <string name="warn_title">Підозрілі застосунки</string>
+	<string name="dlg_appstore_notice">Завантажте цей застосунок через &lt;u>&lt;font color=#91c727>Маркет&lt;/font>&lt;/u></string>
+    <string name="lift_ban_once">Встановити</string>
 </resources>
