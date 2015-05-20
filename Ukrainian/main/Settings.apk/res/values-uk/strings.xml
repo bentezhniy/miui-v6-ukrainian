@@ -3110,5 +3110,5 @@
     <string name="lock_screen_secure_after_timeout_summary">Запитувати пароль через %1$s</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Запитувати пароль одразу</string>
     <string name="eng_mode">Інженерне меню</string>
-	<string name="eng_mode_summary">Вхід до Інженерного меню</string>
+    <string name="eng_mode_summary">Вхід до Інженерного меню</string>
 </resources>
