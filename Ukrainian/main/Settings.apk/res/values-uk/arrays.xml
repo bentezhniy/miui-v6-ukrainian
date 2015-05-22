@@ -711,4 +711,16 @@
         <item>через 15 хвилин</item>
         <item>через 30 хвилин</item>
     </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Вимкнення системної анімації</item>
+        <item>Увімкнення системної анімації</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>"Вимкнення системної анімації для прискорення продуктивності пристрою"</item>
+        <item>"Увімкнення системної анімації може знизити продуктивність пристрою"</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Перезавантажити пристрій, щоб застосувати ці параметри?</item>
+        <item>Перезавантажити пристрій, щоб застосувати ці параметри?</item>
+    </string-array>
 </resources>
