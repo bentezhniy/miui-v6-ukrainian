@@ -3104,9 +3104,12 @@
     <string name="fluency_mode_confirm_will_normal_mode_text">"Увімкнення анімації та використання додаткової пам'яті може призвести до зниження продуктивності на деяких пристроях"</string>
     <string name="gesture_wakeup_title">Двічі швидко торкніться екрану, щоб розбудити пристрій</string>
 	<string name="skip_lock_screen_confirm_msg">Сповіщення, керування музичним програвачем та камера будуть приховані на екрані блокування.</string>
+    <string name="performance_category">Продуктивність</string>
     <string name="install_no_market_app_title">Невідомі джерела</string>
     <string name="install_no_market_app_summary">Дозволити встановлення сторонніх застосунків, завантажених не з маркета.</string>
 	<string name="lock_screen_secure_after_timeout_title">Запит паролю</string>
     <string name="lock_screen_secure_after_timeout_summary">Запитувати пароль через %1$s</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Запитувати пароль одразу</string>
+    <string name="eng_mode">Інженерне меню</string>
+    <string name="eng_mode_summary">Вхід до Інженерного меню</string>
 </resources>
