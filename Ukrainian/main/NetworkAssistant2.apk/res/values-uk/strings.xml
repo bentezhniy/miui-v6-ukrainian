@@ -413,4 +413,5 @@
 	<string name="add_miservice_dialog_content">"%s вимагає від вас додати MIUI Service Framework до списку виключень. Ви можете отримувати повідомлення з вбудованих застосунків MIUI та інших застосунків сторонніх розробників."</string>
     <string name="lock_screen_traffic_guide_notification_title">Використано %s мобільного інтернету</string>
     <string name="lock_screen_traffic_guide_notification_summary">Мобільний інтернет, який використано при заблокованому екрані.</string>
+    <string name="pref_roaming_daily_limit_setting">Щоденний ліміт трафіку для роумінгу</string>
 </resources>
