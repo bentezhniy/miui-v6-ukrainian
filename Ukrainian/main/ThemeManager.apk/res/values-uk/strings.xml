@@ -344,4 +344,6 @@
     <string name="resource_unable_to_access">Вміст, який ви шукаєте, недоступний у вашій країні</string>
 	<string name="gift_received_notification_title">%s подарував вам тему</string>
 	<string name="resource_tab_to_view">Натисніть для перегляду</string>
+	<string name="theme_is_external_priority_storage">Зберігати на SD карту</string>
+    <string name="theme_is_external_priority_storage_summary">Застосунок буде перезавантажено для застосування налаштувань</string>
 </resources>
