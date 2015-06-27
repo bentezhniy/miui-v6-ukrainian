@@ -951,4 +951,15 @@
     <string name="time_picker_dialog_minute_second_separator">:</string>
     <string name="time_picker_dialog_pm">PM</string>
     <string name="time_picker_dialog_second_subsecond_separator">.</string>
+	<string name="miuishare_account_activate_confirmation">Необхідна активація</string>
+    <string name="miuishare_account_activate_ok">Активувати</string>
+    <string name="miuishare_account_login_cancel">Скасувати</string>
+    <string name="miuishare_account_login_confirmation">Необхідно увійти</string>
+    <string name="miuishare_account_login_ok">Увійти</string>
+    <string name="miuishare_no_network">Немає мережі для роздачі</string>
+    <string name="miuishare_publish">Надіслати</string>
+    <string name="miuishare_share_done">Загальний вміст передається</string>
+    <string name="miuishare_share_editor_title">Поділитися</string>
+    <string name="miuishare_title_more">Більше</string>
+    <string name="miuishare_title_share">Поділитися</string>
 </resources>

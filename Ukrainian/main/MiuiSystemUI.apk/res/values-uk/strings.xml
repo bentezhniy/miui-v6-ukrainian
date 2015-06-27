@@ -256,4 +256,8 @@ d MMMM yyyy"</string>
 	<string name="status_bar_network_flow_limit">"   Щомісячний ліміт: %1$s"</string>
     <string name="status_bar_network_flow_purchase">"   Купівля >"</string>
     <string name="status_bar_settings_battery_meter_format">%d%%</string>
+	<string name="disable_notification_summary">Не показувати сповіщення цього застосунка.</string>
+    <string name="disable_notification_title">Блокування сповіщень</string>
+    <string name="expanded_notification_manager">Керування сповіщеннями</string>
+    <string name="notification_template_text">" має сповіщення. Перегляд."</string>
 </resources>

@@ -1249,4 +1249,5 @@
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="yellowpage_navigation_search_history">Історія</string>
     <string name="preference_contacts_recovery_introduction">Відновлення контактів</string>
+	<string name="cloud_recommend_msg">Натисніть для синхронізації з Mi Cloud</string>
 </resources>

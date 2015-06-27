@@ -318,4 +318,8 @@
     <string name="mark_number_setting_guide_content3">Номер, що надсилається: %1$s. Ви хочете блокувати дзвінки від номерів %2$s?</string>
     <string name="mark_number_setting_guide_forward">Чорний список</string>
     <string name="mark_number_setting_guide_title">Блокування номерів</string>
+	<string name="action_source_sms_title">Заблоковані SMS</string>
+	<string name="mark_harass">Переслідування</string>
+    <string name="mark_harass_block">Повідомити про переслідування</string>
+	<string name="mark_number_harass">Переслідування</string>
 </resources>
