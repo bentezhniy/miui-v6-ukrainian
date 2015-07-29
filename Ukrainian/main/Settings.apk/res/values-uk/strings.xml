@@ -2165,7 +2165,7 @@
     <string name="access_control_password_title">Використовувати пароль</string>
     <string name="access_control_need_to_unlock">Уведіть графічний ключ</string>
     <string name="access_control_reset_by_account">Увійдіть в Mi акаунт для оновлення пароля</string>
-    <string name="access_control_need_password">Застосунок \"%s\" захищене</string>
+    <string name="access_control_need_password">"Застосунок \"%s\" захищено. "</string>
     <string name="access_control_no_back_footer">Натисніть [icon] для виходу</string>
     <string name="access_control_recording_intro_header">Задайте графічний ключ</string>
     <string name="access_control_app_entry_single">Відкрити застосунок</string>
