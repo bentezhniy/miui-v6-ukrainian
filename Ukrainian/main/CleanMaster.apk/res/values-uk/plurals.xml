@@ -40,10 +40,4 @@
         <item quantity="other">Доступні оновлення застосунків: %d</item>
         <item quantity="one">Доступні оновлення застосунків: %d</item>
     </plurals>
-	<resources>
-    <plurals name="hint_similar_image_header_left">
-       <item quantity="other">Груп: %d</item>
-       <item quantity="one">Груп: %d</item>
-    </plurals>
-</resources>
 </resources>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="text_optimizer">Використовувати сервіс очищення онлайн</string>
-	<string name="activity_title_cache">Кеш</string>
     <string name="summary_optimizer">Завантажувати назви невідомих файлів і застосунків на сервер і перевіряти на наявність сміття</string>
     <string name="button_optimizer">ОК</string>
+    <string name="name_optimizer">Політика конфіденційності Cheetah Mobile</string>
     <string name="title_optimizer">Попередження</string>
     <string name="header_optimizer">При використанні сервісу очищення ви погоджуєтеся з умовами користування від Clean Master (%s)</string>
-    <string name="name_optimizer">Політика конфіденційності Cheetah Mobile</string>
     <string name="activity_title_garbage_cleanup">Очищення</string>
     <string name="empty_title_garbage_cache">Кеш не виявлено</string>
     <string name="empty_title_ad">Рекламу не виявлено</string>
@@ -15,7 +14,7 @@
     <string name="btn_text_quick_cleanup">"Очищення пам'яті"</string>
     <string name="hints_title_garbage">Сміття</string>
     <string name="activity_title_deep_clean">Додатково</string>
-    <string name="activity_title_cache_data">Кеш</string>
+    <string name="activity_title_cache">Кеш</string>
     <string name="activity_title_ad">Реклама</string>
     <string name="activity_title_apk">Застосунки</string>
     <string name="activity_title_residual">Сміття</string>
@@ -32,8 +31,8 @@
     <string name="button_text_add_to_white_list">Виключити</string>
     <string name="button_text_install">Установити</string>
     <string name="empty_title_installed_apps">Застосунки не знайдено</string>
-    <string name="button_text_uninstall_only">Видалити</string>
     <string name="button_text_backup_uninstall">Бекап</string>
+    <string name="button_text_uninstall_only">Видалити</string>
     <string name="empty_title_large_files">Більші файли не знайдені</string>
     <string name="pref_category_title_cleanup_white_list">Список винятків</string>
     <string name="pref_title_cleanup_white_list">Список виключень очищення</string>
@@ -85,8 +84,8 @@
     <string name="dialog_msg_check_all">"Застосунок: %1$s 
 файлів: %2$d"</string>
     <string name="dialog_title_check_all">Вибрати всі файли застосунку?</string>
-    <string name="hints_garbage_handle_item_empty_content">Файлів: 0</string>
     <string name="hints_garbage_handle_item_content">Файлів: %1$d | %2$s</string>
+    <string name="hints_garbage_handle_item_empty_content">Файлів: 0</string>
     <string name="hints_latest_garbage_cleanup_never">Потрібне сканування</string>
     <string name="hints_latest_garbage_cleanup_today">Останнє очищення: сьогодні</string>
     <string name="hints_latest_garbage_cleanup_yesterday">Останнє очищення: вчора</string>
@@ -102,7 +101,6 @@
     <string name="toast_network_eror">Не вдалося підключитися до інтернету</string>
     <string name="auto_clean_switch_on">Увімкнено</string>
     <string name="auto_clean_switch_off">Вимкнено</string>
-    <string name="msg_cleanup_db_update_checking">Перевірка оновлень…</string>
     <string name="msg_update_error_code_success">Успішно оновлене</string>
     <string name="msg_update_error_code_no_newer_db">Немає оновлень</string>
     <string name="msg_update_error_code_already_running">Оновлення</string>
@@ -158,44 +156,13 @@
     <string name="toast_backup_is_running">Виконується резервне копіювання. Повторіть спробу пізніше.</string>
     <string name="toast_backup_uninstall_failed">Не вдалося створити резервну копію застосунку \"%d\". Повторіть спробу пізніше.</string>
     <string name="toast_backup_uninstall_success">Резервне копіювання й видалення завершене</string>
-    <string name="toast_uninstall_success">Видалення завершене</string>
+    <string name="activity_title_cache_data">Кеш</string>
     <string name="deepclean_cache_header_left">Кеш: %d</string>
     <string name="notification_title_of_garbage_cleanup">Повідомлення про сміття</string>
     <string name="notification_summary_of_garbage_cleanup">Виявлене сміття: %s</string>
     <string name="notification_summary_after_auto_cleanup">Видалено сміття: %s.</string>
+    <string name="toast_uninstall_success">Видалення завершене</string>
     <string name="toast_app_no_residual_on_sdcard">Застосунок не має даних на накопичувачі</string>
     <string name="last_check_canceled">Попередня перевірка була скасована до завершення</string>
-	<string name="activity_title_ignored_image">Винятки</string>
-    <string name="activity_title_image_gallery">Видалити копії</string>
-    <string name="activity_title_similar_image_group">Видалити копії</string>
-    <string name="button_text_delete_pic">Видалити</string>
-    <string name="button_text_group_ignore">Вилучити</string>
-    <string name="button_text_group_unlike">Не копії</string>
-    <string name="button_text_keep_one">Зберегти одне фото</string>
-    <string name="button_text_let_me_select">ОК</string>
-    <string name="button_text_not_prompt_again">"Запам'ятати"</string>
-    <string name="button_text_restore_ignore">Назад</string>
-    <string name="button_text_select_all">Вибрати все</string>
-    <string name="button_text_select_pic">Вибрати</string>
-    <string name="button_text_uninstall">Видалити</string>
-    <string name="button_text_unselect_all">Зняти вибір</string>
-    <string name="button_text_unselect_pic">Зняти вибір</string>
-    <string name="dialog_content_checkbox_delete_cloud_image">Також видалити фото із Mi Cloud</string>
-    <string name="dialog_content_delete_image_confirm">Видалити %d фото?</string>
-    <string name="dialog_content_select_all_confirm">Зберегти копію фото?</string>
-    <string name="dialog_title_delete_image">Видалити вибрані фото</string>
-    <string name="empty_content_no_ignore_image">Порожньо</string>
-    <string name="empty_content_no_similar_image">Немає копій</string>
-    <string name="hint_bar_select_image">Вибрано: %d</string>
-    <string name="hint_clean_select_similar_image">Видалення копій…</string>
-    <string name="similar_image_desc">Видалити копії фото із галереї</string>
-    <string name="similar_image_empty">Копії не знайдені</string>
-    <string name="similar_image_scaning">Перевірка…</string>
-    <string name="similar_image_title">Видалити копії</string>
-    <string name="toast_backup_uninstall_failed2">Не вдається створити резервну копію</string>
-    <string name="toast_delete_select_image_succeed">Видалення завершене</string>
-    <string name="toast_must_select_before_restore">Виберіть фото для відновлення</string>
-    <string name="toast_scaning_similar_image">Перевірка фото…</string>
-    <string name="toast_select_image_need_delete">Виберіть фото для видалення</string>
-    <string name="toast_selecte_group_restore_succeed">Фото відновлено</string>
+    <string name="msg_cleanup_db_update_checking">Перевірка оновлень…</string>
 </resources>
