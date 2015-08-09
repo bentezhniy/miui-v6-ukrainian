@@ -55,4 +55,11 @@
     <string name="download_running">У процесі</string>
     <string name="download_error">Помилка завантаження</string>
     <string name="download_running_percent">Процес: %d%%</string>
+	<string name="dialog_not_show_again">"Запам'ятати"</string>
+    <string name="notification_download_failed_more">Не вдалося завантажити: %1$d</string>
+    <string name="notification_download_success_more">Завантажено файлів: %1$d</string>
+    <string name="warning_tip_cancel">Скасувати</string>
+    <string name="warning_tip_content">При завантажені файлів по мобільному інтернету може стягуватись додаткова плата оператором. Припинити завантаження?</string>
+    <string name="warning_tip_ok">ОК</string>
+    <string name="warning_tip_title">Попередження про трафік</string>
 </resources>

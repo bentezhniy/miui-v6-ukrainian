@@ -109,4 +109,12 @@
     <string name="sns_message_building">Створення повідомлення…</string>
     <string name="sns_message_sending">Відправлення…</string>
     <string name="widget_under_visit_mode">Неможливо переглянути нотатки в режимі \"Гість\"</string>
+	<string name="dlg_info_creating_message">Створення повідомлення…</string>
+    <string name="sync_tips">Натисніть для синхронізації нотаток з Mi Cloud</string>
+    <string name="welcome_note_for_cm">"Та інші цікаві можливості:
+ - Синхронізація з Mi Cloud
+ - Збереження при виході
+ - Установка нагадувань
+
+"</string>
 </resources>

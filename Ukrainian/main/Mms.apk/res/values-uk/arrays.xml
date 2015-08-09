@@ -23,6 +23,18 @@
         <item>Помилка</item>
         <item>Обличчя без емоцій</item>
     </string-array>
+	<string-array name="entries_mms_validity_period">
+       <item>Без обмежень</item>
+       <item>Два дні</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+       <item>Не встановлено</item>
+       <item>1 годину</item>
+       <item>6 годин</item>
+       <item>12 годин</item>
+       <item>1 день</item>
+       <item>Без обмежень</item>
+    </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>1 раз</item>
         <item>2 рази</item>

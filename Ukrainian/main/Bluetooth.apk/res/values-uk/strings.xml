@@ -190,4 +190,23 @@
     <string name="suggested">Рекомендовано</string>
     <string name="too_much_file_sent">Максимум %1$s файлів одночасно</string>
 	<string name="goto_package">Відкрити %1$s</string>
+	<string name="ble_device_profile">Профіль пристрою Bluetooth</string>
+    <string name="ble_device_rename">Перейменувати</string>
+    <string name="bluetooth_connected">"Під'єднано"</string>
+    <string name="bluetooth_connecting">"Під'єднання…"</string>
+    <string name="bluetooth_disconnected">"Від'єднано"</string>
+    <string name="bluetooth_disconnecting">"Від'єднання…"</string>
+    <string name="install_package">Встановити %1$s для додаткових функцій</string>
+    <string name="mi_key_open_camera">Відкрити камеру</string>
+    <string name="mi_key_summary_find_phone">Утримуйте Mi-Key для перемикання звуку</string>
+    <string name="mi_key_summary_open_camera">Подвійне натискання Mi-Key для відкриття камери</string>
+    <string name="mi_key_summary_take_photo">Натискання Mi-Key для фотографування</string>
+    <string name="notify_device_lose_connection_text">"Втрачено зв'язок із пристроєм \"%1$s\". Натисніть для прив'язки."</string>
+    <string name="notify_device_lose_connection_title">"Пристрій \"%1$s\" від'єднано"</string>
+    <string name="reset_function_msg">Повторне відкриття функції викличе помилку в %1$s</string>
+    <string name="some_app_taking">(%1$s уже використовує цю функцію)</string>
+    <string name="unbind_device_alert_cancel">Скасувати</string>
+    <string name="unbind_device_alert_content">"Зв'язок із пристроєм \"%1$s\" відсутній тривалий час. Відв'язати його для поліпшення продуктивності?"</string>
+    <string name="unbind_device_alert_ok">ОК</string>
+    <string name="unbind_device_alert_title">Попередження</string>
 </resources>

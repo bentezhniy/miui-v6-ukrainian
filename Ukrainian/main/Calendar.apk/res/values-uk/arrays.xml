@@ -348,4 +348,9 @@
         <item>Коли сигнал вимкнено</item>
         <item>Ніколи</item>
      </string-array>
+	 <string-array name="prefentries_alerts_vibratewhen">
+       <item>Завжди</item>
+       <item>У режимі \"Без звуку\"</item>
+       <item>Ніколи</item>
+    </string-array>
 </resources>

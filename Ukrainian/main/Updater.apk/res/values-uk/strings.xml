@@ -291,4 +291,34 @@
     <string name="toast_need_login">Увійдіть в Mi акаунт</string>
     <string name="toast_not_enough_free_space">Недостатньо місця для OTA</string>
     <string name="toast_update_failed_hints">Не вдалося оновити. Для повторної спроби потрібне перезавантаження.</string>
+	<string name="download_success_reboot_immediately">Перезавантажтеся для застосування оновлення</string>
+    <string name="miui_BBS">" "<a href="http://bbs.miui.com">Перейти на форум MIUI</a>" "</string>
+    <string name="notification_auto_reboot_seccess_title">Пристрій оновлено автоматично</string>
+    <string name="recovery_failed_button">ОК</string>
+    <string name="recovery_failed_msg">"На вашому пристрої недостатньо пам'яті для оновлення через Recovery. Спробуйте використовувати програму Mi PC Suite:
+http://miui.su/mi-pc-suite"</string>
+    <string name="recovery_failed_notification_msg">Використовуйте Mi PC Suite для оновлення</string>
+    <string name="recovery_failed_title">Не можна увійти в Recovery</string>
+    <string name="sogou_uninstall_msg">Клавіатура Sogou більше не сумісна з MIUI6. Змініть клавіатуру або поновіть Sogou до останньої версії.</string>
+    <string name="sogou_uninstall_negative_button">Оновити Sogou</string>
+    <string name="sogou_uninstall_positive_button">Змінити клавіатуру</string>
+    <string name="sogou_uninstall_title">Попередження</string>
+    <string name="update_success_reboot_immediately">Прошивку оновлено</string>
+    <string name="updater_wait_for_unzip">Установка оновлення…</string>
+    <string name="vote_beta">Звіи про бета версії</string>
+    <string name="vote_error1">Ви не є бета тестером</string>
+    <string name="vote_error2">Не вдається відправить відгук. Обновіть прошивку і повторіть спробу.</string>
+    <string name="vote_error3">Не вдається увійти. Спробуйте увійти до обл.запису Mi ще раз.</string>
+    <string name="vote_error4">Ви вже відправили відгук</string>
+    <string name="vote_error5">Не вдаєтся відправити відгук</string>
+    <string name="vote_error_nonetwork">Не вдається підключитися до інтернету</string>
+    <string name="vote_experience">Кредити на форумі</string>
+    <string name="vote_hint">Получіть 20 кредитів досвіду на форумі MIUI за голосування</string>
+    <string name="vote_join">Голос відправлений</string>
+    <string name="vote_not_recommend">Не рекомендувати</string>
+    <string name="vote_recommend">Рекомендувати</string>
+    <string name="vote_submit">Відправити</string>
+    <string name="welcom_button">ОК</string>
+    <string name="welcom_message">Насолоджуйтеся MIUI6</string>
+    <string name="welcom_title">Ласкаво просимо!</string>
 </resources>

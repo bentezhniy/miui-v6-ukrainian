@@ -318,4 +318,23 @@
     <string name="upgrade_nobeta">"Ми зупинили цю онлайн службу через проблеми з авторськими правами. Перепрошуємо за незручності :("</string>
     <string name="upgrade_suggest">"Ми зупинили цю онлайн службу через проблеми з авторськими правами. Оновіть застосунок до останньої версії, аби слухати музику у високій якості."</string>
     <string name="upgrade_waringing">"Ви можете прослуховувати музику автономно"</string>
+	<string name="action_item_favorite">Вибрані</string>
+    <string name="atmd_copyright_info">Онлайн музика надана сервісом Ultimate Inc.</string>
+    <string name="atmd_music">" "</string>
+    <string name="atmd_tel">Телефон підтримки: 0755-86699030</string>
+    <string name="delete">Видалити</string>
+    <string name="download_all_song">Завантажити всі</string>
+    <string name="i_know_it">ОК</string>
+    <string name="more_about_artist">Детальніше про %s</string>
+    <string name="only_online_can_select_quality">Якість можна обрати тілько для музики онлайн</string>
+    <string name="play_all_song">Грати всі</string>
+    <string name="preset_music_playlist">Mi плейлист</string>
+    <string name="remove">Видалить</string>
+    <string name="service_stop">Робота сервісу зупинена</string>
+    <string name="set_id3_not_have_read_or_write_permission">Немає дозволів на редагування цього файлу</string>
+    <string name="set_id3_not_support_format">Не вдается змінити інформацію про трек</string>
+    <string name="sort_by_language">Мова</string>
+    <string name="sort_by_name">Назва</string>
+    <string name="sort_by_time">Дата</string>
+    <string name="upgrade_remind">Наявне оновлення</string>
 </resources>

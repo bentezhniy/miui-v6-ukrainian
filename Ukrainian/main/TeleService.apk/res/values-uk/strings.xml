@@ -345,7 +345,7 @@ sim карта буде очищена при невдалій спробі вв
     <string name="card_title_cugcall">Дзвінок закритій групі користувачів</string>
     <string name="card_title_outgoing_barred">Вихідні виклики заборонені</string>
     <string name="card_title_incoming_barred">Вхідні виклики заборонені</string>
-    <string name="card_title_clir_suppression_rejected">Приховання номера заборонене</string>
+    <string name="card_title_clir_suppression_rejected">Приховання номеру заборонене</string>
     <string name="card_title_call_deflected">Виклик відхилений</string>
     <string name="card_title_MTcall_forwarding">Вхідний виклик переадресується</string>
     <string name="card_title_forwarded_MTcall">Вхідний переадресований виклик</string>
@@ -789,7 +789,7 @@ sim карта буде очищена при невдалій спробі вв
     <string name="cdma_display_precise_call_state_summary">Підтвердіть, що ваша мережа підтримує цю функцію</string>
     <string name="cdma_display_precise_call_state_message">Якщо дана функція не підтримується оператором, будуть показані невірні дані</string>
     <string name="other_settings_category">Інші</string>
-    <string name="caller_id_title">Приховання номера</string>
+    <string name="caller_id_title">Приховувати номер</string>
     <string name="caller_id_summary">Приховувати номер для вихідних викликів, якщо підтримує оператор</string>
     <string name="get_smsc_address_error">Помилка підключення до мережі</string>
     <string name="get_smsc_address_timeout">Час очікування підключення минув</string>
@@ -991,4 +991,27 @@ sim карта буде очищена при невдалій спробі вв
     <string name="title_toast_auto">Автоматичне встановлення оновлень увімкнене</string>
 	<string name="flash_when_ring_summary">Сповіщувати спалахом при вхідному виклику</string>
     <string name="flash_when_ring_title">Сповіщення спалахом</string>
+	<string name="can_not_use_for_not_data_sim">(слід встановити SIM за замовчанням)</string>
+    <string name="config_default_data_sim">Налаштування</string>
+    <string name="got_it">ОК</string>
+    <string name="incall_error_sim_deactive">SIM карта неактивна</string>
+    <string name="ivr_mo_area_code_settings">Поточний код регіону</string>
+    <string name="ivr_mo_area_code_settings_hint">Введіть код регіону</string>
+    <string name="ivr_parameter_settings">Налаштування голосового меню</string>
+    <string name="ivr_type_cm_1">M-Zone</string>
+    <string name="ivr_type_cm_2">GoTone</string>
+    <string name="ivr_type_cm_3">Easy own</string>
+    <string name="ivr_type_ct_1">China Telecom VIP</string>
+    <string name="ivr_type_ct_2">China Telecom customer</string>
+    <string name="ivr_type_cu_1">China Unicom 3G</string>
+    <string name="ivr_type_cu_2">China Unicom 4G</string>
+    <string name="ivr_type_cu_3">China Unicom 2G</string>
+    <string name="ivr_type_settings">Тарифний план</string>
+    <string name="ivr_type_settings_hint">Введіть код тарифного плану</string>
+    <string name="msim_disable_sim_card_btn_text">ОК</string>
+    <string name="msim_disable_sim_card_summary_default_card">Ця SIM карта використовується за замовчанням. Якщо її відключити, то ви не зможете здійснювати дзвінки та використовувати інтернет. Оберіть іншу SIM карту за замовчанням.</string>
+    <string name="msim_disable_sim_card_summary_non_default_card">Ви не зможете здійснювати дзвінки та використовувати інтернет після відключення SIM-карти %s</string>
+    <string name="msim_disable_sim_card_title">Відключити SIM карту?</string>
+    <string name="msim_has_been_disabled">(відключено)</string>
+    <string name="voip_setting">Налаштування VoIP</string>
 </resources>

@@ -37,4 +37,8 @@
         <item>Девелоперська</item>
         <item>Альфа</item>
     </string-array>
+	<string-array name="server_list_entries">
+       <item>Тестовий сервер</item>
+       <item>Онлайн сервер</item>
+    </string-array>
 </resources>

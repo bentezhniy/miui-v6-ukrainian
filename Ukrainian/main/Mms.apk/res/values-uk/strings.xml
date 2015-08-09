@@ -578,4 +578,27 @@ sms (%1$d), MMS (%2$d)."</string>
     <string name="storage_dialog_available_space">Доступно місця:</string>
     <string name="storage_dialog_database">База даних:</string>
     <string name="storage_dialog_mms_size">Розмір MMS:</string>
+	<string name="cloud_recommend_msg">Натисніть для синхронізації з Mi Cloud</string>
+    <string name="cloud_state_disabled">Синхронізація з Mi Cloud відключена</string>
+    <string name="cloud_state_sync_finished">Синхронізовано з Mi Cloud</string>
+    <string name="cloud_state_syncing">Синхронізація з Mi Cloud…</string>
+    <string name="found_wild_messages_guide_cloud_desc">Для синхронізації SMS з Mi Cloud увійдіть до обл.запису Mi і увімкніть синхронізацію SMS</string>
+    <string name="found_wild_messages_guide_settings_desc">Для синхронізації SMS из Mi Could увімкніть синхронізацію у налаштуваннях повідомлень</string>
+    <string name="mipub_messaging_entry_title">Хмарні повідомлення</string>
+    <string name="mx_activate_dlg_title_ex">Активація хмарних повідомлень і VoIP</string>
+    <string name="mx_dspt_provision_ex">Відправка повідомлень і здійснення викликів між користувачами MIUI безкоштовно. Оплата оператором може стягуватись лише за використання мобільного трафіку. VoIP надано за підтримки Weihui. Політика конфіденційності</string>
+    <string name="mx_dspt_provision_ex2">Політика конфіденційності</string>
+    <string name="mx_enable_ex">Хмарні повідомлення і VoIP</string>
+    <string name="pref_show_blocked_messages_summary">Показувати заблоковані SMS у переліку діалогів</string>
+    <string name="reply_button_msg">Відповісти</string>
+    <string name="security_alert_desc">Відправник відсутній у списку контактів. <font color="red"><u>Надіслати звіт</u></font></string>
+    <string name="security_alert_desc_highlight">Відмітити номер</string>
+    <string name="security_alert_dialog_desc">Надіслати номер відправника (%s) у Xiaomi для розгляду</string>
+    <string name="security_alert_dialog_title">Звіт</string>
+    <string name="sms_report_failed">Не вдається надіслати звіт</string>
+    <string name="sms_report_success">Звіт надіслано</string>
+    <string name="storage_dialog_mms">MMS: %d</string>
+    <string name="storage_dialog_sms">SMS: %d</string>
+    <string name="storage_unavailable">Нема вільного місця</string>
+    <string name="title_show_blocked_messages">Показувати заблоковані SMS</string>
 </resources>

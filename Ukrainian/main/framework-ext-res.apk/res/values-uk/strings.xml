@@ -83,4 +83,8 @@
     <string name="unknown_caller">Невідомий номер</string>
     <string name="handy_mode_title">Режим однієї руки</string>
     <string name="handy_mode_summary">Щоб вийти, торкніться пустого місця поза екраном</string>
+	<string name="location_usage_restricted_body">Натисніть для зняття обмежень</string>
+    <string name="location_usage_restricted_title">Пошук місця розташування в фоні</string>
+    <string name="permdesc_manageLocationPolicy">Дозволяє застосунку керувати політикою визначення місця розташування</string>
+    <string name="permlab_manageLocationPolicy">Керування місцем розташування</string>
 </resources>

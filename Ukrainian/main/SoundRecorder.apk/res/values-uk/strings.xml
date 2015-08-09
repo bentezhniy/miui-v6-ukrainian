@@ -107,4 +107,6 @@
     <string name="stop_recording">Зупинити запис</string>
     <string name="view_list_of_recordings">Перегляд списку записів</string>
 	<string name="preference_tip_rename">Вікно перейменування після запису</string>
+	<string name="record_mark_point">Міток: %s</string>
+    <string name="rename_no_more_tip">Більше не показувати</string>
 </resources>

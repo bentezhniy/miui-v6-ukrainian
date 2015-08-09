@@ -52,4 +52,6 @@
     <string name="congratulation_next">Готове</string>
     <string name="logo_congratulation">Налаштування завершене</string>
     <string name="terms_of_service">Умови використання</string>
+	<string name="sim_card_detecting_title">Перевірить SIM карту</string>
+    <string name="skip_underline"><u>Пропустити</u></string>
 </resources>

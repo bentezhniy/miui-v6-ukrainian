@@ -557,4 +557,15 @@
     <string name="usa">Американське ТБ</string>
     <string name="dlg_remove_blacklist_ing">Видалення…</string>
     <string name="network_unavailable">Інтернет недоступний</string>
+	<string name="ads_ignore">Пропустити</string>
+    <string name="app_wifi_mode">Автооновлення через Wi-Fi</string>
+    <string name="app_wifi_mode_summary">Автоматичне оновлення застосунків за наявності активної мережі Wi-Fi</string>
+    <string name="bmp_quality_mode">Висока якість</string>
+    <string name="bmp_quality_mode_desc">Режим високої якості відео</string>
+    <string name="empty_tv_exiting">Вихід…</string>
+    <string name="miwifi_app_download_content">Завантаження…</string>
+    <string name="miwifi_app_download_title">Mi роутер</string>
+    <string name="miwifi_app_update_button">Оновлення</string>
+    <string name="miwifi_app_update_content">Ця функція потребує наявність роутера з версією 2.0 і вище</string>
+    <string name="miwifi_app_update_title">Оновити застосунок для роутера?</string>
 </resources>

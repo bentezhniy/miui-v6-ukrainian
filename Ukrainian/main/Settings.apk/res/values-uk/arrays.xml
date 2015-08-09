@@ -711,4 +711,37 @@
         <item>через 15 хвилин</item>
         <item>через 30 хвилин</item>
     </string-array>
+	<string-array name="fluency_mode_confirms">
+       <item>Перезавантажити пристрій для застосування налаштувань?</item>
+       <item>Перезавантажити пристрій для застосування налаштувань?</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+       <item>Вимкнути системну анімацію</item>
+       <item>Увімкнути системну анімацію</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+       <item>Для підвищення продуктивності вимкніть системну анімацію</item>
+       <item>Системна анімація може вплинути на продуктивність пристрою</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_values">
+       <item>0</item>
+       <item>60000</item>
+       <item>120000</item>
+       <item>300000</item>
+       <item>900000</item>
+       <item>1800000</item>
+    </string-array>
+    <string-array name="pink_panel_led_color_entries">
+       <item>Фіолетовий</item>
+       <item>Червоний</item>
+       <item>Жовтий</item>
+       <item>Зелений</item>
+       <item>Пурпурний</item>
+    </string-array>
+    <string-array name="primary_storage_entries">
+       <item>1-Вбудований розділ, 2-SD карта</item>
+       <item>1-SD карта, 2-Вбудований розділ</item>
+       <item>Тільки вбудований розділ</item>
+       <item>Тільки SD карта</item>
+    </string-array>
 </resources>

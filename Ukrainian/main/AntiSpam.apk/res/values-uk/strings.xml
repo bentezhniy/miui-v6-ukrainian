@@ -322,4 +322,18 @@
 	<string name="mark_harass">Переслідування</string>
     <string name="mark_harass_block">Повідомити про переслідування</string>
 	<string name="mark_number_harass">Переслідування</string>
+	<string name="mark_agent_time_setting">Блокувати номери, відмічені, як маркетинг більше за вказаний час.</string>
+    <string name="mark_fraud_time_setting">Блокувати номери, відмічені, як шахраї більше за вказаний час.</string>
+    <string name="mark_harass_time_setting">Блокувати номери, відмічені, як домагання більше за вказаний час.</string>
+    <string name="mark_number_agent">Агент</string>
+    <string name="mark_sell_time_setting">Блокувати номери, відмічені, як агент продажу більше за вказаний час.</string>
+    <string name="mark_time_setting_dialog_title">Налаштування часу</string>
+    <string name="quiet">Не турбувати</string>
+    <string name="quiet_group">Не турбувати</string>
+    <string name="quiet_important_interruptions_mode">Режим \"Без звуку\"</string>
+    <string name="quiet_mode">Не турбувати</string>
+    <string name="quiet_off_mode">Режим \"Не турбувати\" вимкнено</string>
+    <string name="repeated_marked_number_summary">Не блокувати другий виклик із відміченого номеру</string>
+    <string name="repeated_marked_number_title">Не блокувати повторні виклики</string>
+    <string name="sim_not_ready_toast">Помилка налаштування. SIM карта не готова.</string>
 </resources>

@@ -76,4 +76,14 @@
         <item>По буднях</item>
         <item>Обрати дні</item>
     </string-array>
+	<string-array name="preferred_app_entries">
+       <item>Стыльниця</item>
+       <item>Телефон</item>
+       <item>Повідомлення</item>
+       <item>Браузер</item>
+       <item>Камера</item>
+       <item>Галерея</item>
+       <item>Музика</item>
+       <item>Пошта</item>
+    </string-array>
 </resources>

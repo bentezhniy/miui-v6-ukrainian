@@ -992,5 +992,6 @@
     <string name="vt_voice_connecting">"Встановлення зв'язку для голосового виклику"</string>
     <string name="vt_wait_voice">"Очікування встановлення зв'язку для голосового виклику"</string>
     <string name="which_call_to_activate">Який виклик активувати?</string>
-    <string name="wrong_password">Помилка в паролі</string>
+    <string name="wrong_password">Помилка у паролі</string>
+	<string name="livetalk_left_minute">Залишилося %s хв.</string>
 </resources>

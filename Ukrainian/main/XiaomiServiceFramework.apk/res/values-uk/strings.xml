@@ -84,4 +84,16 @@
     <string name="activate_feature_mms_sync">Синхронізація SMS</string>
     <string name="activate_feature_call_log_sync">Синхронізація викликів</string>
     <string name="activate_feature_find_device">Пошук пристрою</string>
+	<string name="activate_feature_mx_and_voip">Хмарні повідомлення і VoIP</string>
+    <string name="activate_popup_confirm_all_gateway_failed_query_info">Повтор</string>
+    <string name="activate_popup_confirm_all_gateway_failed_send_sms">Повтор</string>
+    <string name="activate_popup_desc_all_gateway_failed_query_info">"Не вдається знайти ваш номер. Переконайтеся, що ваша SIM карта активована.
+Введіть номер телефону, який зв'язаний із вашою новою SIM картою для повторної активації %s"</string>
+    <string name="activate_popup_desc_all_gateway_failed_send_sms">"Не вдається надіслати SMS для активації. Переконайтеся, що ваша SIM карта активована.
+Введіть номер телефону, який зв'язаний із вашою новою SIM картою для повторної активації %s"</string>
+    <string name="activate_popup_desc_voip_privacy">Політика конфіденційності</string>
+    <string name="activate_popup_desc_voip_privacy_prefix">". VoIP надається за підтримки Weihui. "</string>
+    <string name="activate_popup_title_all_gateway_failed_query_info">Не вдається знайти номер</string>
+    <string name="activate_popup_title_all_gateway_failed_send_sms">Не вдається надіслати SMS</string>
+    <string name="activate_sms_postfix">[Ця SMS використовується для активації вашого пристрою]</string>
 </resources>

@@ -263,4 +263,23 @@
     <string name="disable_auto_start_message">Відключити автозапуск програми?</string>
 	<string name="image_too_small_message">"Зображення занадто мале"</string>
 	<string name="is_setting_wallpaper_message">Налаштування шпалер…</string>
+	<string name="app_already_exist">Застосунок уже існує</string>
+    <string name="app_being_restored_message">Додаток буде відновлено</string>
+    <string name="choose_theme">Тема</string>
+    <string name="cloud_app_restore_title">Очікування</string>
+    <string name="configure_wallpaper">Налаштування</string>
+    <string name="default_theme_name">За замовчуванням</string>
+    <string name="deselect_all">Зняти вибір</string>
+    <string name="download_action">Завантаження</string>
+    <string name="failed_to_load_image">Неможливо завантажити зображення</string>
+    <string name="gadget_power_clear_button_label">Очистка</string>
+    <string name="loading_wallpaper">Завантаження шпалер…</string>
+    <string name="mtzgadget_missing_text">Помилка завантаження віджету</string>
+    <string name="recommend_apps_default_title">Порожньо</string>
+    <string name="recommend_apps_notice">Рекомендовані застосунки</string>
+    <string name="recommend_apps_switch_summary">Показувати рекомендовані застосунки знизу екрана</string>
+    <string name="recommend_apps_switch_title">Рекомендовані застосунки</string>
+    <string name="recommend_apps_tips">"Для роботи цієї функції потрібно під'єднання до інтернету. Для вимкнення цієї функції натисніть на назву папки."</string>
+    <string name="select_all">Обрати все</string>
+    <string name="wallpaper_settings_for_pad">Шпалери</string>
 </resources>

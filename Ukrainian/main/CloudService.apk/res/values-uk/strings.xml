@@ -293,4 +293,65 @@
     <string name="cloud_back_up_remove_success">Копію видалено</string>
     <string name="cloud_back_up_title">Копія стільниці</string>
     <string name="cloud_backup_dialog_title">Резервна копія з Mi Cloud</string>
+	<string name="activate_number_change_dialog_message">Оберіть основний номер для виклику VoIP, який буде бачити співрозмовник.</string>
+    <string name="close_cloud_app_backup_cancel">Відміна</string>
+    <string name="close_cloud_app_backup_close">Закрити</string>
+    <string name="close_cloud_app_backup_local_backup">Створити бекап</string>
+    <string name="close_cloud_app_backup_message">Сервіс бекапу додатків буде зупинений і видалений 1 травня 2015 року. Збережіть необхідні дані додатків якнайшвидше.</string>
+    <string name="close_cloud_app_backup_notification_message">Нажмите для просмотра</string>
+    <string name="close_cloud_app_backup_notification_title">Повідомлення Mi Cloud</string>
+    <string name="close_cloud_app_backup_title">Попередження</string>
+    <string name="cloud_app_back_up_quit_notification_content1">Можливість створення бекапу для сторонніх додатків буде зупинено і видалено 1 травня 2015 року. Збережіть необхідні дані додатків з допомогою локального бекапу.</string>
+    <string name="cloud_app_back_up_quit_notification_content2">Синхронізація контактів, повідомлень, фото та інших даних залишиться як і раніше.</string>
+    <string name="cloud_app_back_up_quit_notification_content3">Бекап додатків</string>
+    <string name="cloud_back_up_date_format">ГГ:хв дд.MM.рррр</string>
+    <string name="deskclock_backup">Бекап годинників</string>
+    <string name="internet_access_dspt">"Для нормальної роботи цього застосунку потрібне з'єднання із інтернетом"</string>
+    <string name="micloud_buy_member">Додати місце</string>
+    <string name="micloud_main_space_low">Місце закінчується</string>
+    <string name="micloud_main_suggest_setting">Очікування мережі Wi-Fi для синхронізації</string>
+    <string name="micloud_main_sync_setting">Налаштування синхронізації</string>
+    <string name="micloud_main_title_sync_fail">Не вдається синхронізувати</string>
+    <string name="micloud_main_title_sync_off">Синхронізацію вимкнено</string>
+    <string name="micloud_main_title_sync_on_wifi">Мережею Wi-Fi</string>
+    <string name="micloud_member">Преміум</string>
+    <string name="micloud_member_advantage">Отримати більше місця</string>
+    <string name="micloud_member_buy_content" formatted="false">"Діє: %s-%s-%s
+
+%s Mi Credits в рік"</string>
+    <string name="micloud_member_buy_title">Підтвердження замовлення</string>
+    <string name="micloud_member_net_error_alert_message">"Не вдається під'єднатися до інтернету"</string>
+    <string name="micloud_member_net_error_alert_title">Інтернет недоступний</string>
+    <string name="micloud_member_pay_fail_toast">Не вдається завершити платіж</string>
+    <string name="micloud_member_pay_miid_error_toast">Помилка облікового запису</string>
+    <string name="micloud_member_pay_order_error_toast">Помилка даних</string>
+    <string name="micloud_member_refresh_button">Оновити</string>
+    <string name="micloud_member_webload_fail_error_message">Помилка інтернету</string>
+    <string name="micloud_member_webload_fail_toast_4xx">Не вдається завантажити сторінку</string>
+    <string name="micloud_member_webload_fail_toast_5xx">Помилка сервера</string>
+    <string name="micloud_setting_deskclock_summary">Налаштування годинників</string>
+    <string name="micloud_space_applist_detail">Керуйте рез.копією робочого столу через застосунок на пристрої</string>
+    <string name="micloud_space_applist_title">Рез.копія робочого столу</string>
+    <string name="micloud_space_soundrecorder_detail">Керуйте записами диктофону через застосунок на пристрої</string>
+    <string name="micloud_space_soundrecorder_title">Записи диктофону</string>
+    <string name="micloud_storage">"Пам'ять"</string>
+    <string name="micloud_sync_alert_dialog_message">Синхронізуйте фото, контакти, замітки та багато чого іншого між вашими пристроями.</string>
+    <string name="micloud_sync_alert_dialog_negative">Скасувати</string>
+    <string name="micloud_sync_alert_dialog_positive">ОК</string>
+    <string name="micloud_sync_alert_dialog_title">Mi Cloud</string>
+    <string name="mx_dspt_provision_privacy_2_sim">"Для використання цієї функції може знадобитися ваш номер телефону. При активації може стягуватися плата оператором за 2 SMS.
+
+Ваш ID буде зашифрований та відправлений на сервер Xiaomi."</string>
+    <string name="mx_dspt_provision_with_voip">Mi VoIP дозволяє користувачам MIUI спілкуватися безкоштовно через інтернет. Політика конфіденційності</string>
+    <string name="mx_dspt_provision_with_voip2">Політика конфіденційності</string>
+    <string name="mx_sub_dspt_provision_with_voip">Інтернет виклик VoIP</string>
+    <string name="mx_voip_dspt">Mi VoIP</string>
+    <string name="settings_backup_title">Бекап системних налаштувань</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">ОК</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Mi Cloud дозволяє синхронізувати фото, контакти, повідомлення та інші дані між пристроями.</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">Відміна</string>
+    <string name="sync_dspt_entrance_provision_confirm_title">Пропустити авторизацію Mi Cloud?</string>
+    <string name="sync_dspt_entrance_provision_skip"><u>Пропустити</u></string>
+    <string name="voip_choose_sim">Оберіть номер телефону для активації Mi VoIP</string>
+    <string name="voip_dspt">Mi VoIP</string>
 </resources>

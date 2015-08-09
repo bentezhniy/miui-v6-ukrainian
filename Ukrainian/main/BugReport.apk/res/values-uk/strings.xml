@@ -126,4 +126,10 @@
 	<string name="submit_dialog_not_wifi_content">"Ваші відгуки, разом з журналом помилок та прикріпленими зображеннями буде надіслано, коли ваш пристрій використовуватиме бездротову мережу"</string>
 	<string name="toast_feedback_collect_store">Збір записів до журналу…</string>
 	<string name="toast_fill_brackets">Будь ласка, заповніть у дужках</string>
+	<string name="bugreport_tool_log">Створити звіт</string>
+    <string name="modem_tool_log">Зняти звіт модема</string>
+    <string name="modem_tool_log_start">Почати</string>
+    <string name="modem_tool_log_start_toast">Запущено зчитування звіту модема в %s</string>
+    <string name="modem_tool_log_stop">Зупинити</string>
+    <string name="modem_tool_log_stop_toast">Зупинено зчитування звіту модема із %s</string>
 </resources>

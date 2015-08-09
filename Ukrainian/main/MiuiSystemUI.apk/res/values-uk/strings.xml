@@ -260,4 +260,16 @@ d MMMM yyyy"</string>
     <string name="disable_notification_title">Блокування сповіщень</string>
     <string name="expanded_notification_manager">Керування сповіщеннями</string>
     <string name="notification_template_text">" має сповіщення. Перегляд."</string>
+	<string name="activate_usb_message">Вставте SIM карту для активації функцій USB</string>
+    <string name="activate_usb_title">Активувати USB</string>
+    <string name="media_projection_action_text">Почати</string>
+    <string name="media_projection_dialog_text">%s буде захоплювати все, що відображається на вашому екрані.</string>
+    <string name="media_projection_remember_text">"Запам'ятати"</string>
+    <string name="screen_button_notification_text">Для увімкнення натисніть кнопку \"Додому\" та \"Живлення\" одночасно</string>
+    <string name="screen_button_notification_title">Кнопки навігації вимкнені</string>
+    <string name="usb_function_charging_text">Подключно в режимі зарядки</string>
+    <string name="vpn_text">Натисніть для настройки</string>
+    <string name="vpn_text_long">Підключено до %s. Натисніть для перегляду.</string>
+    <string name="vpn_title">Мережа VPN активна</string>
+    <string name="vpn_title_long">Підключення VPN через %s</string>
 </resources>

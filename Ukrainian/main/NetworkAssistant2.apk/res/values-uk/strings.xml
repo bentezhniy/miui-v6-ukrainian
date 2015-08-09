@@ -413,4 +413,156 @@
 	<string name="add_miservice_dialog_content">"%s вимагає від вас додати MIUI Service Framework до списку виключень. Ви можете отримувати повідомлення з вбудованих застосунків MIUI та інших застосунків сторонніх розробників."</string>
     <string name="lock_screen_traffic_guide_notification_title">Використано %s мобільного інтернету</string>
     <string name="lock_screen_traffic_guide_notification_summary">Мобільний інтернет, який використано при заблокованому екрані.</string>
+	<string name="add_miservice_dialog_title">MIUI service framework</string>
+    <string name="apn_exception_summary">Отримати інформацію про точки доступу від оператора</string>
+    <string name="apn_exception_title">Налаштування APN</string>
+    <string name="arrearage_exception_summary">Необхідно поповнити баланс</string>
+    <string name="arrearage_exception_title">Баланс</string>
+    <string name="btn_finish_diagnostic">ОК</string>
+    <string name="btn_start_diagnostic">Почати</string>
+    <string name="btn_stop_diagnostic">Зупинити</string>
+    <string name="captive_portal_exception_title">"Під'єднатися до публічної мережі"</string>
+    <string name="check_network_state">Перевірте параметри інтернету</string>
+    <string name="choose">Вибір</string>
+    <string name="connect_internet_by_mobiledata">Підключення мобільного інтернету</string>
+    <string name="connect_internet_by_usbshare">Підключення інтернету по USB</string>
+    <string name="connect_internet_by_wifi">Підключення по мережі Wi-Fi</string>
+    <string name="current_network_state_not_need_diagnose">Діагностика не вимагається</string>
+    <string name="daily_limit_and_lock_screen">Денний трафік і сповіщення</string>
+    <string name="daily_limit_network_available_body_open_traffic_saving">Натисніть для увімкнення мобільного інтернету</string>
+    <string name="data_network_blocked_notification_title">Мережа відсутня</string>
+    <string name="dialog_roaming_apps_sorted_title">Сортування</string>
+    <string name="disable_air_mode">Вимкніть режим польоту</string>
+    <string name="dns_exception_summary">Налаштування DNS у роутера недоступні</string>
+    <string name="dns_exception_title">Тест DNS</string>
+    <string name="download_without_wifi_msg">При використанні мобільного інтернету для завантаження фото може стягуватися додаткова плата оператором</string>
+    <string name="download_without_wifi_title">Попередження про трафік</string>
+    <string name="enable_network">Увімкніть мобільний інтернет</string>
+    <string name="firewall_network_restrict_notify_message">Натисніть для зміни налаштувань</string>
+    <string name="firewall_network_restrict_notify_title">\"%1$s\" заборонено використовувати %2$s</string>
+    <string name="gateway_exception_summary">Перевірте ваш роутер і повторіть спробу</string>
+    <string name="gateway_exception_summary2">Не вдається підключитися до сервера</string>
+    <string name="gateway_exception_title">Тест роутера</string>
+    <string name="hints_input_roaming_daily_limit">Уведіть межу трафіку</string>
+    <string name="hints_install_apps_new">Не запускався</string>
+    <string name="hints_install_apps_today">Запускався сьогодні</string>
+    <string name="ip_address_exception_summary">Не вдається отримати IP адресу. Якщо проблема повториться, спробуйте використовувати статичну IP адресу.</string>
+    <string name="load_fail">Неможливо завантажити</string>
+    <string name="local_ip_exception_summary">Не вдається отримати локальну IP адресу. Ви можете надіслати звіт про помилку через відповідний застосунок.</string>
+    <string name="lock_screen_traffic_purchase_textview">Купити трафік</string>
+    <string name="lock_screen_warning_category">Екран блокування</string>
+    <string name="lock_screen_warning_switch_summary">"Показувати сповіщення на екрані блокування, коли перевищено установлений об'єм трафіку."</string>
+    <string name="lock_screen_warning_switch_title">Сповіщення на екрані блокування</string>
+    <string name="lock_screen_warning_value">"Установити об'єм трафіку"</string>
+    <string name="main_toolbar_internet_by_mobiledata">Підключення мобільного інтернету</string>
+    <string name="main_toolbar_internet_by_pc_brige">Підключення інтернету по USB</string>
+    <string name="main_toolbar_internet_by_wifi">Підключення по мережі Wi-Fi</string>
+    <string name="mian_page_primary_txt">Міжнародний роумінг</string>
+    <string name="miuishare_title_more">Іще</string>
+    <string name="miuishare_title_share">Надіслати</string>
+    <string name="miuishare_wechat_timeline_title">Wechat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="network_blocked_connected_open_wifi">"Під'єднано до публічної мережі"</string>
+    <string name="network_blocked_notification_summary">Натисніть для перегляду інформації</string>
+    <string name="network_blocked_switch_wifi">Перемкнути мережу</string>
+    <string name="network_connected_exception_title">Тест інтернету</string>
+    <string name="network_diagnostics">Діагностика інтернету</string>
+    <string name="network_mobile_exception_detail">"Пристрій не під'єднано до інтернету:
+
+ 1. Переконайтеся, що трафік не перевищено.
+ 2. Якщо ви поповнабо баланс, спробуйте перезавантажити пристрій.
+ 3. Переконайтеся, що у вашем поточному місці перебування нормальний сигнал мережі."</string>
+    <string name="network_not_available">"Не вдається під'єднатися до інтернету"</string>
+    <string name="network_operator_exception_summary">Не вдається активувати SIM карту. Переконайтеся, що SIM карта встановлена коректно й на ній активований тарифний план.</string>
+    <string name="network_permission_exception_tips">Не вдається використати мобільний інтернет</string>
+    <string name="network_roaming_exception_tips">Не вдається використати мобільний інтернет у роумінгу</string>
+    <string name="network_route_exception_detail">"Можливі проблеми з маршрутизатором:
+
+
+"<b>1. Проблеми публічної мережі Wi-Fi</b>"
+Якщо ви під'єднані до публічної мережі Wi-Fi, швидкість може залежати від кількості під'єднаних користувачів. Спробуйте під'єднатися до іншої мережі й повторити спробу.
+"<b>2. Проблеми мережі оператора</b>"
+Переконайтеся, що ваш тарифний план підтримує під'єднання до інтернету.
+"<b>3. Проблеми ПЗ маршрутизатора</b>"
+Спробуйте перезавантажити маршрутизатор або перевірити права адміністратора.
+"<b>4. Інші проблеми маршрутизатора</b>"
+Вивчіть інструкцію маршрутизатора й спробуйте скинути його налаштування до заводських.
+"<b>"5. Переконайтеся, що ваш маршрутизатор під'єднаний правильно"</b>"
+Спробуйте використати інший кабель Ethernet для під'єднання маршрутизатора або зверніться до інтернет-провайдера."</string>
+    <string name="network_sim_exception_detail">"Можливі проблеми SIM карти:
+
+ 1. Переконайтеся, що ваша SIM карта обслуговується оператором. Спробуйте використати іншу й перевірити під'єднання до мережі.
+ 2. Якщо ви використовуєте дві SIM карти, спробуйте перемкнутися на іншу й перевірити під'єднання до мережі.
+ 3. Переконайтеся, що ваша SIM-карта та SIM-слот не пошкоджені, а SIM-карта правильно вставлена в слот."</string>
+    <string name="network_speed_for_apps_close">ОК</string>
+    <string name="network_speed_for_apps_close_app_dlg_msg">Примусово закрити застосунок?</string>
+    <string name="network_speed_for_apps_close_system_app_dlg_msg">Неможливо примусово закрити системний застосунок</string>
+    <string name="network_speed_for_apps_others">Інші</string>
+    <string name="network_speed_for_apps_title">"Швидкість з'єднання"</string>
+    <string name="network_speed_for_apps_total">"Швидкість з'єднання"</string>
+    <string name="networkchanged_exception_summary">"З'єднання до інтернету змінено. Повторіть тест."</string>
+    <string name="networkchanged_exception_title">"З'єднання змінено"</string>
+    <string name="no_network_btn">Повтор</string>
+    <string name="notify_daily_limit_title_for_slotnum">Встановити денний межа для %s</string>
+    <string name="notify_daily_traffic_saving_title">Сьогодні використано: %s</string>
+    <string name="notify_setting_pkg_title_for_slotnum">Встановити місячний межа для %s</string>
+    <string name="open_now">Дозволити застосунку використати мобільний інтернет</string>
+    <string name="operator_setted_error_dialog_message">Ви використовуєте SIM карту із %1$s. Це відрізняється від місця розташування, яке встановлене вручну (%2$s). Змінити місце розташування SIM карти на %3$s?</string>
+    <string name="operator_setted_error_notify_message">Натисніть для зміни SIM</string>
+    <string name="operator_setted_error_notify_title">Помилка SIM карти</string>
+    <string name="other_exception_summary">Інтернет недоступний</string>
+    <string name="other_exception_title">Виявлення інших проблем</string>
+    <string name="pay_charge">Поповнити</string>
+    <string name="permission_exception_summary">Деякі застосунки не мають дозволу на доступ до інтернету</string>
+    <string name="permission_exception_title">Показати дозволи</string>
+    <string name="pref_roaming_daily_limit_setting">Добовий трафік у роумінгу</string>
+    <string name="pref_roaming_setting_gategory">Інтернет роумінг</string>
+    <string name="pref_title_diagnostics_dont_show_float_notification">Показувати попередження</string>
+    <string name="pref_title_diagnostics_show_float_notification">Вспливаючі сповіщення</string>
+    <string name="pref_traffic_saving_auto_add_whitelist">Стиснення для нових застосунків</string>
+    <string name="pref_traffic_saving_auto_add_whitelist_hint">Автоматично вмикати стиснення трафіку для нових застосунків</string>
+    <string name="pref_traffic_saving_compressed">Із стисненням</string>
+    <string name="pref_traffic_saving_no_compress">Без стиснення</string>
+    <string name="pref_traffic_saving_pic_compress_level">Стиснення зображень</string>
+    <string name="protocol_exception_title">Діагностика мережевих протоколів</string>
+    <string name="protocol_loop_back_exception_summary">Помилка тесту протоколів мережі. Ви можете надіслати звіт про помилку через відповідний застосунок.</string>
+    <string name="reach_daily_limit_value_body_open_traffic_saving">Натисніть для увімкнення стиснення трафіку</string>
+    <string name="renew_ip">Повтор</string>
+    <string name="repair">Виправити</string>
+    <string name="repair_loading_text">Завантаження…</string>
+    <string name="replace_dns">Ввтоматична заміна</string>
+    <string name="roaming_limit_dialog_message">Досягнуто добовий ліміт трафіку</string>
+    <string name="roaming_limit_network_notification_body">Натисніть для перегляду мереж</string>
+    <string name="roaming_limit_notification_title">Досягнуто добовий ліміт трафіку в роумінгу</string>
+    <string name="roaming_limit_warning_notification_body">Натисніть для перегляду</string>
+    <string name="root">Корінь</string>
+    <string name="search_input_txt">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="see_detail">Iнформація</string>
+    <string name="signal_exception_summary">Не вдається підключитися до інтернету в цьому регіоні</string>
+    <string name="signal_exception_title">Cигнал інтернету</string>
+    <string name="sim_state_exception_summary">SIM статус свідчить про наявність можливих пробем із SIM картою</string>
+    <string name="timeshow_h">%.1f г.</string>
+    <string name="timeshow_h_int">%d г.</string>
+    <string name="timeshow_m">%d хв.</string>
+    <string name="traffic_correction_success_notify_message">Натисніть для перегляду інформації</string>
+    <string name="traffic_saving_button_mng">Керування</string>
+    <string name="traffic_saving_can_optimized">Стиснення</string>
+    <string name="traffic_saving_need_optimize">Стиснення трафіку вимкнено</string>
+    <string name="traffic_saving_notification_button_start">Увімкнути</string>
+    <string name="traffic_saving_one_key_optimize">Увімкнути стиснення</string>
+    <string name="traffic_saving_optimized">Стиснення трафіку увімкнено</string>
+    <string name="traffic_saving_pic_compress_orig">Оригінал</string>
+    <string name="traffic_saving_ratio">Коефіцієнт стиснення: %.2f%%</string>
+    <string name="traffic_saving_ratio_low">Низький коефіцієнт стиснення</string>
+    <string name="traffic_saving_recommanded_close">Рекомендується вимкнути</string>
+    <string name="traffic_saving_recommanded_open">Рекомендується увімкнути</string>
+    <string name="traffic_saving_start_tip_context">Увімкнути стиснення трафіку?</string>
+    <string name="traffic_saving_start_tip_title">ОК</string>
+    <string name="unable_connect_internet">Не вдається підключитися до інтернету</string>
+    <string name="usbsharenet_exception_summary">Не вдалося протестувати інтернет, який передається від Mi PC Suite.</string>
+    <string name="usbsharenet_exception_title">Тест інтернету по USB</string>
+    <string name="usbsharenet_pc_exception_summary">"Не вдається під'єднатися до публічної мережі"</string>
+    <string name="wifi_exception_summary">Тест доступної мережі Wi-Fi</string>
+    <string name="wifi_exception_title">Тест Wi-Fi</string>
+    <string name="wifi_network_blocked_notification_title">Інтернет недоступний</string>
 </resources>

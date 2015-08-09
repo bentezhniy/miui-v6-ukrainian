@@ -32,4 +32,20 @@
     <string name="google_search_hint">Пошук Google</string>
     <string name="google_search_description">Пропозиції пошуку Google</string>
     <string name="voice_search_hint_title">Говоріть:</string>
+	<string name="cta_declaration">Дозволити використовувати інтернет для пошуку онлайн, а також читання контактів і записів викликів?</string>
+    <string name="cta_declaration_ignore">"Запам'ятати"</string>
+    <string name="cta_declaration_negative_text">Скасування</string>
+    <string name="cta_declaration_positive_text">ОК</string>
+    <string name="cta_declaration_title">Умови користування</string>
+    <string name="distance_unit_kilometer">км</string>
+    <string name="distance_unit_meter">м</string>
+    <string name="recently_shortcut_label">Недавні</string>
+    <string name="searchable_lable_app">Застосунки</string>
+    <string name="searchable_lable_browser">Браузер</string>
+    <string name="searchable_lable_duokan">Duokan</string>
+    <string name="searchable_lable_music">Музика</string>
+    <string name="searchable_lable_o2o">O2O</string>
+    <string name="searchable_lable_video">Відео</string>
+    <string name="searchable_sources">Ресурси пошуку</string>
+    <string name="xiaomi_search_label">Результати онлайн</string>
 </resources>

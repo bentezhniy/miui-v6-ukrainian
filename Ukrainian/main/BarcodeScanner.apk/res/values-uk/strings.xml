@@ -79,4 +79,5 @@
     <string name="not_tips">"Запам'ятати"</string>
     <string name="settings">Налаштування</string>
     <string name="not_insert_contact">Не додавати контакт</string>
+	<string name="continue_to_website">Відкрити сайт</string>
 </resources>

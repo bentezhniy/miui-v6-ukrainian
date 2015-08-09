@@ -329,4 +329,9 @@
     <string name="sync_notice_ok">Синхронізувати</string>
     <string name="sync_notice_ok_toast_message">Локальний Календар буде синхронізуватися з Mi Cloud</string>
     <string name="sync_notice_cancel_toast_message">"Локальний Календар не буде синхронізуватися з Mi Cloud"</string>
+	<string name="add_topic_unsuccess">Не вдалось підписатись на \"%s\"</string>
+    <string name="birthday_notification_text_three_days_later_with_activity">Готуйтеся до дня народження</string>
+    <string name="event_info_reminders_label_1">Нагадування</string>
+    <string name="event_info_reminders_label_more">Нагадування %d</string>
+    <string name="select_date">Виберіть дату</string>
 </resources>

@@ -48,4 +48,84 @@
         <item quantity="few">Вибрано: %1$d</item>
         <item quantity="many">Вибрано: %1$d</item>
     </plurals>
+	<plurals name="days_ago">
+       <item quantity="other">%1$d дн. тому</item>
+       <item quantity="zero">%1$d дн. тому</item>
+       <item quantity="one">%1$d дн. тому</item>
+       <item quantity="two">%1$d дн. тому</item>
+       <item quantity="few">%1$d дн. тому</item>
+       <item quantity="many">%1$d дн. тому</item>
+    </plurals>
+    <plurals name="file_notify_title">
+       <item quantity="other">Додаток %2$s (файлів: %1$d)</item>
+       <item quantity="zero">Додаток %2$s (файлів: %1$d)</item>
+       <item quantity="one">Додаток %2$s (файлів: %1$d)</item>
+       <item quantity="two">Додаток %2$s (файлів: %1$d)</item>
+       <item quantity="few">Додаток %2$s (файлів: %1$d)</item>
+       <item quantity="many">Додаток %2$s (файлів: %1$d)</item>
+    </plurals>
+    <plurals name="found_new_files">
+       <item quantity="other">Знайдено нових файлів: %1$d</item>
+       <item quantity="zero">Знайдено нових файлів: %1$d</item>
+       <item quantity="one">Знайдено нових файлів: %1$d</item>
+       <item quantity="two">Знайдено нових файлів: %1$d</item>
+       <item quantity="few">Знайдено нових файлів: %1$d</item>
+       <item quantity="many">Знайдено нових файлів: %1$d</item>
+    </plurals>
+    <plurals name="hours_ago">
+       <item quantity="other">%1$d г. тому</item>
+       <item quantity="zero">%1$d г. тому</item>
+       <item quantity="one">%1$d г. тому</item>
+       <item quantity="two">%1$d г. тому</item>
+       <item quantity="few">%1$d г. тому</item>
+       <item quantity="many">%1$d г. тому</item>
+    </plurals>
+    <plurals name="items_file">
+       <item quantity="other"> (файлів: %1$d)</item>
+       <item quantity="zero"> (файлів: %1$d)</item>
+       <item quantity="one"> (файлів: %1$d)</item>
+       <item quantity="two"> (файлів: %1$d)</item>
+       <item quantity="few"> (файлів: %1$d)</item>
+       <item quantity="many"> (файлів: %1$d)</item>
+    </plurals>
+    <plurals name="items_picture">
+       <item quantity="other"> (файлів: %1$d)</item>
+       <item quantity="zero"> (файлів: %1$d)</item>
+       <item quantity="one"> (файлів: %1$d)</item>
+       <item quantity="two"> (файлів: %1$d)</item>
+       <item quantity="few"> (файлів: %1$d)</item>
+       <item quantity="many"> (файлів: %1$d)</item>
+    </plurals>
+    <plurals name="mins_ago">
+       <item quantity="other">%1$d хв. тому</item>
+       <item quantity="zero">%1$d хв. тому</item>
+       <item quantity="one">%1$d хв. тому</item>
+       <item quantity="two">%1$d хв. тому</item>
+       <item quantity="few">%1$d хв. тому</item>
+       <item quantity="many">%1$d хв. тому</item>
+    </plurals>
+    <plurals name="search_head_hint_app">
+       <item quantity="other">Пошук в додатках за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="zero">Пошук в додатках за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="one">Пошук в додатках за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="two">Пошук в додатках за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="few">Пошук в додатках за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="many">Пошук в додатках за запитом \"%1$s\" (елементів: %2$d)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+       <item quantity="other">Файли за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="zero">Файли за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="one">Файли за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="two">Файли за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="few">Файли за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="many">Файли за запитом \"%1$s\" (елементів: %2$d)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+       <item quantity="other">Теги за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="zero">Теги за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="one">Теги за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="two">Теги за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="few">Теги за запитом \"%1$s\" (елементів: %2$d)</item>
+       <item quantity="many">Теги за запитом \"%1$s\" (елементів: %2$d)</item>
+    </plurals>
 </resources>

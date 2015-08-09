@@ -48,4 +48,16 @@
         <item quantity="other">%d хв.</item>
         <item quantity="one">1 хв.</item>
     </plurals>
+	    <plurals name="timer_message_hour">
+       <item quantity="other">"%1$d г. "</item>
+       <item quantity="one">"%1$d г. "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+       <item quantity="other">"%1$d хв. "</item>
+       <item quantity="one">"%1$d хв. "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+       <item quantity="other">%1$d сек.</item>
+       <item quantity="one">%1$d сек.</item>
+    </plurals>
 </resources>

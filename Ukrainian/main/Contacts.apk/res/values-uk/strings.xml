@@ -234,13 +234,13 @@
     <string name="menu_new_group_action_bar">Нова група</string>
     <string name="splitConfirmation_title">Поділ контакту</string>
     <string name="splitConfirmation">Ви бажаєте розділити контакт?</string>
-    <string name="menu_joinAggregate">Обєднати</string>
-    <string name="titleJoinContactDataWith">Обєднати контакти</string>
-    <string name="blurbJoinContactDataWith">Виберіть контакт, який прагнете обєднати з \"%s\":</string>
+    <string name="menu_joinAggregate">"Об'єднати"</string>
+    <string name="titleJoinContactDataWith">"Об'єднати контакти"</string>
+    <string name="blurbJoinContactDataWith">"Виберіть контакт, який прагнете об'єднати з \"%s\":"</string>
     <string name="showAllContactsJoinItem">Показати всі контакти</string>
     <string name="separatorJoinAggregateSuggestions">Пропоновані контакти</string>
     <string name="separatorJoinAggregateAll">Всі контакти</string>
-    <string name="contactsJoinedMessage">Контакти обєднані</string>
+    <string name="contactsJoinedMessage">"Контакти об'єднані"</string>
     <string name="menu_set_ring_tone">Мелодія контакту</string>
     <string name="menu_redirect_calls_to_vm">Вимкнути голосову пошту</string>
     <string name="menu_not_redirect_calls_to_vm">Увімкнути голосову пошту</string>
@@ -838,7 +838,7 @@
     <string name="loading_group_members">Завантаження контактів…</string>
     <string name="loading_recent">Завантаження останніх контактів…</string>
     <string name="contactMultiPickerActivityTitle">Вибрати контакти</string>
-    <string name="picker_join_title">Обєднання з \"%s\"</string>
+    <string name="picker_join_title">"Об'єднання з \"%s\""</string>
     <string name="picker_contact_title">Виберіть контакт</string>
     <string name="picker_number_title">Виберіть номер</string>
     <string name="group_add_fail_toast">Помилка додавання контаков</string>
@@ -849,14 +849,14 @@
     <string name="preference_others">Інше</string>
     <string name="wipe_data">Очистити дані</string>
     <string name="display_only_phones">Тільки з номером телефону</string>
-    <string name="preference_remove_duplicate">Обєднання дублікатів</string>
+    <string name="preference_remove_duplicate">"Об'єднання дублікатів"</string>
     <string name="scan_merge">Пошук можливих дублікатів контактів…</string>
     <string name="scan_duplicate_message">Контакти з повним дублюванням даних (%1$d)</string>
     <string name="merge_contact_message">Контактів, що дублюються: %1$d</string>
-    <string name="delete_duplicate">Обєднати</string>
-    <string name="delete_duplicate_message">Обєднання контактів…</string>
+    <string name="delete_duplicate">"Об'єднати"</string>
+    <string name="delete_duplicate_message">"Об'єднання контактів…"</string>
     <string name="label_no_duplicate_contacts">На даний момент немає дублікатів контактів</string>
-    <string name="quit_dialog_confirm_title">Вийти з режиму обєднання?</string>
+    <string name="quit_dialog_confirm_title">"Вийти з режиму об'єднання?"</string>
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">Імпорт і експорт</string>
     <string name="preference_import_export_title">Імпорт і експорт</string>
@@ -881,9 +881,9 @@
     <string name="pref_key_photo">Фото</string>
     <string name="pref_key_photo_word_title">Іконка контакту без фото</string>
     <string name="pref_key_photo_word_summary">Створення іконки для контактів без фото</string>
-    <string name="remove_duplicate">"Система допоможе знайти дублікати контактів і обєднати їх.
+    <string name="remove_duplicate">"Система допоможе знайти дублікати контактів і об'єднати їх.
 
-натисніть кнопку \"Обєднати\", щоб продовжити"</string>
+натисніть кнопку \"Об'єднати\", щоб продовжити"</string>
     <string name="ic_menu_back">Назад</string>
     <string name="preference_display">Відображення</string>
     <string name="preference_simple_mode_title">Простий режим</string>
@@ -1250,4 +1250,17 @@
     <string name="yellowpage_navigation_search_history">Історія</string>
     <string name="preference_contacts_recovery_introduction">Відновлення контактів</string>
 	<string name="cloud_recommend_msg">Натисніть для синхронізації з Mi Cloud</string>
+	<string name="add_blacklist_dialog_title">Заблокувати цей номер?</string>
+    <string name="blacklist">Блокувати</string>
+    <string name="deleting_sim_entry_miui_prepare">Підготовка до видалення…</string>
+    <string name="export_sim_contact_finish_msg">Передано: %1$d | Пропущено: %2$d | Залишилось: %3$d</string>
+    <string name="followed_yellowpage">Відстежувані сервіси</string>
+    <string name="group_sms_error_message">Перевищено межу отримувачів: %s</string>
+    <string name="importing_sim_contacts_miui_prepare">Підготовка до імпортування…</string>
+    <string name="listFoundallContactsZero">Немає контактів</string>
+    <string name="loading_accounts">Завантаження інформації про SIM карту…</string>
+    <string name="remove_blacklist_dialog_title">Разблокувати ці номери?</string>
+    <string name="returncall">Зворотний виклик</string>
+    <string name="unknow_phone_number_call_failed">Не вдається викликати невідомий номер</string>
+    <string name="unknow_phone_number_mms_failed">Не вдається відправити SMS на невідомий номер</string>
 </resources>

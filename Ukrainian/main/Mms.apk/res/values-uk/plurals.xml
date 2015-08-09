@@ -25,4 +25,13 @@
         <item quantity="other">Повідомлень: %1$s</item>
         <item quantity="one">Повідомлень: %1$s</item>
     </plurals>
+	<plurals name="cloud_sms_count">
+       <item quantity="other">Повідомлень: %d</item>
+       <item quantity="zero">Повідомлень: %d</item>
+       <item quantity="one">Повідомлень: %d</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+       <item quantity="other">Повідомлень не синхронізовано: %d</item>
+       <item quantity="one">Повідомлень не синхронізовано: %d</item>
+    </plurals>
 </resources>

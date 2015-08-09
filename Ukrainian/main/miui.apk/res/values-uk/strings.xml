@@ -233,4 +233,6 @@
     <string name="label">MIUI SDK</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="permdesc_sendSmsNoConfirmation">Дозволяє застосунку відправляти SMS повідомлення. Шкідливі можуть використовувати цей дозвіл для відправлення повідомлень на платні номери.</string>
+	<string name="web_sso_login_fail">Необхідно авторизуватися повторно</string>
+    <string name="web_sso_login_message">Авторизація…</string>
 </resources>

@@ -570,4 +570,12 @@
     <string name="pref_scan_qrcode_entry_on">Ввімкнено</string>
     <string name="pref_video_slow_speed_title_simple_mode">Швидкий рух</string>
     <string name="spaceislow_content">"Пам'ять заповнена"</string>
+	<string name="confirm_recording_fail_calling_alert">Неможливо почати запис під час виклику</string>
+    <string name="confirm_recording_fail_recorder_busy_alert">Можливо, інші застосунки використовують мікрофон.</string>
+    <string name="confirm_recording_fail_title">Помилка запису</string>
+    <string name="pref_camera_gradienter_title">Градіометр</string>
+    <string name="pref_camera_peak_entry_off">Вимкнений</string>
+    <string name="pref_camera_peak_entry_on">Увімкнений</string>
+    <string name="pref_camera_peak_title">Відображення фокуса</string>
+    <string name="simple_mode_button_text_gradienter">Вимкнути градіометр</string>
 </resources>

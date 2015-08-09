@@ -43,4 +43,9 @@
     <string name="using_camera_confirm_ok">ОК</string>
     <string name="using_camera_confirm_cancel">Скасувати</string>
     <string name="shake_enter_tip">Струсніть для калібрування</string>
+	<string name="calibrate_rotate_again">Повтор</string>
+    <string name="calibrate_tip">Нахиляйте пристрій, аби кулька ковзала по колу.</string>
+    <string name="calibrate_title">Калібрування компасу</string>
+    <string name="first_using_dialog_message">Дозволити застосунку використовувати інтернет, камеру та пошук місцезнаходження для коректної роботи?</string>
+    <string name="first_using_dialog_title">Попередженя</string>
 </resources>

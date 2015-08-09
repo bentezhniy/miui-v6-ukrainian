@@ -64,4 +64,16 @@
         <item quantity="zero">Файлів: %1$d</item>
         <item quantity="one">Файлів: %1$d</item>
     </plurals>
+	<plurals name="confirm_delete_album">
+       <item quantity="other">Видалити альбоми: %1$s (всього: %2$s)?</item>
+       <item quantity="one">Видалити альбоми: %1$s (всього: %2$s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+       <item quantity="other">" &lt;Data> Видалити &amp;amp;lt;xliff:g id=ITEM>%1$d відео&amp;amp;lt;/xliff:g> із альбомів (%2$d)?&lt;/Data> "</item>
+       <item quantity="one">" &lt;Data> Видалити &amp;amp;lt;xliff:g id=ITEM>%1$d відео&amp;amp;lt;/xliff:g> із альбомів (%2$d)?&lt;/Data> "</item>
+    </plurals>
+    <plurals name="more_face">
+       <item quantity="other">Нові обличчя (%1$s) можуть також стосуватись к %2$s >></item>
+       <item quantity="one">Нові обличчя (%1$s) можуть також стосуватись к %2$s >></item>
+    </plurals>
 </resources>
